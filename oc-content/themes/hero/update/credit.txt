@@ -1,0 +1,27 @@
+================  HERO OCLASS THEMES  ======================
+
+Theme Name: Hero
+Theme URI: http://osclass.me/
+Description: Hero Responsive Osclass Themes
+Author: OsclassDotMe
+Author URI: http://osclass.me/
+Designer: Ari Budin
+License: Single License
+Widgets:  header, footer
+
+================ Special Thanks For All =====================
+- Osclass.ORG
+- Bootstrap
+- Font Awesome
+- Google Font
+- Bootsnipp
+- Animate css
+- Owl Carousel
+- JsColor
+- tuxedo menu
+- bootflat
+- bedagaya inc
+- Metis menu
+- All Images source
+- And for all 
+================ ##################### ======================

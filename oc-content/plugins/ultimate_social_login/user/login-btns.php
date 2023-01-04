@@ -1,0 +1,51 @@
+<?php defined('ABS_PATH') or die('Access denied'); ?>
+<style type="text/css">
+.usl-buttons {
+    margin: 15px auto;
+    font-size: 0.85em;
+	text-align: center;
+}
+.usl-buttons a:first-child {
+    margin-left: 5px;
+}
+.usl-buttons a {
+    margin: 0 2px;
+	display: inline-block;
+}
+.usl-buttons a img {
+    width: 40px;
+    vertical-align: baseline;
+}
+.g-signin2 {
+    width: 40px;
+    height: 40px;
+    background-image: url('data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiA/PjwhRE9DVFlQRSBzdmcgIFBVQkxJQyAnLS8vVzNDLy9EVEQgU1ZHIDEuMS8vRU4nICAnaHR0cDovL3d3dy53My5vcmcvR3JhcGhpY3MvU1ZHLzEuMS9EVEQvc3ZnMTEuZHRkJz48c3ZnIGlkPSJDYXBhXzEiIHN0eWxlPSJlbmFibGUtYmFja2dyb3VuZDpuZXcgMCAwIDExMi4xOTYgMTEyLjE5NjsiIHZlcnNpb249IjEuMSIgdmlld0JveD0iMCAwIDExMi4xOTYgMTEyLjE5NiIgeG1sOnNwYWNlPSJwcmVzZXJ2ZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayI+PGc+PGc+PGNpcmNsZSBjeD0iNTYuMDk4IiBjeT0iNTYuMDk3IiBpZD0iWE1MSURfMzBfIiByPSI1Ni4wOTgiIHN0eWxlPSJmaWxsOiNEQzRFNDE7Ii8+PC9nPjxnPjxwYXRoIGQ9Ik0xOS41MzEsNTguNjA4Yy0wLjE5OSw5LjY1Miw2LjQ0OSwxOC44NjMsMTUuNTk0LDIxLjg2N2M4LjYxNCwyLjg5NCwxOS4yMDUsMC43MjksMjQuOTM3LTYuNjQ4ICAgIGM0LjE4NS01LjE2OSw1LjEzNi0xMi4wNiw0LjY4My0xOC40OThjLTcuMzc3LTAuMDY2LTE0Ljc1NC0wLjA0NC0yMi4xMi0wLjAzM2MtMC4wMTIsMi42MjgsMCw1LjI0NiwwLjAxMSw3Ljg3NCAgICBjNC40MTcsMC4xMjIsOC44MzUsMC4wNjYsMTMuMjUyLDAuMTU1Yy0xLjExNSwzLjgyMS0zLjY1NSw3LjM3Ny03LjUxLDguNzU3Yy03LjQ0MywzLjI4LTE2Ljk0LTEuMDA1LTE5LjI4Mi04LjgxMyAgICBjLTIuODI3LTcuNDc3LDEuODAxLTE2LjUsOS40NDItMTguNjc1YzQuNzM4LTEuNjY3LDkuNjE5LDAuMjEsMTMuNjczLDIuNjczYzIuMDU0LTEuOTIyLDMuOTc2LTMuOTc2LDUuODY0LTYuMDUyICAgIGMtNC42MDYtMy44NTQtMTAuNTI1LTYuMjE3LTE2LjYxLTUuNjk4QzI5LjUyNiwzNS42NTksMTkuMDc4LDQ2LjY4MSwxOS41MzEsNTguNjA4eiIgc3R5bGU9ImZpbGw6I0RDNEU0MTsiLz48cGF0aCBkPSJNNzkuMTAyLDQ4LjY2OGMtMC4wMjIsMi4xOTgtMC4wNDUsNC40MDctMC4wNTYsNi42MDRjLTIuMjA5LDAuMDIyLTQuNDA2LDAuMDMzLTYuNjA0LDAuMDQ0ICAgIGMwLDIuMTk4LDAsNC4zODQsMCw2LjU4MmMyLjE5OCwwLjAxMSw0LjQwNywwLjAyMiw2LjYwNCwwLjA0NWMwLjAyMiwyLjE5OCwwLjAyMiw0LjM5NSwwLjA0NCw2LjYwNGMyLjE4NywwLDQuMzg1LTAuMDExLDYuNTgyLDAgICAgYzAuMDEyLTIuMjA5LDAuMDIyLTQuNDA2LDAuMDQ1LTYuNjE1YzIuMTk3LTAuMDExLDQuNDA2LTAuMDIyLDYuNjA0LTAuMDMzYzAtMi4xOTgsMC00LjM4NCwwLTYuNTgyICAgIGMtMi4xOTctMC4wMTEtNC40MDYtMC4wMjItNi42MDQtMC4wNDRjLTAuMDEyLTIuMTk4LTAuMDMzLTQuNDA3LTAuMDQ1LTYuNjA0QzgzLjQ3NSw0OC42NjgsODEuMjg4LDQ4LjY2OCw3OS4xMDIsNDguNjY4eiIgc3R5bGU9ImZpbGw6I0RDNEU0MTsiLz48Zz48cGF0aCBkPSJNMTkuNTMxLDU4LjYwOGMtMC40NTMtMTEuOTI3LDkuOTk0LTIyLjk0OSwyMS45MzMtMjMuMDkyYzYuMDg1LTAuNTE5LDEyLjAwNSwxLjg0NCwxNi42MSw1LjY5OCAgICAgYy0xLjg4OSwyLjA3Ny0zLjgxMSw0LjEzLTUuODY0LDYuMDUyYy00LjA1NC0yLjQ2My04LjkzNS00LjM0LTEzLjY3My0yLjY3M2MtNy42NDIsMi4xNzYtMTIuMjcsMTEuMTk5LTkuNDQyLDE4LjY3NSAgICAgYzIuMzQyLDcuODA4LDExLjgzOSwxMi4wOTMsMTkuMjgyLDguODEzYzMuODU0LTEuMzgsNi4zOTUtNC45MzYsNy41MS04Ljc1N2MtNC40MTctMC4wODgtOC44MzUtMC4wMzMtMTMuMjUyLTAuMTU1ICAgICBjLTAuMDExLTIuNjI4LTAuMDIyLTUuMjQ2LTAuMDExLTcuODc0YzcuMzY2LTAuMDExLDE0Ljc0My0wLjAzMywyMi4xMiwwLjAzM2MwLjQ1Myw2LjQzOS0wLjQ5NywxMy4zMy00LjY4MywxOC40OTggICAgIGMtNS43MzIsNy4zNzctMTYuMzIyLDkuNTQyLTI0LjkzNyw2LjY0OEMyNS45ODEsNzcuNDcxLDE5LjMzMiw2OC4yNiwxOS41MzEsNTguNjA4eiIgc3R5bGU9ImZpbGw6I0ZGRkZGRjsiLz48cGF0aCBkPSJNNzkuMTAyLDQ4LjY2OGMyLjE4NywwLDQuMzczLDAsNi41NywwYzAuMDEyLDIuMTk4LDAuMDMzLDQuNDA3LDAuMDQ1LDYuNjA0ICAgICBjMi4xOTcsMC4wMjIsNC40MDYsMC4wMzMsNi42MDQsMC4wNDRjMCwyLjE5OCwwLDQuMzg0LDAsNi41ODJjLTIuMTk3LDAuMDExLTQuNDA2LDAuMDIyLTYuNjA0LDAuMDMzICAgICBjLTAuMDIyLDIuMjA5LTAuMDMzLDQuNDA2LTAuMDQ1LDYuNjE1Yy0yLjE5Ny0wLjAxMS00LjM5NiwwLTYuNTgyLDBjLTAuMDIxLTIuMjA5LTAuMDIxLTQuNDA2LTAuMDQ0LTYuNjA0ICAgICBjLTIuMTk3LTAuMDIzLTQuNDA2LTAuMDMzLTYuNjA0LTAuMDQ1YzAtMi4xOTgsMC00LjM4NCwwLTYuNTgyYzIuMTk4LTAuMDExLDQuMzk2LTAuMDIyLDYuNjA0LTAuMDQ0ICAgICBDNzkuMDU3LDUzLjA3NSw3OS4wNzksNTAuODY2LDc5LjEwMiw0OC42Njh6IiBzdHlsZT0iZmlsbDojRkZGRkZGOyIvPjwvZz48L2c+PC9nPjxnLz48Zy8+PGcvPjxnLz48Zy8+PGcvPjxnLz48Zy8+PGcvPjxnLz48Zy8+PGcvPjxnLz48Zy8+PGcvPjwvc3ZnPg==');
+}
+.g-signin2 .abcRioButton {
+    width: 40px !important;
+    height: 40px !important;
+    opacity: 0;
+}
+</style>
+
+<script>
+function google_signin(user) {
+    var profile = user.getBasicProfile(),
+        full_name = profile.getName(),
+        email = profile.getEmail(),
+        url = '/index.php?page=ajax&action=custom&ajaxfile=ultimate_social_login/ajax.php';
+    
+    $.ajax({
+        url: url,
+        type: 'POST',
+        data: {'do' : 'google-auth', 'email' : email, 'name' : full_name},
+        error: function(){},
+        success: function(data){
+            location.href = '<?php echo osc_base_url(); ?>';
+        }
+    });
+
+    var is_auth = gapi.auth2.getAuthInstance();
+    is_auth.signOut();
+}
+</script>

@@ -1,0 +1,1420 @@
+# Translation of OsclassDotMe in English
+# This file is distributed under the same license as the OsclassDotMe package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2017-06-23 07:24+0700\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Poedit 2.0.1\n"
+"Project-Id-Version: OsclassDotMe\n"
+"POT-Creation-Date: \n"
+"Language-Team: osclass me <cs@osclass.me>\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"Last-Translator: \n"
+"Language: ms_MY\n"
+
+msgid "New pasword"
+msgstr "Kata laluan  baru"
+
+msgid "Repeat new pasword"
+msgstr "Ulangi kata laluan  baru"
+
+msgid "Page not found"
+msgstr "Laman tidak dijumpai"
+
+msgid "You have sucessfully subscribed to the alert"
+msgstr "Anda telah berjaya melanggan notifikasi"
+
+msgid "Invalid email address"
+msgstr "Alamat e-mel tidak sah"
+
+msgid "There was a problem with the alert"
+msgstr "Ada masalah dengan notifikasi"
+
+msgid "Subscribe to this search"
+msgstr "Langgan ke carian ini"
+
+msgid "Subscribe now"
+msgstr "Langgan sekarang"
+
+msgid "Contact us"
+msgstr "Hubungi kami"
+
+msgid "Subject"
+msgstr "Subjek"
+
+msgid "optional"
+msgstr "pilihan"
+
+msgid "Message"
+msgstr "Mesej"
+
+msgid "Your name"
+msgstr "Nama anda"
+
+msgid "Your e-mail address"
+msgstr "Alamat e-mel"
+
+msgid "Send"
+msgstr "Hantar"
+
+msgid "Contact"
+msgstr "Hubungi"
+
+msgid "Your search must be at least three characters long"
+msgstr "Carian anda mestilah sekurang-kurangnya tiga aksara panjangnya"
+
+msgid "Theme settings updated correctly"
+msgstr "Tetapan tema telah dikemas kini dengan betul"
+
+msgid "The logo image has been uploaded correctly"
+msgstr "Gambar logo telah dimuat naik dengan betul"
+
+msgid "An error has occurred, please try again"
+msgstr "Ralat telah berlaku, sila cuba lagi"
+
+msgid "The logo image has been removed"
+msgstr "Gambar logo telah dipadamkan"
+
+msgid "Image not found"
+msgstr "Imej tidak dijumpai"
+
+msgid "Header logo"
+msgstr "Logo header"
+
+msgid "Theme settings"
+msgstr "Tetapan tema"
+
+msgid "ie. PHP Programmer"
+msgstr "cth. PHP Programmer"
+
+msgid "No file selected"
+msgstr "Tiada fail terpilih"
+
+msgid "Choose File"
+msgstr "Pilih fail"
+
+msgid "Hi %s"
+msgstr "Hi %s"
+
+msgid "My account"
+msgstr "Akaun Saya"
+
+msgid "Logout"
+msgstr "Log keluar"
+
+msgid "Login"
+msgstr "Log Masuk"
+
+msgid "Register for a free account"
+msgstr "Daftar akaun percuma"
+
+msgid "E-mail"
+msgstr "E-mel"
+
+msgid "Password"
+msgstr "Kata laluan"
+
+msgid "Remember me"
+msgstr "Ingat log masuk"
+
+msgid "Log in"
+msgstr "Log masuk"
+
+msgid "Forgot password?"
+msgstr "Lupa kata laluan anda?"
+
+msgid "Language"
+msgstr "Bahasa"
+
+msgid "Publish your ad for free"
+msgstr "Hantar iklan percuma anda"
+
+msgid "Select a category"
+msgstr "Pilih kategori"
+
+msgid "Search"
+msgstr "Cari"
+
+msgid "Contact seller"
+msgstr "Hubungi Penjual"
+
+msgid ""
+"You must log in or register a new account in order to contact the advertiser"
+msgstr ""
+"Anda mesti log masuk atau daftar akaun baru untuk menghubungi pengiklan"
+
+msgid "To (seller)"
+msgstr "Kepada (penjual)"
+
+msgid "Listing"
+msgstr "Senarai"
+
+msgid "Phone number"
+msgstr "Nombor telefon"
+
+msgid "Send message"
+msgstr "Hantar mesej"
+
+msgid "Update your listing"
+msgstr "Kemaskini Terakhir senarai anda"
+
+msgid "General Information"
+msgstr "Maklumat Umum"
+
+msgid "Category"
+msgstr "Kategori"
+
+msgid "Price"
+msgstr "Harga"
+
+msgid "Photos"
+msgstr "Foto"
+
+msgid "Add new photo"
+msgstr "Tambah gambar baru"
+
+msgid "Location"
+msgstr "Lokasi"
+
+msgid "Country"
+msgstr "Negara"
+
+msgid "Region"
+msgstr "Wilayah"
+
+msgid "City"
+msgstr "Bandar"
+
+msgid "City area"
+msgstr "Kawasan bandar"
+
+msgid "Address"
+msgstr "Alamat"
+
+msgid "Update"
+msgstr "Kemas kini"
+
+msgid "Cancel"
+msgstr "Batal"
+
+msgid "Publish a listing"
+msgstr "Terbitkan penyenaraian"
+
+msgid "Listing Location"
+msgstr "Lokasi penyenaraian"
+
+msgid "City Area"
+msgstr "Kawasan bandar"
+
+msgid "Seller's information"
+msgstr "Maklumat Pengiklan"
+
+msgid "Name"
+msgstr "Nama"
+
+msgid "Show e-mail on the listing page"
+msgstr "Menunjukkan e-mel pada halaman penyenaraian"
+
+msgid "Publish"
+msgstr "Terbitkan"
+
+msgid "Send to a friend"
+msgstr "Hantar kepada kawan"
+
+msgid "Your friend's name"
+msgstr "Nama kawan anda"
+
+msgid "Your friend's e-mail address"
+msgstr "Alamat email kawan anda"
+
+msgid "Mark as"
+msgstr "Tanda sebagai"
+
+msgid "spam"
+msgstr "spam"
+
+msgid "misclassified"
+msgstr "silap dikelaskan"
+
+msgid "duplicated"
+msgstr "disalin"
+
+msgid "expired"
+msgstr "tamat tempoh"
+
+msgid "offensive"
+msgstr "menyakitkan hati"
+
+msgid "Published date"
+msgstr "Tarikh diterbitkan"
+
+msgid "Modified date"
+msgstr "Tarikh diubahsuai"
+
+msgid "Share"
+msgstr "Kongsi"
+
+msgid "Useful information"
+msgstr "Maklumat Berguna"
+
+msgid "Avoid scams by acting locally or paying with PayPal"
+msgstr "Elakkan penipuan dengan bertindak dalam atau membayar dengan PayPal"
+
+msgid ""
+"Never pay with Western Union, Moneygram or other anonymous payment services"
+msgstr ""
+"Jangan sekali-kali membayar dengan Western Union, MoneyGram atau lain-lain "
+"perkhidmatan pembayaran tanpa nama"
+
+msgid ""
+"Don't buy or sell outside of your country. Don't accept cashier cheques from "
+"outside your country"
+msgstr ""
+"Jangan membeli atau menjual di luar negara anda. Jangan menerima cek "
+"juruwang dari luar negara anda"
+
+msgid ""
+"This site is never involved in any transaction, and does not handle "
+"payments, shipping, guarantee transactions, provide escrow services, or "
+"offer \"buyer protection\" or \"seller certification\""
+msgstr ""
+"Laman web ini adalah tidak pernah terlibat dalam mana-mana urus niaga, dan "
+"tidak mengendalikan pembayaran, penghantaran, transaksi jaminan, menyediakan "
+"perkhidmatan escrow, atau menawarkan \"perlindungan pembeli\" atau \"penjual "
+"pensijilan\""
+
+msgid "Comments"
+msgstr "Komen"
+
+msgid "by"
+msgstr "oleh"
+
+msgid "Delete your comment"
+msgstr "Padam komen anda"
+
+msgid "Delete"
+msgstr "Padam"
+
+msgid "Leave your comment (spam and offensive messages will be removed)"
+msgstr "Tinggalkan komen anda (spam dan mesej kesat akah dialih keluar)"
+
+msgid "Leave your comment"
+msgstr "Tinggalkan komen anda"
+
+msgid "Your e-mail"
+msgstr "E-mel anda"
+
+msgid "Title"
+msgstr "Tajuk"
+
+msgid "Comment"
+msgstr "Komen"
+
+msgid "Image"
+msgstr "Imej"
+
+msgid "Contact publisher"
+msgstr "Hubungi penerbit"
+
+msgid "Tel"
+msgstr "Tel"
+
+msgid "Enter the words above"
+msgstr "Masukkan perkataan di atas"
+
+msgid "Help"
+msgstr "Bantuan"
+
+msgid "Latest Listings"
+msgstr "Senarai Iklan Terkini"
+
+msgid "No Latest Listings"
+msgstr "Tiada Senarai Iklan Terkini"
+
+msgid "See all offers"
+msgstr "Papar semua iklan"
+
+msgid "Sort by"
+msgstr "Susun mengikut"
+
+msgid "There are no results matching \"%s\""
+msgstr "Tiada keputusan yang hampir sama \"%s\""
+
+msgid "Your search"
+msgstr "Cari"
+
+msgid "Show only"
+msgstr "Menunjukkan hanya"
+
+msgid "Show only listings with pictures"
+msgstr "Menunjukkan senarai hanya dengan gambar"
+
+msgid "Min"
+msgstr "Min"
+
+msgid "Max"
+msgstr "Maks"
+
+msgid "Apply"
+msgstr "Mengaplikasikan"
+
+msgid "Selected"
+msgstr "Dipilih"
+
+msgid "Nothing selected, input was"
+msgstr "Tidak ada  yang dipilih, input"
+
+msgid "User account manager"
+msgstr "Pengurusan akaun pengguna"
+
+msgid "Your alerts"
+msgstr "Notifikasi anda"
+
+msgid "You do not have any alerts yet"
+msgstr "Anda tidak mempunyai apa-apa notifikasi lagi"
+
+msgid "Alert"
+msgstr "Notifikasi"
+
+msgid "This action can't be undone. Are you sure you want to continue?"
+msgstr ""
+"Tindakan ini tidak boleh diubah lagi. Adakah anda pasti untuk teruskan?"
+
+msgid "Delete this alert"
+msgstr "Padam notifikasi ini"
+
+msgid "Publication date"
+msgstr "Tarikh penerbitan"
+
+msgid "Listings"
+msgstr "Senarai iklan"
+
+msgid "Change your e-mail"
+msgstr "Tukar email anda"
+
+msgid "Current e-mail"
+msgstr "Email semasa"
+
+msgid "New e-mail"
+msgstr "E-mel baru"
+
+msgid "Change your password"
+msgstr "Tukar kata laluan anda"
+
+msgid "Current password"
+msgstr "Kata laluan sekarang"
+
+msgid "New password"
+msgstr "Kata laluan baharu"
+
+msgid "Repeat new password"
+msgstr "Ulang Kata Laluan Baharu"
+
+msgid "Listings from %s"
+msgstr "Senarai daripada %s"
+
+msgid "No listings have been added yet"
+msgstr "Tiada iklan yang ditambah lagi"
+
+msgid "View listing"
+msgstr "Lihat senarai"
+
+msgid "Edit"
+msgstr "Edit"
+
+msgid "Activate"
+msgstr "Aktifkan"
+
+msgid "Recover your password"
+msgstr "Dapatkan semula kata laluan anda"
+
+msgid "Change password"
+msgstr "Tukar kata laluan"
+
+msgid "Your listings"
+msgstr "Iklan anda"
+
+msgid "Post a new listing"
+msgstr "Hantar Penyenaraian baru"
+
+msgid "You don't have any listings yet"
+msgstr "Anda tidak mempunyai senarai mana-mana lagi"
+
+msgid "This action can not be undone. Are you sure you want to continue?"
+msgstr ""
+"Tindakan ini tidak boleh diubah lagi. Adakah anda pasti untuk teruskan?"
+
+msgid "Access to your account"
+msgstr "Akses ke akaun anda"
+
+msgid "Update your profile"
+msgstr "Kemas kini profil anda"
+
+msgid "Modify e-mail"
+msgstr "Ubah suai e-mel"
+
+msgid "Modify password"
+msgstr "Mengubah kata laluan"
+
+msgid "User type"
+msgstr "Jenis pengguna"
+
+msgid "Cell phone"
+msgstr "Telefon bimbit"
+
+msgid "Phone"
+msgstr "Telefon"
+
+msgid "Website"
+msgstr "Laman Web"
+
+msgid "%s's profile"
+msgstr "profil di %s"
+
+msgid "Profile"
+msgstr "Profil"
+
+msgid "Full name"
+msgstr "Nama Penuh"
+
+msgid "User Description"
+msgstr "Penerangan Pengguna"
+
+msgid "Latest listings"
+msgstr "Senarai iklan terkini"
+
+msgid "Send me a new password"
+msgstr "Hantar kata laluan baru"
+
+msgid "Register an account for free"
+msgstr "Mendaftar akaun percuma"
+
+msgid "Re-type password"
+msgstr "Taip semula kata laluan"
+
+msgid "Passwords don't match"
+msgstr "Kata laluan tidak sepadan"
+
+msgid "Create"
+msgstr "Membina"
+
+msgid "Preview"
+msgstr "Pratonton"
+
+msgid "View more..."
+msgstr "Saksikan lebih banyak..."
+
+msgid "Remove logo"
+msgstr "Padam logo"
+
+msgid "Upload logo"
+msgstr "Muat naik logo anda"
+
+msgid "The preferred size of the logo is 600x100."
+msgstr "Saiz logo adalah 600 x 100."
+
+msgid ""
+"<strong>Note:</strong> Uploading another logo will overwrite the current "
+"logo."
+msgstr ""
+"<strong>Nota:</strong> Muat naik logo lain akan menggantikan logo semasa."
+
+msgid "Logo image (png,gif,jpg)"
+msgstr "Gambar logo (png, gif, jpg)"
+
+msgid "Upload"
+msgstr "Muat naik"
+
+msgid "The images folder <strong>%s</strong> is not writable on your server"
+msgstr "Imej folder <strong>%s</strong> tidak boleh tulis pada server anda"
+
+msgid ""
+"To make a directory writable under UNIX execute this command from the shell:"
+msgstr ""
+"Untuk membuat satu direktori boleh tulis di bawah UNIX laksanakan arahan ini "
+"dari shell:"
+
+msgid "Donate"
+msgstr "Derma"
+
+msgid "Search placeholder"
+msgstr "Placeholder carian"
+
+msgid "Footer link"
+msgstr "Pengaki"
+
+msgid "Save changes"
+msgstr "Save Perubahan"
+
+msgid "Custom"
+msgstr "Custom"
+
+msgid "It's your own listing, you can't contact the publisher."
+msgstr "Iklan anda sendiri, anda tidak bolah menghubungi pengiklan."
+
+msgid "The listing is expired. You can't contact the publisher."
+msgstr "Penyenaraian telah tamat. Anda tidak dapat menghubungi penerbit."
+
+msgid "No logo has been uploaded yet"
+msgstr "Tiada lagi logo yang telah dimuat naik"
+
+msgid "Osclass can't upload the logo image from the administration panel."
+msgstr "OSClass tidak boleh memuat naik gambar logo melalui panel admin."
+
+msgid ""
+"I want to help Osclass by linking to <a href=\"http://osclass.org/\" target="
+"\"_blank\">osclass.org</a> from my site with the following text:"
+msgstr ""
+"Saya ingin membantu Osclass dengan mengaitkan kepada <a href=\"http://"
+"osclass.org/\" target=\"_blank\">osclass.org</a> daripada laman saya dengan "
+"teks berikut:"
+
+msgid "Please make the aforementioned image folder writable."
+msgstr "Pastikan folder imej adalah boleh tulis dalam server."
+
+msgid ""
+"I would like to contribute to the development of Osclass with a donation of"
+msgstr ""
+"Saya ingin memberi sumbangan kepada pembangunan Osclass dengan menyampaikan "
+"sumbangan kewangan berjumlah"
+
+msgid ""
+"This website is proudly using the <a title=\"Osclass web\" href=\"http://"
+"osclass.org/\">classifieds scripts</a> software <strong>Osclass</strong>"
+msgstr ""
+"Laman web ini dengan bangganya menggunakan perisian <a title=\"Osclass web\" "
+"href=\"http://osclass.org/\">skrip iklan</a> <strong>Osclass</strong>"
+
+msgid "Default logo"
+msgstr "Logo asal"
+
+msgid "Show default logo in case you didn't upload one previously"
+msgstr "Papar logo asal jika tiada logi baru dimuat naik"
+
+msgid "Register"
+msgstr "Daftar"
+
+msgid "View profile"
+msgstr "Lihat Profile"
+
+msgid "Send Mail"
+msgstr "Hantar e-mel"
+
+msgid "Related Ads"
+msgstr "Iklan yang berkaitan"
+
+msgid "No Related Ads"
+msgstr "Tidak ada iklan yang berkaitan"
+
+msgid "Premium Listings"
+msgstr "Iklan Premium"
+
+msgid "More Details"
+msgstr "Perincian"
+
+msgid "Description"
+msgstr "Penerangan"
+
+msgid "Additional"
+msgstr "Tambahan"
+
+msgid "Warning"
+msgstr "Amaran"
+
+msgid "Terms of Use"
+msgstr "Terma Penggunaan"
+
+msgid "I agree to the"
+msgstr "Saya bersetuju dengan"
+
+msgid "Sorry but I can't find the page you're looking for"
+msgstr "Maaf tetapi saya tidak dapat mencari halaman yang anda sedang mencari"
+
+msgid "Let us help you, we have got a few tips for you to find it."
+msgstr ""
+"Mari kami bantu anda, kami telah mendapat beberapa petua untuk anda untuk "
+"menemuinya."
+
+msgid "<strong>Search</strong> for it:"
+msgstr "<strong>Carian</strong> untuk:"
+
+msgid "<strong>Look</strong> for it in the most popular categories."
+msgstr "<strong>Melihat</strong> ia dalam kategori paling popular."
+
+msgid "Your Search"
+msgstr "Carian Anda"
+
+msgid "Categories"
+msgstr "Kategori"
+
+msgid "More information"
+msgstr "Maklumat lanjut"
+
+msgid "Delete my account"
+msgstr "Hapuskan akaun saya"
+
+msgid "Show As Galery"
+msgstr "Paparkan Sebagai Galery"
+
+msgid "Show As List"
+msgstr "Ditunjukkan sebagai list"
+
+msgid "%1$d - %2$d of %3$d listings"
+msgstr "d $ %1 - %2$ d dalam %3$ d senarai"
+
+msgid "Hot!"
+msgstr "tertiu!"
+
+msgid "Images already uploaded"
+msgstr "Imej yang telah dimuat naik"
+
+msgid "Click or Drop for upload images"
+msgstr "Klik atau kunjungi untuk meng-upload gambar"
+
+msgid "Login with Facebook"
+msgstr "Login dengan Facebook"
+
+msgid "Manage your items"
+msgstr "Menguruskan iklan anda"
+
+msgid "Manage your alerts"
+msgstr "Uruskan notifikasi anda"
+
+msgid "Select a region..."
+msgstr "Sila pilih satu kawasan..."
+
+msgid "Social Network"
+msgstr "Rangkaian sosial"
+
+msgid "Sponsored ad"
+msgstr "Ditaja iklan"
+
+msgid "Home"
+msgstr "Halaman Utama"
+
+msgid "See all ads from"
+msgstr "Lihat semua iklan dari"
+
+msgid "Pages"
+msgstr "Halaman"
+
+msgid "Advanced search"
+msgstr "Carian lanjutan"
+
+msgid "hide"
+msgstr "menyembunyikan"
+
+msgid "Oops!"
+msgstr "Oops!"
+
+msgid "404 Not Found"
+msgstr "404 Tidak Ditemui"
+
+msgid "Sorry, an error has occured, Requested page not found!"
+msgstr "Maaf, satu ralat telah berlaku, diminta Laman tidak dijumpai!"
+
+msgid "Take Me Home"
+msgstr "Membawa ke halaman depan"
+
+msgid "Contact Support"
+msgstr "Hubungi sokongan"
+
+msgid "Sign In"
+msgstr "Log Masuk"
+
+msgid "Sign Up"
+msgstr "Mendaftar"
+
+msgid "Sign Out"
+msgstr "Log Keluar"
+
+msgid "Don't have an account!"
+msgstr "Tidak mempunyai akaun!"
+
+msgid "Sign Up here"
+msgstr "Mendaftar di sini"
+
+msgid "Already have an account?"
+msgstr "Sudah ada akaun?"
+
+msgid "Viewed"
+msgstr "Dilihat"
+
+msgid "See all Ads"
+msgstr "Lihat semua iklan"
+
+msgid "Premium Ads"
+msgstr "Iklan premium"
+
+msgid "Latest Ads"
+msgstr "Tempahan iklan"
+
+msgid "Featured Brand"
+msgstr "Pilihan jenama"
+
+msgid "Select a country"
+msgstr "Sila pilih negara"
+
+msgid "Select a region"
+msgstr "Sila pilih satu kawasan"
+
+msgid "Select a city"
+msgstr "Sila pilih bandar"
+
+msgid "Personal"
+msgstr "Persorangan"
+
+msgid "See all ads"
+msgstr "See All"
+
+msgid "More details"
+msgstr "Perincian"
+
+msgid "Details"
+msgstr "Perincian"
+
+msgid "Total Member"
+msgstr "Jumlah member"
+
+msgid "Total Ads"
+msgstr "Jumlah iklan"
+
+msgid "Images"
+msgstr "Imej"
+
+msgid "Theme Settings"
+msgstr "Tetapan tema"
+
+msgid "Logo"
+msgstr "Logo"
+
+msgid "Logo Images"
+msgstr "Imej logo"
+
+msgid "Please reload or refresh your browser if images not change."
+msgstr ""
+"Sila tambah nilai atau segarkan semula pelayar anda jika imej tidak berubah."
+
+msgid "Reload browser"
+msgstr "Tambah nilai pelayar"
+
+msgid "Remove"
+msgstr "Padam"
+
+msgid "Logo and Images"
+msgstr "Logo dan imej"
+
+msgid "The image has been uploaded correctly"
+msgstr "Imej yang telah dimuat naik dengan betul"
+
+msgid "The image has been removed"
+msgstr "Gambar logo telah dipadamkan"
+
+msgid "Has not uploaded any image"
+msgstr "Belum upload imej apapun"
+
+msgid "Slider"
+msgstr "Slaid"
+
+msgid "Slider Images"
+msgstr "Gambar slaid"
+
+msgid "Background Images"
+msgstr "Imej latar belakang"
+
+msgid "Brand"
+msgstr "Jenama"
+
+msgid "Brand Images"
+msgstr "Imej jenama"
+
+msgid "Icons"
+msgstr "Ikon"
+
+msgid "Categories Icons"
+msgstr "Ikon kategori"
+
+msgid "Please visit"
+msgstr "Sila lawati"
+
+msgid "Just Copy and paste code images ex. home or heart."
+msgstr "Hanya Copy dan paste kod imej cth rumah atau hati."
+
+msgid "version"
+msgstr "versi"
+
+msgid "Themes Powered by OsclassDotMe"
+msgstr "Tema Powered by OsclassDotMe"
+
+msgid "Category Images"
+msgstr "Kategori imej"
+
+msgid "Administrator Panel"
+msgstr "Panel Pentadbir"
+
+msgid "General"
+msgstr "Komen umum"
+
+msgid "Widget"
+msgstr "Widget"
+
+msgid "Product"
+msgstr "Produk"
+
+msgid "Advertiser"
+msgstr "Iklan"
+
+msgid "Social"
+msgstr "Sosial"
+
+msgid "Font and color"
+msgstr "Fon dan warna"
+
+msgid "More"
+msgstr "Lagi"
+
+msgid "Widget settings"
+msgstr "Seting widget"
+
+msgid "Social settings"
+msgstr "Suasana sosial"
+
+msgid "Product settings"
+msgstr "Seting produk"
+
+msgid "Ads settings"
+msgstr "Tetapan"
+
+msgid "Product Slider"
+msgstr "Slaid produk"
+
+msgid "Slider Title and Links"
+msgstr "Tajuk slaid dan pautan"
+
+msgid "Content display"
+msgstr "Paparan kandungan"
+
+msgid "Custom settings"
+msgstr "Seting tersuai"
+
+msgid "Font and Color settings"
+msgstr "Seting fon dan warna"
+
+msgid "Button Color"
+msgstr "Butang warna"
+
+msgid "More settings"
+msgstr "Tetapan"
+
+msgid "Favicon Images"
+msgstr "Gambar favicon"
+
+msgid "Information"
+msgstr "Maklumat"
+
+msgid "Header Style"
+msgstr "Semua Pengepala"
+
+msgid "Home Style"
+msgstr "Gaya rumah"
+
+msgid "Footer Style"
+msgstr "Gaya footer"
+
+msgid "Product Style"
+msgstr "Produk gaya"
+
+msgid "Search Style"
+msgstr "Cari gaya"
+
+msgid "Select search form style template"
+msgstr "Pilih template Cari borang keperluan"
+
+msgid "Search Placeholder"
+msgstr "Placeholder carian"
+
+msgid "Footer Copyright"
+msgstr "Hakcipta Terpelihara footer"
+
+msgid "Copyright text on footer."
+msgstr "Hak cipta teks footer."
+
+msgid "only for arabic or persian language."
+msgstr "hanya untuk Bahasa Arab atau Parsi."
+
+msgid "Title On Home"
+msgstr "Tajuk utama"
+
+msgid "Title Footer"
+msgstr "Tajuk Footer"
+
+msgid "Widget on Footer"
+msgstr "Widget pada Footer"
+
+msgid ""
+"You can add widget on footer with your custom widget ex: facebook widget or "
+"twitter widget."
+msgstr ""
+"Anda boleh menambah widget di footer dengan widget anda adat ex: facebook "
+"widget atau twitter widget."
+
+msgid "Title Useful Information"
+msgstr "Tajuk maklumat yang berguna"
+
+msgid "Useful Information"
+msgstr "Maklumat Berguna"
+
+msgid "Add text for useful information."
+msgstr "Tambah teks untuk mendapatkan maklumat yang berguna."
+
+msgid "Show lists as"
+msgstr "Tunjukkan senarai sebagai"
+
+msgid "Slider latest Ads"
+msgstr "Iklan Tempahan slider"
+
+msgid "Slider Premium Ads"
+msgstr "Iklan Premium slider"
+
+msgid "Sidebar Premium Ads"
+msgstr "Iklan Premium sidebar"
+
+msgid "Search Premium Ads"
+msgstr "Iklan Premium carian"
+
+msgid "Amount of the Latest ads"
+msgstr "Jumlah Tempahan iklan"
+
+msgid "Amount of the premium ads"
+msgstr "Jumlah iklan premium"
+
+msgid "Amount of the sidebar premium ads"
+msgstr "Jumlah iklan premium sidebar"
+
+msgid "Amount of the search page premium ads"
+msgstr "Jumlah iklan premium laman carian"
+
+msgid "Amount of the related ads"
+msgstr "Jumlah iklan yang berkaitan"
+
+msgid "Premium Ads Display"
+msgstr "Paparan iklan premium"
+
+msgid "Latest Ads Display"
+msgstr "Tempahan iklan paparan"
+
+msgid "Ads with Category"
+msgstr "Iklan dengan kategori"
+
+msgid "Location Display"
+msgstr "Paparan lokasi"
+
+msgid "Brand Display"
+msgstr "Paparan jenama"
+
+msgid "Statistic Display"
+msgstr "Paparan statistik"
+
+msgid "Show or hide"
+msgstr "Tunjuk atau sembunyikan"
+
+msgid "Ads with category"
+msgstr "Iklan dengan kategori"
+
+msgid "location in home"
+msgstr "lokasi di rumah"
+
+msgid "Brand slider"
+msgstr "Jenama slider"
+
+msgid "Statistic ads"
+msgstr "Iklan statistik"
+
+msgid "Header Ads"
+msgstr "Iklan header"
+
+msgid "Footer Ads"
+msgstr "Iklan footer"
+
+msgid "Search results page"
+msgstr "Halaman keputusan carian"
+
+msgid ""
+"This ad will be shown on the footer of your website. Note that the size of "
+"the ad has to be 728x90 pixels."
+msgstr ""
+"Iklan ini akan ditunjukkan pada footer Laman web anda. Sila maklum bahawa "
+"saiz iklan perlu 728 x 90 pixel."
+
+msgid "Sidebar Left"
+msgstr "Bar sisi kiri"
+
+msgid "Sidebar Right"
+msgstr "Bar sisi kanan"
+
+msgid "Sidebar Ads Member Area"
+msgstr "Kawasan ahli Bar sisi iklan"
+
+msgid "This ad will be shown on the sidebar of your member area."
+msgstr "Iklan ini akan ditunjukkan pada sidebar kawasan ahli anda."
+
+msgid ""
+"This ad will be shown at the right sidebar of your website. Note that the "
+"size of the ad has to be 300x350 pixels."
+msgstr ""
+"Iklan ini akan ditunjukkan pada sidebar kanan Laman web anda. Ambil "
+"perhatian bahawa saiz iklan telah menjadi 300 x 350 pixel."
+
+msgid ""
+"This ad will be shown at the right sidebar of your website. Note that the "
+"size of the ad has to be 160x600 pixels."
+msgstr ""
+"Iklan ini akan ditunjukkan pada sidebar kanan Laman web anda. Ambil "
+"perhatian bahawa saiz iklan telah menjadi 160 x 600 piksel."
+
+msgid "Auto Play Product Slider"
+msgstr "Auto Main produk Slider"
+
+msgid "welcome to classifieds"
+msgstr "selamat datang ke Iklaneka"
+
+msgid "you can costumize css."
+msgstr "anda boleh costumize css."
+
+msgid "Switch on to activate custom font and color."
+msgstr "Hidupkan untuk mengaktifkan fon dan warna."
+
+msgid "create new pages TOS and copy url here"
+msgstr "mencipta laman baru KL dan Salin url di sini"
+
+msgid "you must install fb login plugin, before activate Facebook Login"
+msgstr ""
+"anda mesti memasang fb login plugin, sebelum mengaktifkan Facebook Login"
+
+msgid ""
+"you must install madhouse avatar plugin, before activate madhouse avatar"
+msgstr ""
+"anda mesti memasang plugin madhouse avatar, sebelum mengaktifkan avatar "
+"Madhouse"
+
+msgid "you must install watchlist plugin, before activate watchlist"
+msgstr "anda mesti memasang plugin Fool, sebelum mengaktifkan Fool"
+
+msgid "you can customize html code on home"
+msgstr "anda boleh menyesuaikan Kod html di rumah"
+
+msgid "you can costumize html on home under slider."
+msgstr "anda boleh costumize html di rumah di bawah slaid."
+
+msgid "insert your text or html code"
+msgstr "masukkan kod anda teks atau html"
+
+msgid ""
+"This ad will be shown at the top of your website, next to the site title and "
+"above the search results. Note that the size of the ad has to be 728x90 "
+"pixels."
+msgstr ""
+"Iklan ini akan ditunjukkan di bahagian atas laman web anda, bersebelahan "
+"dengan tajuk laman dan ke atas hasil carian. Sila maklum bahawa saiz iklan "
+"perlu 728 x 90 pixel."
+
+msgid ""
+"This ad will be shown among the search results of your site. Note that the "
+"size of the ad has to be 728x90 pixels."
+msgstr ""
+"Iklan ini akan ditunjukkan antara hasil carian laman web anda. Sila maklum "
+"bahawa saiz iklan perlu 728 x 90 pixel."
+
+msgid "view"
+msgstr "melihat"
+
+msgid "Slider text"
+msgstr "Gelangsar"
+
+msgid "Public Profile"
+msgstr "Profil Umum"
+
+msgid "Username"
+msgstr "Nama pengguna"
+
+msgid "Company"
+msgstr "Syarikat"
+
+msgid ""
+"WARNING: Once set, you will not be able to change your username again. "
+"Choose wisely."
+msgstr ""
+"Amaran: Sekali set, anda tidak akan dapat menukar nama pengguna anda lagi. "
+"Pilih dengan bijak."
+
+msgid "Change your username"
+msgstr "Menukar nama pengguna anda"
+
+msgid ""
+"All your listings and alerts will be removed, this action can not be undone."
+msgstr ""
+"Semua iklan dan notifikasi anda akan dihapuskan, tindakan ini tidak boleh "
+"diubah lagi."
+
+msgid "Delete account"
+msgstr "Hapuskan akaun saya"
+
+msgid "Rival Images"
+msgstr "Saingan imej"
+
+msgid "Rival Theme Settings"
+msgstr "Menyaingi seting tema"
+
+msgid "Rival Category"
+msgstr "Saingan kategori"
+
+msgid "Submit Ads"
+msgstr "Hantar"
+
+msgid "New listings"
+msgstr "Iklan baru"
+
+msgid "Random listings"
+msgstr "Senarai rawak"
+
+msgid "New"
+msgstr "Baru"
+
+msgid "Random"
+msgstr "Rawak"
+
+msgid "Premium"
+msgstr "Premium"
+
+msgid "See all listings"
+msgstr "Lihat senarai semua"
+
+msgid "Locations"
+msgstr "Lokasi"
+
+msgid "Popular"
+msgstr "Popular"
+
+msgid "Featured brand"
+msgstr "Pilihan jenama"
+
+msgid "Statistic Info"
+msgstr "Maklumat Statistik"
+
+msgid "Social network"
+msgstr "Perkhidmatan rangkaian sosial"
+
+msgid "Payment"
+msgstr "Pembayaran"
+
+msgid "My listings"
+msgstr "Senarai iklan"
+
+msgid "Settings"
+msgstr "Tetapan"
+
+msgid "My alert"
+msgstr "Notifikasi"
+
+msgid "My Listings"
+msgstr "Senarai iklan"
+
+msgid "<i class=\"fa fa-list\"></i> My listings"
+msgstr "<i class=\"fa fa-list\"></i>Senarai saya"
+
+msgid "<i class=\"fa fa-bell\"></i> My alerts"
+msgstr "<i class=\"fa fa-bell\"></i>Amaran saya"
+
+msgid "<i class=\"fa fa-gear\"></i> Settings"
+msgstr "<i class=\"fa fa-gear\"></i>Seting"
+
+msgid "<i class=\"fa fa-edit\"></i> Change e-mail"
+msgstr "<i class=\"fa fa-edit\"></i>Menukar e-mel"
+
+msgid "<i class=\"fa fa-lock\"></i> Change password"
+msgstr "<i class=\"fa fa-lock\"></i>Tukar kata laluan"
+
+msgid "<i class=\"fa fa-sign-out\"></i> Logout"
+msgstr "<i class=\"fa fa-sign-out\"></i>Log keluar"
+
+msgid "Seller profile"
+msgstr "Profil Penjual"
+
+msgid "Leave Comment"
+msgstr "Tinggalkan komen"
+
+msgid "Send mail"
+msgstr "Hantar surat"
+
+msgid "Premium listings"
+msgstr "Iklan Premium"
+
+msgid "Search filter"
+msgstr "Penapis gelintar"
+
+msgid "General information"
+msgstr "Maklumat Am"
+
+msgid "Upload images"
+msgstr "Memuat naik imej"
+
+msgid "Views"
+msgstr "Tayang"
+
+msgid "Standart ads"
+msgstr "Iklan standart"
+
+msgid "Premium ads"
+msgstr "Iklan premium"
+
+msgid "Default Thumbnail"
+msgstr "Kuku jari lalai"
+
+msgid "Small slider"
+msgstr "Slaid kecil"
+
+msgid "Slider Small Images"
+msgstr "Slaid imej kecil"
+
+msgid "Category count"
+msgstr "Kiraan kategori"
+
+msgid "Custom Useful Information"
+msgstr "Adat maklumat yang berguna"
+
+msgid "Home Premium Ads"
+msgstr "Iklan Home Premium"
+
+msgid "Latest and Random Ads Display"
+msgstr "Paparan iklan rawak dan terbaru"
+
+msgid "Home latest Ads"
+msgstr "Iklan Tempahan rumah"
+
+msgid "Home Random Ads"
+msgstr "Iklan rawak rumah"
+
+msgid "Ads by category Display"
+msgstr "Iklan mengikut kategori paparan"
+
+msgid "Ads by category"
+msgstr "Iklan mengikut Kategori"
+
+msgid "Item post multilanguges"
+msgstr "Item jawatan multilanguges"
+
+msgid ""
+"This ad will be shown at the top of your website. Note that the size of the "
+"ad has to be 728x90 pixels."
+msgstr ""
+"Iklan ini akan ditunjukkan di bahagian atas laman web anda. Sila maklum "
+"bahawa saiz iklan perlu 728 x 90 pixel."
+
+msgid "Price settings"
+msgstr "Harga tetapan"
+
+msgid ""
+"You can use 6 sceme color from theme or you can customize your own color "
+"with switch on customize panel."
+msgstr ""
+"Anda boleh menggunakan warna sceme 6 dari tema atau anda boleh menyesuaikan "
+"warna anda sendiri dengan suis pada menyesuaikan panel."
+
+msgid "create new TOS pages and paste url here"
+msgstr "mencipta Laman KL baru dan paste url di sini"
+
+msgid "Slider Title and Subtitle"
+msgstr "Slaid tajuk dan subtajuk"
+
+msgid "Seller information"
+msgstr "Maklumat Pengiklan"
+
+msgid "Popular Location"
+msgstr "Lokasi popular"
+
+msgid "Latest search"
+msgstr "Carian Tempahan"
+
+msgid "All"
+msgstr "Semua"
+
+msgid "Item Id"
+msgstr "Id barang"
+
+msgid "Total member"
+msgstr "Jumlah member"
+
+msgid "Your email"
+msgstr "Email Anda"
+
+msgid "Already have an account ?"
+msgstr "Sudah ada akaun?"
+
+msgid "Lost password ?"
+msgstr "Lupa kata laluan?"
+
+msgid "Don't have an account !"
+msgstr "Tidak mempunyai akaun!"
+
+msgid "Forgot password"
+msgstr "Lupa Kata Laluan"
+
+msgid "Note"
+msgstr "Nota"
+
+msgid "Please don't send spam messages"
+msgstr "Sila Jangan Hantar mesej spam"
+
+msgid "View"
+msgstr "Melihat"
+
+msgid "<i class=\"fa fa-user\"></i> Profile"
+msgstr "<i class=\"fa fa-user\"></i>Profil"
+
+msgid "User Id"
+msgstr "ID Pengguna"
+
+msgid "Edit item"
+msgstr "Edit Item"
+
+msgid "Detail"
+msgstr "Terperinci"
+
+msgid "Client"
+msgstr "Edit pelanggan"
+
+msgid "Advance Search"
+msgstr "Carian lanjutan"
+
+msgid "Subcribe"
+msgstr "Subcribe"
+
+msgid "Hi Guest !"
+msgstr "Hi tetamu!"
+
+msgid "ID"
+msgstr "ID"
+
+msgid "Check with seller"
+msgstr "Hubungi pengiklan"
+
+msgid "Documentation"
+msgstr "Dokumentasi"
+
+msgid "Recommended plugin"
+msgstr "Plugin yang disyorkan"
+
+msgid "If you want this features, you can install"
+msgstr "Jika anda mahu ciri-ciri ini, anda boleh memasang"
+
+msgid "Report Bugs"
+msgstr "Laporkan pepijat"
+
+msgid "If you have problem or bugs please ask devoloper in here"
+msgstr "Jika anda mempunyai masalah atau pepijat sila tanya devoloper di sini"
+
+msgid "External Links Menu"
+msgstr "Menu Pautan luar"

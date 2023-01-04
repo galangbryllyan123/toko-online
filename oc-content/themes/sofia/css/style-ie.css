@@ -1,0 +1,4 @@
+!.container {width:950px;min-width:950px;}
+.form_publish .publish_button a {padding-bottom:12px;}
+#search-bar .home-but {margin-top:-4px;}
+#header .head-links form input[type="text"], #header .head-links form input[type="password"] {margin-top:5px;}

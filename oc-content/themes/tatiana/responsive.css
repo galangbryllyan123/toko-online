@@ -1,0 +1,190 @@
+@media screen and (max-width: 970px) {
+  .user_account .zoznam_views {margin-right:0}
+  .add_item {padding-left:1%;padding-right:1%}
+  .regular-offer .text {width:100%;max-width:100%;padding: 8px 0 0 7px;font-size:13px;}
+  .regular-offer .results {max-width:30%}
+  .premium-offer .text {font-size:12px}
+  .user_type_buttons {margin-left:6px;}
+  .home #main-new .categories .category h1 {font-size:15px;}
+  .home .latest_ads table tr .zoznam_desc {height:14px;}
+  .home .latest_ads table tr .zoznam_cena {float:left;clear:both;max-width:65%}
+  .home .latest_ads table tr .zoznam_views {float:left;clear:none;margin-left:2%;max-width:35%}
+  .home .latest_ads table tr .zoznam_desc {margin:3px 0}
+  .home .latest_ads table td.text h3 {font-size:13px;max-width:100%}
+  .ad_list table {height:auto;min-height:0}
+  .ad_list table tr td .zoznam_desc {height:14px;}
+  .ad_list table tr td .zoznam_cena {float:left;clear:both;max-width:65%}
+  .ad_list table tr td .zoznam_views {float:left;clear:none;margin-left:2%;max-width:35%}
+  .ad_list table tr td .zoznam_desc {margin:3px 0;max-height:30px;height:auto}
+  .ad_list table td.text h3 {font-size:13px;max-width:100%}
+  .ad_list .gallery-list table tr {overflow:hidden}
+  #qr-wrap {display:none}
+  #qr-wrap-alt {display:block}
+  #rel_ads table td.text h3 {margin-bottom:2px;margin-top:1px}
+  #rel_ads .zoznam_dole {margin-top:3px}
+  #rel_ads .zoznam_views {margin-right:4%}
+  #rel_ads table tr {height:auto}
+  #rel_ads table tr td .zoznam_views {clear:both;margin-left:0;margin-right:2%}
+  #rel_ads table tr td .zoznam_views.phot {clear:none}
+  #rel_ads table tr td .zoznam_cena {max-width:100%;width:auto}
+  #menu .subcategory {margin-left:-28px}
+  #i-block h1 {font-size:14px;margin-top:2px}
+  #c-seller .contact-header .text img:hover {position:relative;margin-top: -8px;height: 33px;width: auto;}
+  #footer-new .bottom-place,#footer-new .top-place,#footer-new .is_full,#footer, #h-bar {padding-left:1%;padding-right:1%}
+  div.breadcrumb, .page {padding-left:1%;padding-right:1%}
+}
+
+@media screen and (min-width: 481px) and (max-width: 970px) {
+  .list #sidebar {width:30%}
+  .list #main {width:69.5%}
+  #menu ul li, #menu ul li a {font-size:11px}
+}
+
+@media screen and (min-width: 691px) and (max-width: 970px) {
+  .ad_list table td.text {width:80%}
+  .ad_list table td.photo {width:20%}
+  .ad_list .gallery-list table td.text {width:70%}
+  .ad_list .gallery-list table td.photo {width:30%}
+  .ad_list .gallery-list table tr td .zoznam_views {clear:both;margin-left:0;margin-right:2%}
+  .ad_list .gallery-list table tr td .zoznam_views.phot {clear:none}
+  .ad_list .gallery-list table tr {height:105px}
+  .ad_list .gallery-list table td.text h3 {font-size:12px}
+  .user_public_profile .ad_list .gallery-list table td.photo {width:25%}
+  .user_public_profile .ad_list .gallery-list table td.text {width:75%}
+  .item-tool-cat {margin-left:62%}
+  .item-tool-desc {margin-left:64%}
+  .item-tool-photo {margin-left: 35%;}
+  #i-block h1 {max-width:66%}
+  #cat-list {width:60%;margin-left:20%;margin-right:20%}
+  #lang-wrap {width:35%;max-width:500px}
+  #lang-box {width:60%}
+  #h-bar #login-box {width:22%}
+  #piracy {display:none}
+  #photos .qq-upload-list li {width:31.3%}
+}
+
+@media screen and (min-width: 481px) and (max-width: 690px) {
+  .home .latest_ads table td.text {width:70%}
+  .home .latest_ads table td.photo {width:30%}
+  .user_account #sidebar {width:30%}
+  .user_account #main {width:68%}
+  .user_public_profile .ad_list .gallery-list table td.photo {width:20%}
+  .user_public_profile .ad_list .gallery-list table td.text {width:80%}
+  #cat-list {width:80%;margin-left:10%;margin-right:10%}
+  #lang-wrap {width:50%;max-width:500px;}
+  #lang-box {width:60%}
+  #header #logo {margin-bottom:8px;}
+  .user_type_buttons div {padding:3px 4px;margin:0 1px 0 0;}
+  .regular-offer .search-grid-ico, .regular-offer .search-list-ico {margin:0 1px;}
+}
+
+@media screen and (max-width: 690px) {
+  .form_publish {float:left;clear:both;margin-right:2%;margin-bottom:8px}
+  .ad_list table td.text {width:75%}
+  .ad_list table td.photo {width:25%}
+  .ad_list .gallery-list table tr {width:100%;margin-right:1%}
+  .ad_list .gallery-list table tr td .zoznam_desc {height:auto;max-height:26px;overflow:hidden;white-space:normal}
+  .ad_list .gallery-list table tr {max-height:auto;height:auto}
+  .add_item .cat-alt {float: left;clear: both;margin-top: 10px;margin-bottom: -10px;}
+  .add_item .cat-del {float:left;clear:both;margin:0;margin-top: 10px;}
+  .alert-listing-list .lab {width:30%}
+  .alert-listing-list .tex {width:70%}
+  .user_public_profile #description {width:100%;float:left;clear:both;height:auto}
+  .user_public_profile #c-box {float:left;clear:both;width:100%;margin-bottom:30px;}
+  .user_public_profile h2 {padding-left:1%;padding-right:1%}
+  .user_public_profile .ad_list .gallery-list table tr {height:auto}
+  .user_public_profile #c-box #contact_form {height:auto}
+  .item-tool-wrap,.item-toolr-wrap {display:none;z-index:-999;color:#fff;border:1px solid #fff;box-shadow:none;width:0px;height:0px;overflow:hidden;max-width:0px;max-height:0px}
+  .add_item .selector#uniform-catId {width:100%}
+  .add_item #uniform-PriceSelect {width:40%}
+  .form_publish {margin-bottom:5px}
+  #header #fb-block {float:left;}
+  #header #logo {width:100%;max-width:350px;}
+  #i-block .item_location .left {width:30%}
+  #i-block .item_location .right {width:70%}
+  #i-block #print_ad, #i-block #print_pdf, #i-block #face, #i-block .watchlist {display:none}
+  #i-block h1 {width:80%}
+  #i-block #report {margin-left:-15px}
+  #i-block #comments form h3 {width:100%;}
+  #i-block #comments .comment-desc {width:100%;float:left;clear:both;margin-top:3px}
+  #c-seller .left {width:80%}
+  #c-seller .right {float:left;clear:both;width:100%}
+  #i-block #comments .comment-image {width:15%}
+  #i-block #comments .comment {width:65%}
+  #friend {margin-left:0;margin-right:0;width:100%}
+  #i-forms #left, #i-forms #right {float:left;width:100%;margin-left:0;margin-right:0}
+  #i-block #right #photos-block #img-link {width:48%}
+  #login-wrap:hover #login-box {display:none}
+  #photos .qq-upload-list li {width:48%}
+  .sort-it {margin-right:0;}
+}
+
+@media screen and (max-width: 480px) {
+  .regular-offer .wrap, .sort-it, .regular-offer .results {float:left;}
+  .regular-offer .wrap {margin-left:6px;}
+  .user_type_buttons {width:100%;clear:both;margin:0;padding: 4px 0 0 6px;}
+  .list #sidebar {width:100%;clear:both}
+  .ad_list {padding-left:0;margin-bottom:10px;}
+  .ad_list table td.text h3 {font-size:14px}
+  .list #main {float:left;clear:both;width:100%}
+  .home .latest_ads table tr {width:100%;margin-right:1%}
+  .home .latest_ads .see_more_link a {font-size:13px}
+  .home #main-new .categories .col {width:100%;float:left;clear:both;}
+  .home #main-new .categories .col.c2 {float:left}
+  .home #sidebar {float:left;clear:both;width:100%}
+  .home .home-google,.home .fb-friendly,.home .mobile-friendly {display:none}
+  .home #main-new {width:100%;padding-top:0}
+  .home .latest_ads table td.text h3 a {white-space:normal}
+  .home .latest_ads table tr {height:auto}
+  .home .latest_ads {margin:0}
+  .home #main-new {padding-bottom:0}
+  .form_publish {margin:5px 0;width:100%}
+  .location .country-block {margin-top:15px;}
+  .search input#query, #uniform-sCategory, #uniform-Locator,#priceMin, #priceMax,.scroller #uniform-undefined {width:100%;margin:5px 0}
+  .add_item #right, .add_item #left {width:100%;float:left;clear:both}
+  .add_item #uniform-blue {width:100%;margin-top:15px}
+  .user_forms form label {width:100%;float:left;clear:both}
+  .user_forms form input {width:100%;float:left;clear:both}
+  .user_forms form .checkbox {padding-left:0}
+  .user_forms form .checkbox label {clear:none}
+  .user_account #sidebar {width:100%;float:left;clear:both}
+  .user_account #main {width:100%;float:left;clear:both;padding-left:1%;padding-right:1%;margin-left:0;margin-right:0}
+  .alert-listing-list {padding-left:0}
+  .user_account #main {margin-top:20px;}
+  .user_public_profile .ad_list .gallery-list table td.photo {width:25%}
+  .user_public_profile .ad_list .gallery-list table td.text {width:75%}
+  .user_public_profile #c-box #tit, .user_public_profile #c-box .third {width:100%;margin:0}
+  .user_public_profile #c-box form h3 {width:100%}
+  .user_public_profile #c-box .contact-desc {width:100%;float:left;clear:both;margin-top:5px}
+  .icon-lang-cur {display:none}
+  .add_item div.uploader {width:100%;height:auto;}
+  .add_item div.uploader span.filename {border-right:none}
+  .add_item #photos {width:100%}
+  .home #main .categories .c1.col, .home #main .categories .c2.col {width:100%;float:left;clear:both;margin:0}
+  #h-bar #login-box {width:40%}
+  #lang-wrap {width:40%;max-width:400px}
+  #sub-alert {-webkit-border-radius: 4px;-moz-border-radius: 4px;border-radius: 4px;}
+  #sidebar-search {-webkit-border-radius: 4px;-moz-border-radius: 4px;border-radius: 4px;}
+  #bottom-grad {display:none}
+  #sidebar-between,#menu {border:none}
+  #footer-new .some-block, #footer-new .some-block.right {width:100%;margin-right:0}
+  #footer-new .cop {float:left}
+  #header #fb-block {display:none}
+  #i-block #left-block {width:100%;clear:both;}
+  #i-block #right {width:100%;clear:both;float:left}
+  #i-block .price {float:left}
+  #friend .third, #friend .four {width:100%;margin-right:0;margin-left:0;float:left;clear:both}
+  #i-forms .user_forms .req-what {padding-left:0}
+  #i-forms.login-me .checkbox {padding-left:0}
+  #header #logo img {width:100%;margin-right:0;max-width:350px}
+  #cat-list {width:100%;margin-left:0%;margin-right:0%}
+  #i-forms.login-me input {width:100%}
+  #i-forms.login-me label {width:100%}
+  #left-user {float:left;width:100%;clear:both;margin-right:0}
+  #right-user {float:left;width:100%;clear:both;margin-left:0}
+  #lang-wrap {width:60%;max-width:400px;}
+  #lang-box {width:60%}
+  #lang-box li a span {max-width:80%}
+  #friend #titt, #friend .thirdd {float:left;clear:both;width:100%;margin:0}
+  #header #logo {margin-bottom:3px;}
+}

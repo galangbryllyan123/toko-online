@@ -1,0 +1,1703 @@
+# Copyright (C) 2013 Osclass
+# This file is distributed under the same license as the {package-name} package.
+msgid ""
+msgstr ""
+"Project-Id-Version: Lhoshar\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-01-21 19:45+0545\n"
+"PO-Revision-Date: 2018-01-21 19:46+0545\n"
+"Last-Translator: _CONEJO <conejo@conejo.me>\n"
+"Language-Team: Translations <translations@osclass.org>\n"
+"Language: ar\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.0.6\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: ../..\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPath-1: languages/ar_SY\n"
+"X-Poedit-SearchPath-2: languages/ar_SY\n"
+
+#: 404.php:30
+msgid "Sorry but I can't find the page you're looking for"
+msgstr "عذرا، لا يمكنني العثور على الصفحة التي تبحث عنها"
+
+#: 404.php:31
+msgid "Let us help you, we have got a few tips for you to find it."
+msgstr "دعونا مساعدتك، ونحن قد حصلت على بعض النصائح لتجد ذلك."
+
+#: 404.php:34
+msgid "<strong>Search</strong> for it:"
+msgstr "<سترونغ> بحث </ سترونغ> لها:"
+
+#: 404.php:42 admin/templates.php:13 header.php:308
+msgid "Search"
+msgstr "بحث"
+
+#: 404.php:47
+msgid "<strong>Look</strong> for it in the most popular categories."
+msgstr "<سترونغ> ابحث </ سترونغ> عنه في الفئات الأكثر شيوعا."
+
+#: admin/ads.php:7
+msgid "Ads management"
+msgstr "إدارة الإعلانات"
+
+#: admin/ads.php:11
+msgid ""
+"In this section you can configure your site to display ads and start "
+"generating revenue."
+msgstr ""
+"في هذا القسم، يمكنك تهيئة موقعك لعرض الإعلانات والبدء في تحقيق الأرباح."
+
+#: admin/ads.php:11
+msgid ""
+"If you are using an online advertising platform, such as Google Adsense, "
+"copy and paste here the provided code for ads."
+msgstr ""
+"إذا كنت تستخدم نظاما إعلانيا عبر الإنترنت، مثل غوغل أدسنز، فانسخ والصق هنا "
+"الرمز المقدم للإعلانات."
+
+#: admin/ads.php:17
+msgid "Header Ad"
+msgstr "إعلان الرأس"
+
+#: admin/ads.php:21
+msgid "This ad will be shown at the top of your website."
+msgstr "سيظهر هذا الإعلان أعلى موقعك على الويب."
+
+#: admin/ads.php:25
+msgid "Homepage Ad"
+msgstr "الصفحة الرئيسية أد"
+
+#: admin/ads.php:29
+msgid ""
+"This ad will be shown on the main site of your website. It will appear at "
+"the bottom of your site homepage."
+msgstr ""
+"سيتم عرض هذا الإعلان على الموقع الرئيسي لموقعك على الويب. ستظهر في الجزء "
+"السفلي من الصفحة الرئيسية لموقعك."
+
+#: admin/ads.php:33
+msgid "Search results Ad (top of the page)"
+msgstr "نتائج البحث إعلان (أعلى الصفحة)"
+
+#: admin/ads.php:37
+msgid "This ad will be shown on top of the search results of your site."
+msgstr "سيظهر هذا الإعلان أعلى نتائج البحث في موقعك."
+
+#: admin/ads.php:41
+msgid "Search results Ad (bottom of the page)"
+msgstr "نتائج البحث أد (أسفل الصفحة)"
+
+#: admin/ads.php:45
+msgid "This ad will be shown among the search results of your site."
+msgstr "سيتم عرض هذا الإعلان بين نتائج البحث في موقعك."
+
+#: admin/ads.php:49
+msgid "Sidebar Ad"
+msgstr "إعلان الشريط الجانبي"
+
+#: admin/ads.php:53
+msgid ""
+"This ad will be shown at the right sidebar of your website, on the product "
+"detail page."
+msgstr ""
+"سيتم عرض هذا الإعلان على الشريط الجانبي الأيمن من موقعك على الويب، في صفحة "
+"تفاصيل المنتج."
+
+#: admin/ads.php:57 admin/category.php:32 admin/settings.php:85
+#: admin/slider.php:52 admin/templates-home.php:158
+#: admin/templates-item-post.php:46 admin/templates-search.php:17
+#: admin/theme-style.php:41 admin/widget-contact.php:46
+#: admin/widget-links.php:63 admin/widget-position.php:33
+#: admin/widget-social.php:63 admin/widget-text.php:24
+msgid "Save changes"
+msgstr "حفظ التغييرات"
+
+#: admin/category.php:9
+msgid "Category Icon settings"
+msgstr "إعدادات أيقونة الفئة"
+
+#: admin/category.php:16
+msgid "Choose your icons form fontawesome website at"
+msgstr "اختيار الرموز الخاصة بك من الخط موقع رهيبة في"
+
+#: admin/documentation.php:5
+msgid "OsclassWizards Documentation"
+msgstr "وثائق أوسكلاسويزاردز"
+
+#: admin/favicon.php:7
+msgid "Favicon Image"
+msgstr "صورة رمز المفضلة"
+
+#: admin/favicon.php:8
+msgid "The preferred size of the favicon is 16x16 pixels."
+msgstr "الحجم المفضل لعلامة المفضلة هو 16x16 بكسل."
+
+#: admin/favicon.php:15 admin/header.php:23 admin/homeimage.php:13
+msgid "Preview"
+msgstr "معاينة"
+
+#: admin/favicon.php:22 admin/homeimage.php:20 admin/slider.php:41
+msgid "Remove image"
+msgstr "إزالة الصورة"
+
+#: admin/favicon.php:29 admin/homeimage.php:27
+msgid "No image has been uploaded yet"
+msgstr "لم يتم تحميل أي صورة حتى الآن"
+
+#: admin/favicon.php:32 admin/homeimage.php:30
+msgid "Upload image"
+msgstr "تحميل الصور"
+
+#: admin/favicon.php:34 admin/homeimage.php:32
+msgid ""
+"<strong>Note:</strong> Uploading another image will overwrite the current "
+"image."
+msgstr ""
+"<سترونغ> ملاحظة: </ سترونغ> سيؤدي تحميل صورة أخرى إلى استبدال الصورة الحالية."
+
+#: admin/favicon.php:42 admin/homeimage.php:40
+msgid "Accepted image (png,gif,jpg)"
+msgstr "الصورة المقبولة (ينغ و جيف و جبغ)"
+
+#: admin/favicon.php:48 admin/header.php:71 admin/homeimage.php:46
+msgid "Upload"
+msgstr "تحميل"
+
+#: admin/favicon.php:57 admin/header.php:80 admin/homeimage.php:56
+#, php-format
+msgid "The images folder <strong>%s</strong> is not writable on your server"
+msgstr ""
+
+#: admin/favicon.php:58 admin/homeimage.php:57
+msgid "Osclass can't upload the image from the administration panel."
+msgstr "أوسكلاس لا يمكن تحميل الصورة من لوحة الإدارة."
+
+#: admin/favicon.php:59 admin/header.php:82 admin/homeimage.php:58
+msgid "Please make the aforementioned image folder writable."
+msgstr "الرجاء جعل مجلد الصورة المذكورة أعلاه للكتابة."
+
+#: admin/favicon.php:64 admin/header.php:87 admin/homeimage.php:63
+msgid ""
+"To make a directory writable under UNIX execute this command from the shell:"
+msgstr "لجعل دليل قابل للكتابة تحت أونيكس تنفيذ هذا الأمر من قذيفة:"
+
+#: admin/header.php:15
+msgid "Header logo"
+msgstr "شعار الرأس"
+
+#: admin/header.php:31
+msgid "Remove logo"
+msgstr "إزالة الشعار"
+
+#: admin/header.php:39
+msgid "No logo has been uploaded yet"
+msgstr "لم يتم تحميل أي شعار حتى الآن"
+
+#: admin/header.php:44
+msgid "Upload logo"
+msgstr "تحميل الشعار"
+
+#: admin/header.php:47
+msgid "The preferred size of the logo is 177x30 pixels."
+msgstr "الحجم المفضل للشعار هو 177x30 بكسل."
+
+#: admin/header.php:52
+msgid ""
+"<strong>Note:</strong> Uploading another logo will overwrite the current "
+"logo."
+msgstr ""
+"<سترونغ> ملاحظة: </ سترونغ> سيؤدي تحميل شعار آخر إلى استبدال الشعار الحالي."
+
+#: admin/header.php:64
+msgid "Logo image (png,gif,jpg)"
+msgstr "صورة الشعار (ينغ، جيف، جبغ)"
+
+#: admin/header.php:81
+msgid "Osclass can't upload the logo image from the administration panel."
+msgstr "أوسكلاس لا يمكن تحميل صورة الشعار من لوحة الإدارة."
+
+#: admin/homeimage.php:7
+msgid "Banner Image"
+msgstr "صورة بانر"
+
+#: admin/settings.php:28
+msgid "Custom"
+msgstr "العادة"
+
+#: admin/settings.php:31
+msgid "Donate"
+msgstr "تبرع"
+
+#: admin/settings.php:39
+msgid "General"
+msgstr "جنرال لواء"
+
+#: admin/settings.php:40 admin/theme-style.php:5
+msgid "Theme Style"
+msgstr "نمط الموضوع"
+
+#: admin/settings.php:41
+msgid "Templates"
+msgstr "قوالب"
+
+#: admin/settings.php:42
+msgid "Header Logo"
+msgstr "رأس الشعار"
+
+#: admin/settings.php:43
+msgid "Favicon"
+msgstr "فافيكون"
+
+#: admin/settings.php:44 admin/templates-home.php:19
+msgid "Banner"
+msgstr "راية"
+
+#: admin/settings.php:45
+msgid "Image Slider"
+msgstr "صورة شريط التمرير"
+
+#: admin/settings.php:46
+msgid "Category Icons"
+msgstr "أيقونات الفئة"
+
+#: admin/settings.php:47
+msgid "Ads Management"
+msgstr "إدارة الإعلانات"
+
+#: admin/settings.php:48 admin/social.php:12
+msgid "Social Links"
+msgstr "روابط اجتماعية"
+
+#: admin/settings.php:49
+msgid "Documentation"
+msgstr "كابل بيانات"
+
+#: admin/settings.php:53
+msgid "Theme settings"
+msgstr "إعدادات الموضوع"
+
+#: admin/settings.php:61
+msgid "Footer message"
+msgstr "رسالة تذييل الصفحة"
+
+#: admin/settings.php:69
+msgid "Show lists as"
+msgstr "عرض القوائم ك"
+
+#: admin/settings.php:74 main.php:120 search.php:84
+msgid "Grid"
+msgstr "شبكة"
+
+#: admin/settings.php:77 main.php:119 search.php:83
+msgid "List"
+msgstr "قائمة"
+
+#: admin/slider.php:4
+msgid "Slider settings"
+msgstr "إعدادات شريط التمرير"
+
+#: admin/slider.php:11
+msgid "Slide"
+msgstr "الانزلاق"
+
+#: admin/slider.php:14 admin/widget-contact.php:12 admin/widget-links.php:13
+#: admin/widget-social.php:13 admin/widget-text.php:12 item-post.php:70
+#: item.php:176
+msgid "Title"
+msgstr "عنوان"
+
+#: admin/slider.php:19
+msgid "Button Text"
+msgstr "زر كتابة"
+
+#: admin/slider.php:24
+msgid "Button url"
+msgstr "زر عنوان ورل"
+
+#: admin/slider.php:29
+msgid "Paragraph text"
+msgstr "نص الفقرة"
+
+#: admin/slider.php:36
+msgid "Slide image"
+msgstr "صورة الشريحة"
+
+#: admin/social.php:16
+msgid "Facebook"
+msgstr "فيس بوك"
+
+#: admin/social.php:23
+msgid "Twitter"
+msgstr "تغريد"
+
+#: admin/social.php:30
+msgid "Instagram"
+msgstr "إينستاجرام"
+
+#: admin/social.php:37
+msgid "LinkedIn"
+msgstr "ينكدين"
+
+#: admin/social.php:44
+msgid "Google +"
+msgstr "غوغل +"
+
+#: admin/social.php:51
+msgid "YouTube"
+msgstr "YouTube"
+
+#: admin/social.php:59
+msgid "Save Changes"
+msgstr "حفظ التغييرات"
+
+#: admin/templates-home.php:5
+msgid "Home page settings"
+msgstr "إعدادات الصفحة الرئيسية"
+
+#: admin/templates-home.php:13
+msgid "Show Banner/Slider"
+msgstr "إظهار بانر / سليدر"
+
+#: admin/templates-home.php:22
+msgid "Slider"
+msgstr "المنزلق"
+
+#: admin/templates-home.php:29
+msgid "Search placeholder"
+msgstr "العنصر النائب للبحث"
+
+#: admin/templates-home.php:37
+msgid "Search country option"
+msgstr "خيار بلد البحث"
+
+#: admin/templates-home.php:49
+msgid "Search box text 1"
+msgstr "نص مربع البحث 1"
+
+#: admin/templates-home.php:57
+msgid "Search box text 2"
+msgstr "نص مربع البحث 2"
+
+#: admin/templates-home.php:65
+msgid "Search box text 3"
+msgstr "نص مربع البحث 3"
+
+#: admin/templates-home.php:75 admin/templates-search.php:10
+msgid "Premium listings shown"
+msgstr "يتم عرض قوائم متميزة"
+
+#: admin/templates-home.php:83
+msgid "Subcategories limit "
+msgstr "الفئات الفرعية تحد"
+
+#: admin/templates-home.php:91
+msgid "Show popular"
+msgstr "إظهار الشعبية"
+
+#: admin/templates-home.php:101
+msgid "Popular searches"
+msgstr "عمليات البحث الشائعة"
+
+#: admin/templates-home.php:111
+msgid "Popular regions"
+msgstr "المناطق الشعبية"
+
+#: admin/templates-home.php:121
+msgid "Popular cities"
+msgstr "المدن الشعبية"
+
+#: admin/templates-home.php:131
+msgid "Popular searches limit"
+msgstr "عمليات البحث الشائعة محدودة"
+
+#: admin/templates-home.php:140
+msgid "Popular regions limit"
+msgstr "المناطق الشعبية تحد"
+
+#: admin/templates-home.php:149
+msgid "Popular cities limit"
+msgstr "الحد من المدن الشائعة"
+
+#: admin/templates-item-post.php:4
+msgid "Item post page settings"
+msgstr "إعدادات صفحة ما بعد الصفحة"
+
+#: admin/templates-item-post.php:10
+msgid "Category multiple selects"
+msgstr "يتم تحديد فئة متعددة"
+
+#: admin/templates-item-post.php:18
+msgid "Title min. length"
+msgstr "العنوان مين. الطول"
+
+#: admin/templates-item-post.php:22
+msgid "Description min. length"
+msgstr "الوصف مين. الطول"
+
+#: admin/templates-item-post.php:26
+msgid "Locations input as"
+msgstr "المواقع المدخلات كما"
+
+#: admin/templates-item-post.php:29
+msgid "Drop-down select"
+msgstr "حدد المنسدلة"
+
+#: admin/templates-item-post.php:30
+msgid "Auto-complete text"
+msgstr "إكمال النص تلقائيا"
+
+#: admin/templates-item-post.php:35
+msgid "Locations required"
+msgstr "المواقع المطلوبة"
+
+#: admin/templates-search.php:4
+msgid "Search page settings"
+msgstr "إعدادات صفحة البحث"
+
+#: admin/templates.php:9
+msgid "Templates settings"
+msgstr "إعدادات القوالب"
+
+#: admin/templates.php:12
+msgid "Home"
+msgstr "الصفحة الرئيسية"
+
+#: admin/templates.php:14
+msgid "Item Post"
+msgstr "البند آخر"
+
+#: admin/theme-style.php:11
+msgid "Theme color mode"
+msgstr "وضع لون الموضوع"
+
+#: admin/theme-style.php:14
+msgid "Blue"
+msgstr "أزرق"
+
+#: admin/theme-style.php:15
+msgid "Dark Blue"
+msgstr "أزرق غامق"
+
+#: admin/theme-style.php:16
+msgid "Dark Green"
+msgstr "أخضر غامق"
+
+#: admin/theme-style.php:17
+msgid "Purple"
+msgstr "أرجواني"
+
+#: admin/theme-style.php:18
+msgid "Red"
+msgstr "أحمر"
+
+#: admin/theme-style.php:23
+msgid "RTL view"
+msgstr "عرض رتل"
+
+#: admin/theme-style.php:28
+msgid "Right to left view."
+msgstr "من اليمين إلى اليسار."
+
+#: admin/theme-style.php:33
+msgid "Custom CSS"
+msgstr "لغة تنسيق ويب حسب الطلب"
+
+#: admin/theme-style.php:37
+msgid "You can write your custom CSS and override the default CSS."
+msgstr "يمكنك كتابة كس المخصص وتجاوز كس الافتراضي."
+
+#: admin/widget-contact.php:7
+msgid "Contact Widget"
+msgstr "الاتصال القطعة"
+
+#: admin/widget-contact.php:19 user-profile.php:64
+msgid "Phone"
+msgstr "هاتف"
+
+#: admin/widget-contact.php:22 admin/widget-contact.php:31
+#: admin/widget-contact.php:40
+msgid "Icon"
+msgstr "أيقونة"
+
+#: admin/widget-contact.php:28
+msgid "Email"
+msgstr "البريد الإلكتروني"
+
+#: admin/widget-contact.php:37 item-post.php:173 user-profile.php:94
+msgid "Address"
+msgstr "عنوان"
+
+#: admin/widget-links.php:7
+msgid "Links Widget"
+msgstr "وصلات القطعة"
+
+#: admin/widget-links.php:22
+msgid "Add links"
+msgstr "إضافة روابط"
+
+#: admin/widget-position.php:7
+msgid "Arrange Widgets"
+msgstr "ترتيب الحاجيات"
+
+#: admin/widget-position.php:10
+msgid "You can drag the widget to alter the position"
+msgstr "يمكنك سحب القطعة لتغيير الموقف"
+
+#: admin/widget-position.php:23
+#, php-format
+msgid "%s Widget"
+msgstr ""
+
+#: admin/widget-social.php:7
+msgid "Social Widget"
+msgstr "الاجتماعية القطعة"
+
+#: admin/widget-social.php:22
+msgid "Add social links"
+msgstr "إضافة روابط اجتماعية"
+
+#: admin/widget-text.php:7
+msgid "Text Widget"
+msgstr "نص القطعة"
+
+#: admin/widget-text.php:18
+msgid "Content"
+msgstr "يحتوى"
+
+#: alert-form.php:27
+msgid "You have sucessfully subscribed to the alert"
+msgstr "لقد اشتركت بنجاح في التنبيه"
+
+#: alert-form.php:28 functions.php:1047 user-change_email.php:77
+msgid "Invalid email address"
+msgstr "عنوان البريد الإلكتروني غير صالح"
+
+#: alert-form.php:29
+msgid "There was a problem with the alert"
+msgstr "حدثت مشكلة في التنبيه"
+
+#: alert-form.php:61
+msgid "Already subscribed to this search"
+msgstr "اشتركت في هذا البحث"
+
+#: alert-form.php:65
+msgid "Subscribe to this search"
+msgstr "اشترك في هذا البحث"
+
+#: alert-form.php:80
+msgid "Subscribe now"
+msgstr "إشترك الآن"
+
+#: common/head.php:25 item.php:128 loop-single-premium.php:131
+#: loop-single.php:95 loop-single.php:149
+msgid "Delete"
+msgstr "حذف"
+
+#: common/head.php:26
+msgid "Cancel"
+msgstr "إلغاء"
+
+#: common/head.php:83
+msgid "Previous image"
+msgstr "الصورة السابقة"
+
+#: common/head.php:84
+msgid "Next image"
+msgstr "الصورة التالية"
+
+#: common/head.php:85
+msgid "Close"
+msgstr "قريب"
+
+#: contact.php:30
+msgid "Contact us"
+msgstr "اتصل بنا"
+
+#: contact.php:39 item-send-friend.php:43 item-sidebar.php:102 item.php:163
+#: user-public-sidebar.php:33
+msgid "Your name"
+msgstr "اسمك"
+
+#: contact.php:40 contact.php:53 item-sidebar.php:110
+#: user-public-sidebar.php:41
+msgid "optional"
+msgstr "اختياري"
+
+#: contact.php:46 user-public-sidebar.php:37
+msgid "Your email address"
+msgstr "عنوان بريدك الإلكتروني"
+
+#: contact.php:52
+msgid "Subject"
+msgstr "موضوع"
+
+#: contact.php:59 item-send-friend.php:77 item-sidebar.php:115
+#: user-public-sidebar.php:46
+msgid "Message"
+msgstr "رسالة"
+
+#: contact.php:67 item-send-friend.php:86 item-sidebar.php:148 item.php:188
+#: user-public-sidebar.php:69
+msgid "Send"
+msgstr "إرسال"
+
+#: footer.php:40 header.php:76
+msgid "My account"
+msgstr "حسابي"
+
+#: footer.php:41 header.php:77
+msgid "Logout"
+msgstr "الخروج"
+
+#: footer.php:44 functions.php:496 header.php:80 item-sidebar.php:56
+#: user-login.php:29
+msgid "Login"
+msgstr "تسجيل الدخول"
+
+#: footer.php:47 item-sidebar.php:57 user-login.php:56
+msgid "Register for a free account"
+msgstr "سجل للحصول على حساب مجاني"
+
+#: footer.php:54 header.php:70
+msgid "Publish your ad for free"
+msgstr "انشر إعلانك مجانا"
+
+#: footer.php:71 functions.php:500 user-public-sidebar.php:26
+msgid "Contact"
+msgstr "اتصل"
+
+#: footer.php:77
+msgid "Follow us"
+msgstr "تابعنا"
+
+#: footer.php:113
+#, php-format
+msgid ""
+"Free responsive Osclass theme by <a target=\"_blank\" title=\"osclasswizards"
+"\" href=\"%s\">OsclassWizards</a>"
+msgstr ""
+
+#: functions.php:32
+msgid "ie. PHP Programmer"
+msgstr "أي. فب مبرمج"
+
+#: functions.php:323
+msgid "Categories"
+msgstr "الاقسام"
+
+#: functions.php:363
+msgid "See more listings..."
+msgstr "مشاهدة المزيد من بطاقات البيانات ..."
+
+#: functions.php:481 item-post.php:44
+msgid "Publish a listing"
+msgstr "نشر بطاقة بيانات"
+
+#: functions.php:482
+msgid "Edit your listing"
+msgstr "تعديل بطاقة البيانات"
+
+#: functions.php:483 item-send-friend.php:30
+msgid "Send to a friend"
+msgstr "أرسل لصديق"
+
+#: functions.php:484 item-sidebar.php:42
+msgid "Contact publisher"
+msgstr "جهة اتصال جهة الاتصال"
+
+#: functions.php:485
+msgid "Search results"
+msgstr "نتائج البحث"
+
+#: functions.php:486
+#, php-format
+msgid "Search results: %s"
+msgstr ""
+
+#: functions.php:487
+msgid "Dashboard"
+msgstr "لوحة القيادة"
+
+#: functions.php:488
+#, php-format
+msgid "%s's profile"
+msgstr ""
+
+#: functions.php:489 functions.php:538
+msgid "Account"
+msgstr "الحساب"
+
+#: functions.php:490 functions.php:528 search.php:132 user-alerts.php:52
+msgid "Listings"
+msgstr "قوائم"
+
+#: functions.php:491 functions.php:533 user-alerts.php:29 user-alerts.php:37
+msgid "Alerts"
+msgstr "التنبيهات"
+
+#: functions.php:492 user-profile.php:29 user-profile.php:37
+msgid "Update account"
+msgstr "تحديث الحساب"
+
+#: functions.php:493 functions.php:543
+msgid "Change email"
+msgstr "تغيير الايميل"
+
+#: functions.php:494 functions.php:548 user-change_username.php:31
+#: user-change_username.php:39
+msgid "Change username"
+msgstr "غير اسم المستخدم"
+
+#: functions.php:495 functions.php:498 functions.php:553
+#: user-change_password.php:29 user-change_password.php:37
+#: user-forgot_password.php:52
+msgid "Change password"
+msgstr "تغيير كلمة السر"
+
+#: functions.php:497
+msgid "Recover password"
+msgstr "إستعادة كلمة المرور"
+
+#: functions.php:499
+msgid "Create a new account"
+msgstr "انشاء حساب جديد"
+
+#: functions.php:523
+msgid "Public Profile"
+msgstr "حساب عام"
+
+#: functions.php:558 user-sidebar.php:27
+msgid "Delete account"
+msgstr "حذف الحساب"
+
+#: functions.php:618 functions.php:787
+msgid "The slider settings has been saved"
+msgstr "تم حفظ إعدادات شريط التمرير"
+
+#: functions.php:627
+msgid "Theme settings updated correctly"
+msgstr "تم تحديث إعدادات الموضوع بشكل صحيح"
+
+#: functions.php:652 functions.php:657 functions.php:668
+msgid "Templates settings updated correctly"
+msgstr "تم تحديث إعدادات القوالب بشكل صحيح"
+
+#: functions.php:679
+msgid "Ads management updated correctly"
+msgstr "تم تحديث إدارة الإعلانات بشكل صحيح"
+
+#: functions.php:686
+msgid "Category icons settings updated correctly"
+msgstr "تم تحديث إعدادات الرموز الفئة بشكل صحيح"
+
+#: functions.php:697
+msgid "Theme style settings updated correctly"
+msgstr "تم تحديث إعدادات نمط الموضوع بشكل صحيح"
+
+#: functions.php:712
+msgid "Social links updated correctly"
+msgstr "تم تحديث الروابط الاجتماعية بشكل صحيح"
+
+#: functions.php:727
+msgid "The favicon image has been uploaded correctly"
+msgstr "تم تحميل صورة أيقونة المفضلة بشكل صحيح"
+
+#: functions.php:729 functions.php:747 functions.php:833
+msgid "An error has occurred, please try again"
+msgstr "حدث خطأ، يرجى إعادة المحاولة"
+
+#: functions.php:745
+msgid "The logo image has been uploaded correctly"
+msgstr "تم تحميل صورة الشعار بشكل صحيح"
+
+#: functions.php:798
+msgid "The favicon image has been removed"
+msgstr "تمت إزالة صورة رمز المفضلة"
+
+#: functions.php:800 functions.php:814 functions.php:846
+msgid "Image not found"
+msgstr "الصورة غير موجودة"
+
+#: functions.php:812
+msgid "The logo image has been removed"
+msgstr "تمت إزالة صورة الشعار"
+
+#: functions.php:831
+msgid "The banner image has been uploaded correctly"
+msgstr "تم تحميل صورة البانر بشكل صحيح"
+
+#: functions.php:844
+msgid "The banner image has been removed"
+msgstr "تمت إزالة صورة البانر"
+
+#: functions.php:868
+msgid "OsclassWizards"
+msgstr "OsclassWizards"
+
+#: functions.php:923 functions.php:945
+msgid "All categories"
+msgstr "جميع الفئات"
+
+#: functions.php:1024
+msgid "Choose one category"
+msgstr "اختر فئة واحدة"
+
+#: functions.php:1027
+msgid "Title: this field is required"
+msgstr "العنوان: هذا الحقل مطلوب"
+
+#: functions.php:1028
+msgid "Title too short"
+msgstr "العنوان قصير جدا"
+
+#: functions.php:1031
+msgid "Description too short"
+msgstr "الوصف قصير جدا"
+
+#: functions.php:1034
+msgid "Price: no more than 50 characters"
+msgstr "السعر: لا يزيد عن 50 حرفا"
+
+#: functions.php:1036
+msgid "Currency: make your selection"
+msgstr "العملة: جعل اختيارك"
+
+#: functions.php:1038
+msgid "Photo: must be png,gif,jpg,jpeg"
+msgstr "الصورة: يجب أن يكون ينغ، جيف، جبغ، جبيغ"
+
+#: functions.php:1041
+msgid "Name: this field is required"
+msgstr "الاسم: هذا الحقل مطلوب"
+
+#: functions.php:1042
+msgid "Name: enter at least 3 characters"
+msgstr "الاسم: أدخل 3 أحرف على الأقل"
+
+#: functions.php:1043
+msgid "Name: no more than 35 characters"
+msgstr "الاسم: لا يزيد عن 35 حرفا"
+
+#: functions.php:1046 user-change_email.php:76
+msgid "Email: this field is required"
+msgstr "البريد الإلكتروني: هذا الحقل مطلوب"
+
+#: functions.php:1050
+msgid "Please select a country"
+msgstr "رجاء قم بإختيار دوله"
+
+#: functions.php:1053 functions.php:1065
+msgid "Region: this field is required"
+msgstr "هذا الحقل مطلوب"
+
+#: functions.php:1054
+msgid "Region: enter at least 3 characters"
+msgstr "المنطقة: أدخل 3 أحرف على الأقل"
+
+#: functions.php:1055
+msgid "Region: no more than 100 characters"
+msgstr "المنطقة: لا يزيد عن 100 حرف"
+
+#: functions.php:1058 functions.php:1068
+msgid "City: this field is required"
+msgstr "هذا الحقل مطلوب"
+
+#: functions.php:1059
+msgid "City: enter at least 3 characters"
+msgstr "المدينة: أدخل 3 أحرف على الأقل"
+
+#: functions.php:1060
+msgid "City: no more than 100 characters"
+msgstr "المدينة: لا يزيد عن 100 حرف"
+
+#: functions.php:1384 functions.php:1397 functions.php:1410 functions.php:1423
+#: functions.php:1436
+msgid "n/a"
+msgstr "ن / أ"
+
+#: functions.php:1447
+msgid "SALE"
+msgstr "تخفيض السعر"
+
+#: functions.php:1447
+msgid "RENT"
+msgstr "تأجير"
+
+#: header.php:54
+msgid "Language:"
+msgstr "لغة:"
+
+#: header.php:75
+#, php-format
+msgid "Hi %s"
+msgstr ""
+
+#: header.php:82 user-register.php:30
+msgid "Register"
+msgstr "تسجيل"
+
+#: header.php:169
+msgid "See all categories"
+msgstr "انظر جميع الفئات"
+
+#: header.php:211
+msgid "Select a country"
+msgstr "اختر دولة"
+
+#: header.php:217
+msgid "Select a region"
+msgstr "حدد منطقة"
+
+#: header.php:222
+msgid "Select a city"
+msgstr "حدد مدينة"
+
+#: header.php:231
+msgid "Select a type"
+msgstr "حدد نوعا"
+
+#: header.php:232
+msgid "For rent"
+msgstr "للإيجار"
+
+#: header.php:233
+msgid "For sale"
+msgstr "للبيع"
+
+#: header.php:244
+msgid "Select a property type"
+msgstr "حدد نوع الخاصية"
+
+#: header.php:255 item-post.php:62 item-post.php:64
+msgid "Select a category"
+msgstr "اختر تصنيف"
+
+#: header.php:263
+msgid "Min Price"
+msgstr "السعر الأدنى"
+
+#: header.php:266
+msgid "Max Price"
+msgstr "ماكس السعر"
+
+#: header.php:280
+msgid "Rooms"
+msgstr "غرف"
+
+#: header.php:290
+msgid "Bathrooms"
+msgstr "الحمامات"
+
+#: item-post.php:56
+msgid "General Information"
+msgstr "معلومات عامة"
+
+#: item-post.php:58
+msgid "Category"
+msgstr "الفئة"
+
+#: item-post.php:76 user-profile.php:106
+msgid "Description"
+msgstr "وصف"
+
+#: item-post.php:83 search-sidebar.php:63
+msgid "Price"
+msgstr "السعر"
+
+#: item-post.php:94
+msgid "Listing Location"
+msgstr "موقع الإدراج"
+
+#: item-post.php:97 user-profile.php:70
+msgid "Country"
+msgstr "بلد"
+
+#: item-post.php:103 item-post.php:129 user-profile.php:76
+msgid "Region"
+msgstr "منطقة"
+
+#: item-post.php:151 search-sidebar.php:45 user-profile.php:82
+msgid "City"
+msgstr "مدينة"
+
+#: item-post.php:167
+msgid "City Area"
+msgstr "منطقة المدينة"
+
+#: item-post.php:182
+msgid "Seller's information"
+msgstr "Sمعلومات البائع"
+
+#: item-post.php:184 item-sidebar.php:61 user-profile.php:45
+#: user-register.php:38
+msgid "Name"
+msgstr "اسم"
+
+#: item-post.php:190 user-login.php:37 user-recover.php:36 user-register.php:44
+msgid "E-mail"
+msgstr "البريد الإلكتروني"
+
+#: item-post.php:197
+msgid "Show e-mail on the listing page"
+msgstr "عرض البريد الإلكتروني على صفحة القائمة"
+
+#: item-post.php:216 user-change_email.php:58 user-change_password.php:63
+#: user-change_username.php:102 user-profile.php:114
+msgid "Update"
+msgstr "تحديث"
+
+#: item-post.php:216
+msgid "Publish"
+msgstr "نشر"
+
+#: item-send-friend.php:49 item.php:169
+msgid "Your e-mail"
+msgstr "بريدك الالكتروني"
+
+#: item-send-friend.php:56
+msgid "Your friend's name"
+msgstr "اسم صديقك"
+
+#: item-send-friend.php:62
+msgid "Your friend's e-mail address"
+msgstr "البريد الالكتروني لصديقكم"
+
+#: item-send-friend.php:69
+msgid "Subject (optional)"
+msgstr "الموضوع (اختياري)"
+
+#: item-sidebar.php:31
+msgid "Mark as..."
+msgstr "وضع علامة باسم ..."
+
+#: item-sidebar.php:32
+msgid "Mark as spam"
+msgstr "علامة كدعاية"
+
+#: item-sidebar.php:33
+msgid "Mark as misclassified"
+msgstr "وضع علامة على تصنيف خاطئ"
+
+#: item-sidebar.php:34
+msgid "Mark as duplicated"
+msgstr "وضع علامة على أنه مكرر"
+
+#: item-sidebar.php:35
+msgid "Mark as expired"
+msgstr "وضع علامة على أنه منتهي الصلاحية"
+
+#: item-sidebar.php:36
+msgid "Mark as offensive"
+msgstr "وضع علامة على أنها مسيئة"
+
+#: item-sidebar.php:45
+msgid "The listing is expired. You can't contact the publisher."
+msgstr "انتهت صلاحية القائمة. لا يمكنك الاتصال بالناشر."
+
+#: item-sidebar.php:49
+msgid "It's your own listing, you can't contact the publisher."
+msgstr "انها قائمة الخاصة بك، لا يمكنك الاتصال الناشر."
+
+#: item-sidebar.php:53
+msgid ""
+"You must log in or register a new account in order to contact the advertiser"
+msgstr "يجب عليك تسجيل الدخول أو تسجيل حساب جديد من أجل الاتصال بالمعلن"
+
+#: item-sidebar.php:63 item-sidebar.php:66 item-sidebar.php:69
+#, php-format
+msgid " %s"
+msgstr ""
+
+#: item-sidebar.php:85
+msgid "Send message"
+msgstr "إرسال رسالة"
+
+#: item-sidebar.php:92
+msgid "Contact Publisher"
+msgstr "جهة اتصال جهة الاتصال"
+
+#: item-sidebar.php:106
+msgid "Your e-mail address"
+msgstr "عنوان بريدك الإلكتروني"
+
+#: item-sidebar.php:110 user-public-sidebar.php:41
+msgid "Phone number"
+msgstr "رقم الهاتف"
+
+#: item-sidebar.php:121
+msgid "Attachment"
+msgstr "المرفق"
+
+#: item-sidebar.php:142 user-public-sidebar.php:63
+msgid "Enter the words above"
+msgstr "أدخل الكلمات أعلاه"
+
+#: item-sidebar.php:144 user-public-sidebar.php:65
+msgid "Help"
+msgstr "مساعدة"
+
+#: item.php:63
+#, php-format
+msgid ""
+"<i class=\"fa fa-calendar-o\"></i> <strong class=\"publish\"></strong> %1$s"
+msgstr ""
+
+#: item.php:66
+#, php-format
+msgid "<i class=\"fa fa-calendar\"></i><strong class=\"update\"></strong> %1$s"
+msgstr ""
+
+#: item.php:81 loop-single-premium.php:129 loop-single.php:93
+#: loop-single.php:147
+msgid "Edit item"
+msgstr "تعديل عنصر"
+
+#: item.php:91 item.php:96
+msgid "Image"
+msgstr "صورة"
+
+#: item.php:108
+msgid "Share"
+msgstr "شارك"
+
+#: item.php:117
+msgid "Comments"
+msgstr "تعليقات"
+
+#: item.php:124
+msgid "by"
+msgstr "بواسطة"
+
+#: item.php:128
+msgid "Delete your comment"
+msgstr "حذف تعليقك"
+
+#: item.php:139
+msgid "Useful information"
+msgstr "معلومات مفيدة"
+
+#: item.php:141
+msgid "Avoid scams by acting locally or paying with PayPal"
+msgstr "تجنب الحيل عن طريق التمثيل محليا أو دفع مع باي بال"
+
+#: item.php:142
+msgid ""
+"Never pay with Western Union, Moneygram or other anonymous payment services"
+msgstr "لا تدفع مع ويسترن يونيون، مونيغرام أو غيرها من خدمات الدفع المجهول"
+
+#: item.php:143
+msgid ""
+"Don't buy or sell outside of your country. Don't accept cashier cheques from "
+"outside your country"
+msgstr "لا تشتري أو تبيع خارج بلدك. لا تقبل شيكات الصراف من خارج بلدك"
+
+#: item.php:144
+msgid ""
+"This site is never involved in any transaction, and does not handle "
+"payments, shipping, guarantee transactions, provide escrow services, or "
+"offer \"buyer protection\" or \"seller certification\""
+msgstr ""
+"هذا الموقع لا يشارك أبدا في أي معاملة، ولا يتعامل مع المدفوعات أو الشحن أو "
+"معاملات الضمان أو تقديم خدمات الضمان أو تقديم \"حماية المشتري\" أو \"شهادة "
+"البائع\""
+
+#: item.php:149
+msgid "Leave your comment (spam and offensive messages will be removed)"
+msgstr "اترك تعليقك (ستتم إزالة الرسائل غير المرغوب فيها والرسائل المسيئة)"
+
+#: item.php:182
+msgid "Comment"
+msgstr "تعليق"
+
+#: item.php:208
+msgid "Related listings"
+msgstr "القوائم ذات الصلة"
+
+#: loop-single-premium.php:51 loop-single-premium.php:92 loop-single.php:55
+#: loop-single.php:77 main.php:68
+msgid "Premium"
+msgstr "علاوة"
+
+#: loop-single-premium.php:68 loop-single-premium.php:122 loop-single.php:107
+#: loop-single.php:140 main.php:90
+msgid "Area"
+msgstr "منطقة"
+
+#: loop-single-premium.php:69 loop-single-premium.php:123 loop-single.php:108
+#: loop-single.php:141 main.php:91
+msgid "Beds"
+msgstr "سرير"
+
+#: loop-single-premium.php:70 loop-single-premium.php:124 loop-single.php:109
+#: loop-single.php:142 main.php:92
+msgid "Baths"
+msgstr "الحمامات"
+
+#: loop-single-premium.php:131 loop-single.php:95 loop-single.php:149
+msgid "This action can not be undone. Are you sure you want to continue?"
+msgstr "لا يمكن التراجع عن هذا الإجراء. هل تريد بالتأكيد المتابعة؟"
+
+#: loop-single-premium.php:134 loop-single.php:98 loop-single.php:152
+msgid "Activate"
+msgstr "تفعيل"
+
+#: main.php:47
+msgid "Premium Listings"
+msgstr "قوائم متميزة"
+
+#: main.php:112
+msgid "Latest Listings"
+msgstr "أحدث القوائم"
+
+#: main.php:115
+msgid "There aren't listings available at this moment"
+msgstr "ليست هناك قوائم متاحة في الوقت الحالي"
+
+#: main.php:131
+msgid "See all listings"
+msgstr "الاطلاع على جميع البيانات"
+
+#: main.php:139
+#, php-format
+msgid "Most viewed in %s"
+msgstr ""
+
+#: search-sidebar.php:32
+msgid "Advance search"
+msgstr "البحث المتقدم"
+
+#: search-sidebar.php:41
+msgid "Your search"
+msgstr "بحثك"
+
+#: search-sidebar.php:51
+msgid "Show only"
+msgstr "أظهر فقط"
+
+#: search-sidebar.php:55
+msgid "listings with pictures"
+msgstr "قوائم مع الصور"
+
+#: search-sidebar.php:64
+msgid "Min"
+msgstr "دقيقة"
+
+#: search-sidebar.php:66
+msgid "Max"
+msgstr "ماكس"
+
+#: search-sidebar.php:86
+msgid "Apply"
+msgstr "تطبيق"
+
+#: search-sidebar.php:93
+msgid "Refine category"
+msgstr "تصنيف الفئة"
+
+#: search.php:56
+msgid "Selected"
+msgstr "المحدد"
+
+#: search.php:57
+msgid "Nothing selected, input was"
+msgstr "لم يتم تحديد أي شيء، وكان الإدخال"
+
+#: search.php:75
+#, php-format
+msgid "There are no results matching \"%s\""
+msgstr ""
+
+#: search.php:79
+#, php-format
+msgid "%1$d - %2$d of %3$d listings"
+msgstr ""
+
+#: search.php:88
+msgid "Sort by"
+msgstr "ترتيب حسب"
+
+#: search.php:124
+msgid "Premium listings"
+msgstr "قوائم متميزة"
+
+#: search.php:145
+msgid "Other searches that may interest you"
+msgstr "عمليات البحث الأخرى التي قد تهمك"
+
+#: user-alerts.php:40
+msgid "You do not have any alerts yet"
+msgstr "ليس لديك أي تنبيهات حتى الآن"
+
+#: user-alerts.php:47
+msgid "Alert"
+msgstr "محزر"
+
+#: user-alerts.php:47
+msgid "This action can't be undone. Are you sure you want to continue?"
+msgstr "لا يمكن التراجع عن هذا الإجراء. هل تريد بالتأكيد المتابعة؟"
+
+#: user-alerts.php:47
+msgid "Delete this alert"
+msgstr "حذف هذا التنبيه"
+
+#: user-change_email.php:30
+msgid "Change e-mail"
+msgstr "تغيير الايميل"
+
+#: user-change_email.php:38
+msgid "Change E-Mail"
+msgstr "تغيير الايميل"
+
+#: user-change_email.php:45
+msgid "Current e-mail"
+msgstr "الايميل الحالي"
+
+#: user-change_email.php:51
+msgid "New E-Mail"
+msgstr "بريد إلكتروني جديد"
+
+#: user-change_password.php:44
+msgid "Current password"
+msgstr "كلمة السر الحالية"
+
+#: user-change_password.php:50 user-forgot_password.php:39
+msgid "New password"
+msgstr "كلمة السر الجديدة"
+
+#: user-change_password.php:56 user-forgot_password.php:45
+msgid "Repeat new password"
+msgstr "كرر كلمة المرور الجديدة"
+
+#: user-change_username.php:50
+msgid "Username: this field is required"
+msgstr "اسم المستخدم: هذا الحقل مطلوب"
+
+#: user-change_username.php:75
+msgid "The username is available"
+msgstr "اسم المستخدم متاح"
+
+#: user-change_username.php:77
+msgid "The username is NOT available"
+msgstr "اسم المستخدم غير متوفر"
+
+#: user-change_username.php:94
+msgid "Username"
+msgstr "اسم المستخدم"
+
+#: user-forgot_password.php:30 user-recover.php:29
+msgid "Recover your password"
+msgstr "استعادة كلمة المرور الخاصة بك"
+
+#: user-items.php:40
+msgid "My listings"
+msgstr "القوائم الخاصة بي"
+
+#: user-items.php:42
+msgid "No listings have been added yet"
+msgstr "لم تتم إضافة أية قوائم حتى الآن"
+
+#: user-login.php:42 user-register.php:50
+msgid "Password"
+msgstr "كلمه السر"
+
+#: user-login.php:49
+msgid "Remember me"
+msgstr "تذكرنى"
+
+#: user-login.php:52
+msgid "Login to My Account"
+msgstr "تسجيل الدخول الي الحساب الخاص بي"
+
+#: user-login.php:56
+msgid "Forgot password?"
+msgstr "هل نسيت كلمة المرور؟"
+
+#: user-profile.php:51
+msgid "User type"
+msgstr "نوع المستخدم"
+
+#: user-profile.php:58
+msgid "Cell phone"
+msgstr "الهاتف الخلوي"
+
+#: user-profile.php:88
+msgid "City area"
+msgstr "منطقة المدينة"
+
+#: user-profile.php:100
+msgid "Website"
+msgstr "موقع الكتروني"
+
+#: user-public-profile.php:69
+#, php-format
+msgid "<strong>Address:</strong> %1$s"
+msgstr ""
+
+#: user-public-profile.php:72
+#, php-format
+msgid "<strong>Location:</strong> %1$s"
+msgstr ""
+
+#: user-public-profile.php:77
+msgid "User description"
+msgstr "وصف المستخدم"
+
+#: user-public-profile.php:83
+msgid "Latest listings"
+msgstr "أحدث القوائم"
+
+#: user-recover.php:44
+msgid "Send me a new password"
+msgstr "ارسل لي كلمة سر جديدة"
+
+#: user-register.php:56
+msgid "Repeat password"
+msgstr "اعد كلمة السر"
+
+#: user-register.php:60
+msgid "Passwords don't match"
+msgstr "كلمات المرور غير متطابقة"
+
+#: user-register.php:72
+msgid "Create an Account"
+msgstr "انشئ حساب"
+
+#: user-sidebar.php:23
+msgid "MENU"
+msgstr "قائمة طعام"
+
+#: user-sidebar.php:28
+msgid "Are you sure you want to delete your account?"
+msgstr "هل انت متأكد انك تريد حذف حسابك؟"
+
+#~ msgid "Categories Icons"
+#~ msgstr "الفئات أيقونات"
+
+#~ msgid ""
+#~ "Choose custom icons for categories. The items from the category will take "
+#~ "the related icons in google map."
+#~ msgstr ""
+#~ "اختر الرموز المخصصة للفئات. سوف العناصر من فئة تأخذ الرموز ذات الصلة في "
+#~ "خريطة جوجل."
+
+#~ msgid ""
+#~ "We use <a style=\"color: #018be3; text-decoration: none;\" title=\"Visit "
+#~ "Font Awesome site for help\" target=\"_blank\" href=\"http://fortawesome."
+#~ "github.io/Font-Awesome/3.2.1/icons/\">Font Awesome Icons.</a> Just type "
+#~ "icon name omitting <strong>\"icon-\"</strong> eg. home or car."
+#~ msgstr ""
+#~ "نستخدم <a ستايل = \"كولور: # 018be3؛ تكست-ديكوراتيون: نون؛\" تيتل = "
+#~ "\"فيسيت فونت أويسوم سيت فور هيلب\" تارجيت = \"_ بلانك\" هريف = \"http://"
+#~ "fortawesome.github.io/Font-Awesome/3.2.1/icons/\"> رموز رهيبة للألوان. </"
+#~ "a> اكتب فقط اسم الرمز حذف <سترونغ> \"رمز -\" </ سترونغ> على سبيل المثال. "
+#~ "المنزل أو السيارة."
+
+#~ msgid "Welcome message"
+#~ msgstr "رسالة ترحيب"
+
+#~ msgid "Green"
+#~ msgstr "أخضر"
+
+#~ msgid "Vivid Red"
+#~ msgstr "الأحمر حية"
+
+#~ msgid "Light Blue"
+#~ msgstr "الضوء الأزرق"
+
+#~ msgid "Orange"
+#~ msgstr "البرتقالي"
+
+#~ msgid "Gray"
+#~ msgstr "اللون الرمادي"
+
+#~ msgid "Yellow"
+#~ msgstr "الأصفر"
+
+#~ msgid "Google fonts"
+#~ msgstr "خطوط غوغل"
+
+#~ msgid "Header 728x90"
+#~ msgstr "رأس 728x90"
+
+#~ msgid ""
+#~ "This ad will be shown at the top of your website, next to the site title "
+#~ "and above the search results."
+#~ msgstr ""
+#~ "سيظهر هذا الإعلان أعلى موقعك على الويب، بجوار عنوان الموقع وفوق نتائج "
+#~ "البحث."
+
+#~ msgid "Search results 728x90 (middle of the page)"
+#~ msgstr "نتائج البحث 728x90 (منتصف الصفحة)"
+
+#~ msgid "Sidebar sidebar-300x250"
+#~ msgstr "الشريط الجانبي الجانبي -300x250"
+
+#~ msgid "Before footer block"
+#~ msgstr "قبل تذييل كتلة"
+
+#~ msgid "Dont display this block"
+#~ msgstr "لا تعرض هذه الكتلة"
+
+#~ msgid "Short Text"
+#~ msgstr "نص قصير"
+
+#~ msgid "Button title"
+#~ msgstr "عنوان الزر"
+
+#~ msgid "Footer settings"
+#~ msgstr "إعدادات التذييل"
+
+#~ msgid "First Row Title"
+#~ msgstr "عنوان الصف الأول"
+
+#~ msgid "First Row Text"
+#~ msgstr "نص الصف الأول"
+
+#~ msgid "Last Row Title"
+#~ msgstr "عنوان الصف الأخير"
+
+#~ msgid "Last Row Text"
+#~ msgstr "نص الصف الأخير"
+
+#~ msgid "Header background settings"
+#~ msgstr "إعدادات خلفية الرأس"
+
+#~ msgid "Background image"
+#~ msgstr "الصورة الخلفية"
+
+#~ msgid "Recomended size of 1350 px X 150 px"
+#~ msgstr "حجم ريكومندد من 1350 بكسل X 150 بكسل"
+
+#~ msgid "The preferred size of the logo is 600x100."
+#~ msgstr "الحجم المفضل للشعار هو 600x100."
+
+#~ msgid "Catalogue Theme by "
+#~ msgstr "كتالوج الموضوع من قبل"
+
+#~ msgid "Ads settings"
+#~ msgstr "إعدادات الإعلانات"
+
+#~ msgid "Post item title"
+#~ msgstr "عنوان عنصر المشاركة"
+
+#~ msgid "Gallery"
+#~ msgstr "صالة عرض"
+
+#~ msgid "Footer link"
+#~ msgstr "رابط تذييل الصفحة"
+
+#~ msgid ""
+#~ "I want to help Osclass by linking to <a href=\"http://osclass.org/\" "
+#~ "target=\"_blank\">osclass.org</a> from my site with the following text:"
+#~ msgstr ""
+#~ "أريد مساعدة أوسكلاس من خلال ربط <a href=\"http://osclass.org/\" target="
+#~ "\"_blank\"> osclass.org </a> من موقعي بالنص التالي:"
+
+#~ msgid ""
+#~ "This website is proudly using the <a title=\"Osclass web\" href=\"http://"
+#~ "osclass.org/\">classifieds scripts</a> software <strong>Osclass</strong>"
+#~ msgstr ""
+#~ "هذا الموقع يستخدم بكل فخر برنامج <a title=\"Osclass web\" href=\"http://"
+#~ "osclass.org/\"> البرامج النصية المبوبة </a> <سترونغ> أوسكلاس </ سترونغ>"
+
+#~ msgid "Show location input as:"
+#~ msgstr "إظهار إدخال الموقع على النحو التالي:"
+
+#~ msgid "Sign up"
+#~ msgstr "سجل"
+
+#~ msgid "Free Listing"
+#~ msgstr "قائمة مجانية"
+
+#~ msgid "Pages"
+#~ msgstr "صفحات"
+
+#~ msgid "All rights reserved."
+#~ msgstr "كل الحقوق محفوظة."
+
+#~ msgid "The header background settings has been saved"
+#~ msgstr "تم حفظ إعدادات خلفية الرأس"
+
+#~ msgid "The category icon settings has been saved"
+#~ msgstr "تم حفظ إعدادات رمز الفئة"
+
+#~ msgid "The social links has been saved"
+#~ msgstr "تم حفظ الروابط الاجتماعية"
+
+#~ msgid "The footer settings has been saved"
+#~ msgstr "تم حفظ إعدادات التذييل"
+
+#~ msgid "Catalogue theme settings"
+#~ msgstr "إعدادات موضوع الكتالوج"
+
+#~ msgid "Report"
+#~ msgstr "أبلغ عن"
+
+#~ msgid "Featured"
+#~ msgstr "متميز"
+
+#~ msgid "View details"
+#~ msgstr "عرض التفاصيل"
+
+#~ msgid "Show filters"
+#~ msgstr "اظهر الفلاتر"
+
+#~ msgid "Access to your account"
+#~ msgstr "الدخول إلى حسابك"
+
+#~ msgid "Log in"
+#~ msgstr "تسجيل الدخول"
+
+#~ msgid "Adress : "
+#~ msgstr "العنوان:"
+
+#~ msgid "Location : "
+#~ msgstr "موقعك :"
+
+#~ msgid "Register an account for free"
+#~ msgstr "تسجيل حساب مجانا"
+
+#~ msgid "Create"
+#~ msgstr "خلق"
+
+#~ msgid "Already have an account ?"
+#~ msgstr "هل لديك حساب ؟"
+
+#~ msgid "Display menu"
+#~ msgstr "قائمة العرض"
+
+#~ msgid "Delete account ?"
+#~ msgstr "حذف الحساب ؟"
+
+#~ msgid "Show Header Background Image"
+#~ msgstr "عرض صورة خلفية الرأس"
+
+#~ msgid "Show Footer Background Image"
+#~ msgstr "عرض صورة خلفية تذييل الصفحة"
+
+#~ msgid "CONTACT"
+#~ msgstr "اتصل"
+
+#~ msgid "view all..."
+#~ msgstr "عرض الكل ..."
+
+#~ msgid "Theme color settings updated correctly"
+#~ msgstr "إعدادات اللون موضوع تحديثها بشكل صحيح"
+
+#~ msgid "The header background image has been uploaded correctly"
+#~ msgstr "تم تحميل صورة خلفية الرأس بشكل صحيح"
+
+#~ msgid "The footer background image has been uploaded correctly"
+#~ msgstr "تم تحميل صورة خلفية التذييل بشكل صحيح"
+
+#~ msgid "The footer background image image has been removed"
+#~ msgstr "تمت إزالة صورة صورة خلفية التذييل"
+
+#~ msgid "What are you looking for?"
+#~ msgstr "عما تبحث؟"
+
+#~ msgid "Filters:"
+#~ msgstr "المرشحات:"

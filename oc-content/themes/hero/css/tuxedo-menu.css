@@ -1,0 +1,126 @@
+.metismenu .plus-minus,.metismenu .plus-times{float:right}.metismenu .arrow{float:right;line-height:1.42857}.metismenu .glyphicon.arrow:before{content:"\e079"}.metismenu .active>a>.glyphicon.arrow:before{content:"\e114"}.metismenu .fa.arrow:before{content:"\f104"}.metismenu .active>a>.fa.arrow:before{content:"\f107"}.metismenu .ion.arrow:before{content:"\f3d2"}.metismenu .active>a>.ion.arrow:before{content:"\f3d0"}.metismenu .fa.plus-minus:before,.metismenu .fa.plus-times:before{content:"\f067"}.metismenu .active>a>.fa.plus-times{-webkit-transform:rotate(45deg);-ms-transform:rotate(45deg);transform:rotate(45deg)}.metismenu .active>a>.fa.plus-minus:before{content:"\f068"}.metismenu .collapse{display:none}.metismenu .collapse.in{display:block}.metismenu .collapsing{position:relative;height:0;overflow:hidden;-webkit-transition-timing-function:ease;transition-timing-function:ease;-webkit-transition-duration:.35s;transition-duration:.35s;-webkit-transition-property:height,visibility;transition-property:height,visibility}
+.tuxedo-menu-trigger:hover, .tuxedo-menu-trigger:focus {
+  cursor: pointer;
+}
+nav#sidebar5 {
+    background: #f3f3f3;
+    border-color: rgba(0, 0, 0, 0.1);
+    color: rgba(0, 0, 0, 0.7);
+}
+
+.tuxedo-navbar {
+  background-color: #eee;
+  padding: 1em;
+}
+center.navigasi {
+    padding: 5px;
+    border-bottom: #ddd 1px solid;
+}
+.tuxedo-navbar .tuxedo-menu-trigger {
+  font-size: 24px;
+  color: #000;
+}
+
+.tuxedo-navbar a:hover,
+.tuxedo-navbar a:focus {
+  text-decoration: none;
+}
+
+.tuxedo-menu {
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  background: #0f0f0f;
+  -webkit-animation-duration: 200ms;
+          animation-duration: 200ms;
+  display: none;
+}
+.tuxedo-menu ul {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+.tuxedo-menu ul li {
+  border-left: none;
+}
+.tuxedo-menu ul li:last-child {
+  border-bottom: none;
+}
+.tuxedo-menu ul li a {
+  border-bottom: #ddd 1px solid;
+  color: #4F4F4F;
+  font-size: 13px;
+  text-decoration: none;
+}
+.tuxedo-menu ul li a:hover, .tuxedo-menu ul li a:focus {
+  color: #4F4F4F;
+  background: #ECECEC;
+}
+.tuxedo-menu ul li a, .tuxedo-menu ul li h1 {
+  font-weight: 600;
+  border-top: none;
+  border-right: none;
+  border-left: none;
+  display: block;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  padding-right: 15px;
+  line-height: 20px;
+}
+.tuxedo-menu ul li h1 {
+  font-size: 13px;
+  font-weight: 0;
+  color: #666;
+  margin: 0;
+}
+.tuxedo-menu > ul > li > :first-child {
+  padding-left: 15px;
+}
+.tuxedo-menu > ul > li > :first-child + ul > li > :first-child {
+  padding-left: 30px;
+}
+.tuxedo-menu > ul > li > :first-child + ul > li > :first-child + ul > li > :first-child {
+  padding-left: 45px;
+}
+.tuxedo-menu > ul > li > :first-child + ul > li > :first-child + ul > li > :first-child + ul > li > :first-child {
+  padding-left: 60px;
+}
+.tuxedo-menu > ul > li > :first-child + ul > li > :first-child + ul > li > :first-child + ul > li > :first-child + ul > li > :first-child {
+  padding-left: 75px;
+}
+.tuxedo-menu > ul > li > :first-child + ul > li > :first-child + ul > li > :first-child + ul > li > :first-child + ul > li > :first-child + ul > li > :first-child {
+  padding-left: 90px;
+}
+.tuxedo-menu > ul > li > :first-child + ul > li > :first-child + ul > li > :first-child + ul > li > :first-child + ul > li > :first-child + ul > li > :first-child + ul > li > :first-child {
+  padding-left: 105px;
+}
+.tuxedo-menu > ul > li > :first-child + ul > li > :first-child + ul > li > :first-child + ul > li > :first-child + ul > li > :first-child + ul > li > :first-child + ul > li > :first-child + ul > li > :first-child {
+  padding-left: 120px;
+}
+.tuxedo-menu > ul > li > :first-child + ul > li > :first-child + ul > li > :first-child + ul > li > :first-child + ul > li > :first-child + ul > li > :first-child + ul > li > :first-child + ul > li > :first-child + ul > li > :first-child {
+  padding-left: 135px;
+}
+.tuxedo-menu > ul > li > :first-child + ul > li > :first-child + ul > li > :first-child + ul > li > :first-child + ul > li > :first-child + ul > li > :first-child + ul > li > :first-child + ul > li > :first-child + ul > li > :first-child + ul > li > :first-child {
+  padding-left: 150px;
+}
+.tuxedo-menu.tuxedo-menu-fixed {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 30%;
+  height: 100%;
+  overflow-y: auto;
+  z-index: 9999;
+  opacity: 1;
+}
+.tuxedo-menu.tuxedo-menu-fixed ul li a,
+.tuxedo-menu.tuxedo-menu-fixed ul li .heading {
+  height: 40px;
+}
+.tuxedo-menu.tuxedo-menu-visible {
+  display: block;
+}
+
+@media (max-width: 768px) {
+  .tuxedo-menu.tuxedo-menu-fixed {
+    width: 80%;
+  }
+}

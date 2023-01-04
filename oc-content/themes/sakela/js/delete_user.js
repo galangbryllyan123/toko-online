@@ -1,0 +1,2 @@
+
+$(document).ready(function(){$(".opt_delete_account a").click(function(){$("#dialog-delete-account").dialog("open")}),$("#dialog-delete-account").dialog({autoOpen:!1,modal:!0,buttons:[{text:sakela.langs["delete"],click:function(){window.location=sakela.base_url+"?page=user&action=delete&id="+sakela.user.id+"&secret="+sakela.user.secret}},{text:sakela.langs.cancel,click:function(){$(this).dialog("close")}}]})});

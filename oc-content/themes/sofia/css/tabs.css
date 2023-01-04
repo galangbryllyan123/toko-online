@@ -1,0 +1,23 @@
+.tabberlive .tabbertabhide {display:none;}
+.tabberlive {margin-top:5px;float:left;width:100%;clear:both;}
+ul.tabbernav {margin:0 0 -1px 0;padding:0;float:left;width:100%;clear:both;}
+ul.tabbernav li {opacity:0.4;position:relative;z-index:1;list-style: none;margin: 0 3px 0 0;display: inline;float:left;border:1px solid #f7b900;padding:1px 1px 0 1px;background:#fff;-webkit-border-top-left-radius: 2px; -webkit-border-top-right-radius: 2px; -moz-border-radius-topleft: 2px; -moz-border-radius-topright: 2px; border-top-left-radius: 2px; border-top-right-radius: 2px;-webkit-transition: 0.2s linear all; -moz-transition: 0.2s linear all; -ms-transition: 0.2s linear all; -o-transition: 0.2s linear all; transition: 0.2s linear all; }
+ul.tabbernav li a {border-bottom:1px solid #fff;padding:7px 8px 5px 8px;color:#333;font-weight:bold;font-size:11px;float:left;background:#f7b900 url('images/lang-tab.png') repeat-x top center;-webkit-border-top-left-radius: 2px; -webkit-border-top-right-radius: 2px; -moz-border-radius-topleft: 2px; -moz-border-radius-topright: 2px; border-top-left-radius: 2px; border-top-right-radius: 2px;}
+ul.tabbernav li a:hover {color: #333;text-decoration:none;}
+ul.tabbernav li:hover {opacity:1;}
+ul.tabbernav li.tabberactive {z-index:3;opacity:1;}
+ul.tabbernav li.tabberactive a, ul.tabbernav li:hover a {border-bottom:1px solid #f7b900;}
+ul.tabbernav li.tabberactive a:hover {}
+.tabberlive .tabbertab {position:relative;z-index:2;float:left;width:100%;padding:0px;border-radius:3px;-moz-border-radius:3px;-webkit-border-radius:3px;background:#f9f9f9;}
+.tabberlive .tabbertab .inside {margin:0 0 5px 0;background:#fff;float:left;width:100%;height:10px;padding:0 0 1px 1px;border:1px solid #f7b900;border-top:none;border-right:none;}
+.tabberlive .tabbertab .inside .bg {background:#f7b900;float:left;width:100%;height:8px;}
+.tabberlive .tabbertab h2 {display:none;}
+.tabberlive .tabbertab h3 {display:none;}
+.tabberlive#tab1 {}
+.tabberlive#tab2 {}
+.tabberlive#tab2 .tabbertab {height:200px;overflow:auto;}
+
+#plugin-hook ul.tabbernav li {border-radius:3px;-moz-border-radius:3px;-webkit-border-radius:3px;}
+#plugin-hook ul.tabbernav li a {text-align:center;font-size:12px;padding:4px 6px;border-radius:3px;-moz-border-radius:3px;-webkit-border-radius:3px;border-bottom: 1px solid #f7b900;}
+#plugin-hook ul.tabbernav li a, #plugin-hook ul.tabbernav li.tabberactive a, #plugin-hook ul.tabbernav li:hover a {border-bottom:1px solid #fff;}
+#plugin-hook ul.tabbernav li {borer-bottom:1px solid #f7b900;}

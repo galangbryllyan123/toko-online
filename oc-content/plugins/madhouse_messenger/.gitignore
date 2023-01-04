@@ -1,0 +1,8 @@
+# Composer
+/composer.phar
+/vendor/
+
+# NPM / Grunt
+/node_modules/
+
+*.DS_Store*

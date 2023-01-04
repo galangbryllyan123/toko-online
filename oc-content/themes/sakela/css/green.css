@@ -1,0 +1,17 @@
+
+
+/* -- color #77c04b; green color -- */
+
+/* -- home page colors -- */
+
+#right-navbar li a, #right-navbar .first-logged a, #header .ui-button, #sel .ui-button, #profileicon, #sidebar .plugin-hooks .one_input h6, .flashmessage-404 .ui-button{
+    background-color:  #77c04b;
+}
+.pull-right #right-navbar li a:hover{
+    color: #77c04b;
+    text-shadow: 0 1px 0 #77c04b;
+
+}
+.flashmessage-404 .categories a:hover, #language-row span a:hover, #footer h5 a:hover, .navbar-brand a, #description, .navbar-inverse #main-navbar li a:hover, .navbar-default .navbar-left li a:hover, #footer .row ul li a:hover, .first-logged span, .breadcrumb li a:hover, #category-heading .fa{
+	color: #77c04b;
+}

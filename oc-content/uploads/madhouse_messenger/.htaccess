@@ -1,0 +1,39 @@
+###
+### Global options for this directory:
+###
+### - Don't list directory contents.
+### - Don't allow server side include (SSI).
+### - Don't allow excution of cgi scripts.
+Options -Includes -Indexes -ExecCGI
+
+###
+### Disable script execution
+###
+RemoveHandler .php .php2 .php3 .php4 .php5 .php6 .php7 .php8 .pl .py .js .jsp .asp .htm .html .shtm .shtml .sh .cgi
+
+### - Set reponse mime type as text/plain for 'script' files.
+<IfModule mod_mime.c>
+    RemoveType .php .php2 .php3 .php4 .php5 .php6 .php7 .php8 .pl .py .js .jsp .asp .htm .html .shtm .shtml .sh .cgi
+    AddType text/plain .php .php2 .php3 .php4 .php5 .php6 .php7 .php8 .pl .py .js .jsp .asp .htm .html .shtm .shtml .sh .cgi
+</IfModule>
+
+### - @fallback if mod_mime is not enabled to force response as text/plain.
+<FilesMatch ".+\.(php\d*|pl|py|(p|s)?html?|(j|a)sp|sh|cgi)$">
+    SetHandler None
+    # SetHandler default-handler
+    ForceType text/plain
+</FilesMatch>
+
+### - When running with mod_php, disable it.
+<IfModule mod_php.c>
+    php_flag engine off
+</IfModule>
+
+### Only allow GET and POST HTTP methods
+# <LimitExcept GET POST>
+#     Deny from all
+# </LimitExcept>
+
+### Use 404 instead of 403
+#RedirectMatch 404 ^.*/madhouse_messenger(/.*)?$
+

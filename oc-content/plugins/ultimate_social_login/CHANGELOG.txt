@@ -1,0 +1,45 @@
+Ultimate Social Login 1.2.0 2019-06-30
+------------------------
+
+- Fixed VK for New API
+- Updated Help
+- New Google Login
+
+Ultimate Social Login 1.1.0 2019-01-11
+------------------------
+
+- Fixed Twitter for New API
+- Updated Twitter Help
+- Fixed Help for Google+
+
+Ultimate Social Login 1.0.7 2018-25-04
+------------------------
+
+- Fixed Windows Live
+
+Ultimate Social Login 1.0.6 2018-25-03
+------------------------
+
+- Update for Facebook API
+
+Ultimate Social Login 1.0.5 2018-04-03
+------------------------
+
+- Update for Vk.com API
+
+Ultimate Social Login 1.0.4 2018-23-02
+------------------------
+
+- Fixed drag and drop in admin settings
+
+
+Ultimate Social Login 1.0.2 2017-11-20
+------------------------
+
+- Fixed Google+ login with friendly url
+
+
+
+
+
+

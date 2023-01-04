@@ -1,0 +1,1776 @@
+# Copyright (C) 2013 Osclass
+# This file is distributed under the same license as the {package-name} package.
+msgid ""
+msgstr ""
+"Project-Id-Version: Udhauli\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-02-05 16:46+0545\n"
+"PO-Revision-Date: 2018-02-05 16:49+0545\n"
+"Last-Translator: _CONEJO <conejo@conejo.me>\n"
+"Language-Team: Translations <translations@osclass.org>\n"
+"Language: ru_RU\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.0.6\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: ../..\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPath-1: languages/ru_RU\n"
+"X-Poedit-SearchPath-2: languages/ru_RU\n"
+
+#: 404.php:30
+msgid "Sorry but I can't find the page you're looking for"
+msgstr "Извините, но я не могу найти страницу, которую вы ищете"
+
+#: 404.php:31
+msgid "Let us help you, we have got a few tips for you to find it."
+msgstr ""
+"Позвольте нам помочь вам, у нас есть несколько советов для вас, чтобы найти "
+"его."
+
+#: 404.php:34
+msgid "<strong>Search</strong> for it:"
+msgstr "<strong> Поиск </ strong> для него:"
+
+#: 404.php:42 admin/templates.php:13 header.php:239 header.php:358
+msgid "Search"
+msgstr "Поиск"
+
+#: 404.php:47
+msgid "<strong>Look</strong> for it in the most popular categories."
+msgstr "<strong> Посмотрите </ strong> для него в самых популярных категориях."
+
+#: admin/ads.php:7
+msgid "Ads management"
+msgstr "Управление рекламой"
+
+#: admin/ads.php:11
+msgid ""
+"In this section you can configure your site to display ads and start "
+"generating revenue."
+msgstr ""
+"В этом разделе вы можете настроить свой сайт для показа рекламы и получения "
+"дохода."
+
+#: admin/ads.php:11
+msgid ""
+"If you are using an online advertising platform, such as Google Adsense, "
+"copy and paste here the provided code for ads."
+msgstr ""
+"Если вы используете платформу онлайн-рекламы, такую ​​как Google Adsense, "
+"скопируйте и вставьте здесь предоставленный код для рекламы."
+
+#: admin/ads.php:17
+msgid "Header Ad"
+msgstr "Заголовок объявления"
+
+#: admin/ads.php:21
+msgid "This ad will be shown at the top of your website."
+msgstr "Это объявление будет показано в верхней части вашего сайта."
+
+#: admin/ads.php:25
+msgid "Homepage Ad"
+msgstr "Главная страница"
+
+#: admin/ads.php:29
+msgid ""
+"This ad will be shown on the main site of your website. It will appear at "
+"the bottom of your site homepage."
+msgstr ""
+"Это объявление будет показано на главном сайте вашего сайта. Он появится в "
+"нижней части домашней страницы вашего сайта."
+
+#: admin/ads.php:33
+msgid "Search results Ad (top of the page)"
+msgstr "Результаты поиска Ad (начало страницы)"
+
+#: admin/ads.php:37
+msgid "This ad will be shown on top of the search results of your site."
+msgstr "Это объявление будет показано вверху результатов поиска вашего сайта."
+
+#: admin/ads.php:41
+msgid "Search results Ad (bottom of the page)"
+msgstr "Результаты поиска Объявление (внизу страницы)"
+
+#: admin/ads.php:45
+msgid "This ad will be shown among the search results of your site."
+msgstr "Это объявление будет показано среди результатов поиска вашего сайта."
+
+#: admin/ads.php:49
+msgid "Sidebar Ad"
+msgstr "Боковое меню"
+
+#: admin/ads.php:53
+msgid ""
+"This ad will be shown at the right sidebar of your website, on the product "
+"detail page."
+msgstr ""
+"Это объявление будет показано на правой боковой панели вашего сайта, на "
+"странице сведений о продукте."
+
+#: admin/ads.php:57 admin/category.php:32 admin/settings.php:111
+#: admin/slider.php:52 admin/templates-home.php:131
+#: admin/templates-item-post.php:46 admin/templates-search.php:17
+#: admin/theme-style.php:29
+msgid "Save changes"
+msgstr "Сохранить изменения"
+
+#: admin/category.php:9
+msgid "Category Icon settings"
+msgstr "Настройки значков категорий"
+
+#: admin/category.php:16
+msgid "Choose your icons form fontawesome website at"
+msgstr "Выбирайте иконки на родном веб-сайте"
+
+#: admin/documentation.php:5
+msgid "OsclassWizards Documentation"
+msgstr "Документация OsclassWizards"
+
+#: admin/favicon.php:7
+msgid "Favicon Image"
+msgstr "Изображение Favicon"
+
+#: admin/favicon.php:8
+msgid "The preferred size of the favicon is 16x16 pixels."
+msgstr "Предпочтительный размер значка 16 × 16 пикселей."
+
+#: admin/favicon.php:15 admin/header.php:23 admin/homeimage.php:13
+msgid "Preview"
+msgstr "предварительный просмотр"
+
+#: admin/favicon.php:22 admin/homeimage.php:20 admin/slider.php:41
+msgid "Remove image"
+msgstr "Удалить изображение"
+
+#: admin/favicon.php:29 admin/homeimage.php:27
+msgid "No image has been uploaded yet"
+msgstr "Пока изображение еще не загружено"
+
+#: admin/favicon.php:32 admin/homeimage.php:30
+msgid "Upload image"
+msgstr "Загрузить изображение"
+
+#: admin/favicon.php:34 admin/homeimage.php:32
+msgid ""
+"<strong>Note:</strong> Uploading another image will overwrite the current "
+"image."
+msgstr ""
+"<strong> Примечание. </ strong> Загрузка другого изображения приведет к "
+"перезаписыванию текущего изображения."
+
+#: admin/favicon.php:42 admin/homeimage.php:40
+msgid "Accepted image (png,gif,jpg)"
+msgstr "Принятое изображение (png, gif, jpg)"
+
+#: admin/favicon.php:48 admin/header.php:71 admin/homeimage.php:46
+msgid "Upload"
+msgstr "Загрузить"
+
+#: admin/favicon.php:57 admin/header.php:80 admin/homeimage.php:56
+#, php-format
+msgid "The images folder <strong>%s</strong> is not writable on your server"
+msgstr ""
+"Папка с изображениями <strong>% s </ strong> недоступна для записи на вашем "
+"сервере"
+
+#: admin/favicon.php:58 admin/homeimage.php:57
+msgid "Osclass can't upload the image from the administration panel."
+msgstr "Osclass не может загрузить изображение с панели администрирования."
+
+#: admin/favicon.php:59 admin/header.php:82 admin/homeimage.php:58
+msgid "Please make the aforementioned image folder writable."
+msgstr ""
+"Пожалуйста, сделайте вышеупомянутую папку изображений доступной для записи."
+
+#: admin/favicon.php:64 admin/header.php:87 admin/homeimage.php:63
+msgid ""
+"To make a directory writable under UNIX execute this command from the shell:"
+msgstr ""
+"Чтобы сделать каталог, доступный для записи в UNIX, выполнить эту команду из "
+"оболочки:"
+
+#: admin/header.php:15
+msgid "Header logo"
+msgstr "Логотип заголовка"
+
+#: admin/header.php:31
+msgid "Remove logo"
+msgstr "Удалить логотип"
+
+#: admin/header.php:39
+msgid "No logo has been uploaded yet"
+msgstr "Пока еще не загружен логотип"
+
+#: admin/header.php:44
+msgid "Upload logo"
+msgstr "Загрузить логотип"
+
+#: admin/header.php:47
+msgid "The preferred size of the logo is 177x30 pixels."
+msgstr "Предпочтительный размер логотипа - 177x30 пикселей."
+
+#: admin/header.php:52
+msgid ""
+"<strong>Note:</strong> Uploading another logo will overwrite the current "
+"logo."
+msgstr ""
+"<strong> Примечание. </ strong> Загрузка другого логотипа будет "
+"перезаписывать текущий логотип."
+
+#: admin/header.php:64
+msgid "Logo image (png,gif,jpg)"
+msgstr "Логотип (png, gif, jpg)"
+
+#: admin/header.php:81
+msgid "Osclass can't upload the logo image from the administration panel."
+msgstr ""
+"Osclass не может загрузить изображение логотипа с панели администрирования."
+
+#: admin/homeimage.php:7
+msgid "Banner Image"
+msgstr "Баннерное изображение"
+
+#: admin/settings.php:28
+msgid "Custom"
+msgstr "изготовленный на заказ"
+
+#: admin/settings.php:31
+msgid "Donate"
+msgstr "жертвовать"
+
+#: admin/settings.php:39
+msgid "General"
+msgstr "Генеральная"
+
+#: admin/settings.php:40 admin/theme-style.php:5
+msgid "Theme Style"
+msgstr "Стиль темы"
+
+#: admin/settings.php:41
+msgid "Templates"
+msgstr "Шаблоны"
+
+#: admin/settings.php:42
+msgid "Header Logo"
+msgstr "Логотип заголовка"
+
+#: admin/settings.php:43
+msgid "Favicon"
+msgstr "Favicon"
+
+#: admin/settings.php:44 admin/templates-home.php:19
+msgid "Banner"
+msgstr "баннер"
+
+#: admin/settings.php:45
+msgid "Image Slider"
+msgstr "Ползунок изображения"
+
+#: admin/settings.php:46
+msgid "Category Icons"
+msgstr "Иконки категорий"
+
+#: admin/settings.php:47
+msgid "Ads Management"
+msgstr "Управление рекламой"
+
+#: admin/settings.php:48 admin/social.php:12
+msgid "Social Links"
+msgstr "Социальные ссылки"
+
+#: admin/settings.php:53
+msgid "Theme settings"
+msgstr "Настройки темы"
+
+#: admin/settings.php:61
+msgid "Contact Number"
+msgstr "Контактный номер"
+
+#: admin/settings.php:69
+msgid "Contact E-mail"
+msgstr "Почта для связи"
+
+#: admin/settings.php:77
+msgid "Footer message"
+msgstr "Нижний колонтитул"
+
+#: admin/settings.php:85
+msgid "Show lists as"
+msgstr "Показать списки как"
+
+#: admin/settings.php:90 main.php:104 search.php:84
+msgid "Grid"
+msgstr "сетка"
+
+#: admin/settings.php:93 main.php:103 search.php:83
+msgid "List"
+msgstr "Список"
+
+#: admin/settings.php:98
+msgid "To the Top"
+msgstr "К началу страницы"
+
+#: admin/settings.php:103
+msgid "Move to the top."
+msgstr "Переместитесь в верхнюю часть."
+
+#: admin/slider.php:4
+msgid "Slider settings"
+msgstr "Настройки ползунка"
+
+#: admin/slider.php:11
+msgid "Slide"
+msgstr "Горка"
+
+#: admin/slider.php:14 item-post.php:72 item.php:187
+msgid "Title"
+msgstr "заглавие"
+
+#: admin/slider.php:19
+msgid "Button Text"
+msgstr "Текст кнопки"
+
+#: admin/slider.php:24
+msgid "Button url"
+msgstr "URL-адрес кнопки"
+
+#: admin/slider.php:29
+msgid "Paragraph text"
+msgstr "Текст абзаца"
+
+#: admin/slider.php:36
+msgid "Slide image"
+msgstr "Изображение слайдов"
+
+#: admin/social.php:16
+msgid "Facebook"
+msgstr "facebook"
+
+#: admin/social.php:23
+msgid "Twitter"
+msgstr "щебет"
+
+#: admin/social.php:30
+msgid "Instagram"
+msgstr "Instagram"
+
+#: admin/social.php:37
+msgid "LinkedIn"
+msgstr "LinkedIn"
+
+#: admin/social.php:44
+msgid "Google +"
+msgstr "Google +"
+
+#: admin/social.php:51
+msgid "YouTube"
+msgstr "YouTube"
+
+#: admin/social.php:59
+msgid "Save Changes"
+msgstr "Сохранить изменения"
+
+#: admin/templates-home.php:5
+msgid "Home page settings"
+msgstr "Настройки домашней страницы"
+
+#: admin/templates-home.php:14
+msgid "Show Banner/Slider"
+msgstr "Показать баннер / слайдер"
+
+#: admin/templates-home.php:22
+msgid "Slider"
+msgstr "ползунок"
+
+#: admin/templates-home.php:29
+msgid "Search placeholder"
+msgstr "Поиск заполнителя"
+
+#: admin/templates-home.php:37
+msgid "Search country option"
+msgstr "Вариант поиска в стране"
+
+#: admin/templates-home.php:48 admin/templates-search.php:10
+msgid "Premium listings shown"
+msgstr "Премиум-листы"
+
+#: admin/templates-home.php:56
+msgid "Subcategories limit "
+msgstr "Ограничение подкатегорий"
+
+#: admin/templates-home.php:64
+msgid "Show popular"
+msgstr "Показать популярные"
+
+#: admin/templates-home.php:74
+msgid "Popular searches"
+msgstr "Популярные запросы"
+
+#: admin/templates-home.php:84
+msgid "Popular regions"
+msgstr "Популярные регионы"
+
+#: admin/templates-home.php:94
+msgid "Popular cities"
+msgstr "Популярные города"
+
+#: admin/templates-home.php:104
+msgid "Popular searches limit"
+msgstr "Пределы популярного поиска"
+
+#: admin/templates-home.php:113
+msgid "Popular regions limit"
+msgstr "Пределы популярных регионов"
+
+#: admin/templates-home.php:122
+msgid "Popular cities limit"
+msgstr "Ограничения для популярных городов"
+
+#: admin/templates-item-post.php:4
+msgid "Item post page settings"
+msgstr "Настройки почтовой страницы позиции"
+
+#: admin/templates-item-post.php:10
+msgid "Category multiple selects"
+msgstr "Выбор категорий"
+
+#: admin/templates-item-post.php:18
+msgid "Title min. length"
+msgstr "Название мин. длина"
+
+#: admin/templates-item-post.php:22
+msgid "Description min. length"
+msgstr "Описание мин. длина"
+
+#: admin/templates-item-post.php:26
+msgid "Locations input as"
+msgstr "Входы входов как"
+
+#: admin/templates-item-post.php:29
+msgid "Drop-down select"
+msgstr "Выпадающий список"
+
+#: admin/templates-item-post.php:30
+msgid "Auto-complete text"
+msgstr "Автозаполнение текста"
+
+#: admin/templates-item-post.php:35
+msgid "Locations required"
+msgstr "Требуемые места"
+
+#: admin/templates-search.php:4
+msgid "Search page settings"
+msgstr "Настройки страницы поиска"
+
+#: admin/templates.php:9
+msgid "Templates settings"
+msgstr "Настройки шаблонов"
+
+#: admin/templates.php:12
+msgid "Home"
+msgstr "Главная"
+
+#: admin/templates.php:14
+msgid "Item Post"
+msgstr "Сообщение"
+
+#: admin/theme-style.php:11
+msgid "RTL view"
+msgstr "Просмотр RTL"
+
+#: admin/theme-style.php:16
+msgid "Right to left view."
+msgstr "Вид справа налево."
+
+#: admin/theme-style.php:21
+msgid "Custom CSS"
+msgstr "Пользовательские CSS"
+
+#: admin/theme-style.php:25
+msgid "You can write your custom CSS and override the default CSS."
+msgstr ""
+"Вы можете написать свой собственный CSS и переопределить CSS по умолчанию."
+
+#: alert-form.php:27
+msgid "You have sucessfully subscribed to the alert"
+msgstr "Вы успешно подписались на оповещение"
+
+#: alert-form.php:28 functions.php:1039 user-change_email.php:80
+msgid "Invalid email address"
+msgstr "Неверный адрес электронной почты"
+
+#: alert-form.php:29
+msgid "There was a problem with the alert"
+msgstr "Возникла проблема с предупреждением"
+
+#: alert-form.php:61
+msgid "Already subscribed to this search"
+msgstr "Уже подписались на этот поиск"
+
+#: alert-form.php:65
+msgid "Subscribe to this search"
+msgstr "Подписаться на этот поиск"
+
+#: alert-form.php:80
+msgid "Subscribe now"
+msgstr "Подпишись сейчас"
+
+#: common/head.php:25 item.php:139 loop-single-premium.php:101
+#: loop-single.php:90 loop-single.php:131
+msgid "Delete"
+msgstr "Удалить"
+
+#: common/head.php:26
+msgid "Cancel"
+msgstr "Отмена"
+
+#: common/head.php:83
+msgid "Previous image"
+msgstr "Предыдущее изображение"
+
+#: common/head.php:84
+msgid "Next image"
+msgstr "Следующее изображение"
+
+#: common/head.php:85
+msgid "Close"
+msgstr "Закрыть"
+
+#: contact.php:30
+msgid "Contact us"
+msgstr "Свяжитесь с нами"
+
+#: contact.php:41 item-send-friend.php:45 item-sidebar.php:102 item.php:174
+#: user-public-sidebar.php:33
+msgid "Your name"
+msgstr "Ваше имя"
+
+#: contact.php:42 contact.php:55 item-sidebar.php:110
+#: user-public-sidebar.php:41
+msgid "optional"
+msgstr "необязательный"
+
+#: contact.php:48 user-public-sidebar.php:37
+msgid "Your email address"
+msgstr "Ваш адрес электронной почты"
+
+#: contact.php:54
+msgid "Subject"
+msgstr "Предмет"
+
+#: contact.php:61 item-send-friend.php:79 item-sidebar.php:115
+#: user-public-sidebar.php:46
+msgid "Message"
+msgstr "Сообщение"
+
+#: contact.php:69 item-send-friend.php:88 item-sidebar.php:148 item.php:199
+#: user-public-sidebar.php:69
+msgid "Send"
+msgstr "послать"
+
+#: footer.php:36
+msgid "CONTACT INFO"
+msgstr "КОНТАКТНАЯ ИНФОРМАЦИЯ"
+
+#: footer.php:48 functions.php:497 header.php:109 user-public-sidebar.php:26
+msgid "Contact"
+msgstr "контакт"
+
+#: footer.php:58
+msgid "USER"
+msgstr "USER"
+
+#: footer.php:63 header.php:46
+msgid "My account"
+msgstr "Мой аккаунт"
+
+#: footer.php:64 header.php:47
+msgid "Logout"
+msgstr "Выйти"
+
+#: footer.php:67 functions.php:493 header.php:51 item-sidebar.php:56
+msgid "Login"
+msgstr "Авторизоваться"
+
+#: footer.php:70 item-sidebar.php:57 user-login.php:58
+msgid "Register for a free account"
+msgstr "Зарегистрировать бесплатный аккаунт"
+
+#: footer.php:77 header.php:57
+msgid "Publish your ad for free"
+msgstr "Опубликуйте свое объявление бесплатно"
+
+#: footer.php:83
+msgid "PAGES"
+msgstr "СТР"
+
+#: footer.php:98
+msgid "SOCIAL NETWORK"
+msgstr "СОЦИАЛЬНАЯ СЕТЬ"
+
+#: footer.php:144
+#, php-format
+msgid ""
+"Free responsive Osclass theme by <a target=\"_blank\" title=\"osclasswizards"
+"\" href=\"%s\">OsclassWizards</a>"
+msgstr ""
+"Бесплатная отзывчивая тема Osclass от <a target=\"_blank\" title="
+"\"osclasswizards\" href=\"%s\"> OsclassWizards </a>"
+
+#: functions.php:32
+msgid "ie. PHP Programmer"
+msgstr "то есть. Программист PHP"
+
+#: functions.php:310
+msgid "Categories"
+msgstr "категории"
+
+#: functions.php:364
+msgid "See more listings..."
+msgstr "См. Еще списки ..."
+
+#: functions.php:478 item-post.php:44
+msgid "Publish a listing"
+msgstr "Опубликовать листинг"
+
+#: functions.php:479
+msgid "Edit your listing"
+msgstr "Изменить список"
+
+#: functions.php:480 item-send-friend.php:31
+msgid "Send to a friend"
+msgstr "Отправить другу"
+
+#: functions.php:481 item-sidebar.php:42
+msgid "Contact publisher"
+msgstr "Связаться с издателем"
+
+#: functions.php:482
+msgid "Search results"
+msgstr "Результаты поиска"
+
+#: functions.php:483
+#, php-format
+msgid "Search results: %s"
+msgstr "Результаты поиска:% s"
+
+#: functions.php:484
+msgid "Dashboard"
+msgstr "Панель приборов"
+
+#: functions.php:485
+#, php-format
+msgid "%s's profile"
+msgstr "Профайл% s"
+
+#: functions.php:486 functions.php:535
+msgid "Account"
+msgstr "Счет"
+
+#: functions.php:487 functions.php:525 search.php:132 user-alerts.php:54
+msgid "Listings"
+msgstr "Объявления"
+
+#: functions.php:488 functions.php:530 user-alerts.php:29 user-alerts.php:38
+msgid "Alerts"
+msgstr "Оповещения"
+
+#: functions.php:489 user-profile.php:29 user-profile.php:38
+msgid "Update account"
+msgstr "Обновить аккаунт"
+
+#: functions.php:490 functions.php:540
+msgid "Change email"
+msgstr "Сменить имейл"
+
+#: functions.php:491 functions.php:545 user-change_username.php:31
+#: user-change_username.php:40
+msgid "Change username"
+msgstr "Изменение имени пользователя"
+
+#: functions.php:492 functions.php:495 functions.php:550
+#: user-change_password.php:29 user-change_password.php:38
+#: user-forgot_password.php:52
+msgid "Change password"
+msgstr "Изменить пароль"
+
+#: functions.php:494
+msgid "Recover password"
+msgstr "Восстановить пароль"
+
+#: functions.php:496
+msgid "Create a new account"
+msgstr "Создать новый аккаунт"
+
+#: functions.php:520
+msgid "Public Profile"
+msgstr "Общедоступный профиль"
+
+#: functions.php:555 user-sidebar.php:27
+msgid "Delete account"
+msgstr "Удалить аккаунт"
+
+#: functions.php:615 functions.php:779
+msgid "The slider settings has been saved"
+msgstr "Настройки ползунка сохранены"
+
+#: functions.php:628
+msgid "Theme settings updated correctly"
+msgstr "Настройки темы обновлены правильно"
+
+#: functions.php:646 functions.php:651 functions.php:662
+msgid "Templates settings updated correctly"
+msgstr "Настройки шаблонов обновлены правильно"
+
+#: functions.php:673
+msgid "Ads management updated correctly"
+msgstr "Управление рекламой обновлено правильно"
+
+#: functions.php:680
+msgid "Category icons settings updated correctly"
+msgstr "Настройки значков категорий обновлены правильно"
+
+#: functions.php:689
+msgid "Theme style settings updated correctly"
+msgstr "Настройки стиля темы обновлены правильно"
+
+#: functions.php:704
+msgid "Social links updated correctly"
+msgstr "Социальные ссылки обновлены правильно"
+
+#: functions.php:719
+msgid "The favicon image has been uploaded correctly"
+msgstr "Изображение favicon загружено правильно"
+
+#: functions.php:721 functions.php:739 functions.php:825
+msgid "An error has occurred, please try again"
+msgstr "Произошла ошибка, повторите попытку."
+
+#: functions.php:737
+msgid "The logo image has been uploaded correctly"
+msgstr "Изображение логотипа загружено правильно"
+
+#: functions.php:790
+msgid "The favicon image has been removed"
+msgstr "Изображение favicon удалено"
+
+#: functions.php:792 functions.php:806 functions.php:838
+msgid "Image not found"
+msgstr "Изображение не найдено"
+
+#: functions.php:804
+msgid "The logo image has been removed"
+msgstr "Изображение логотипа было удалено"
+
+#: functions.php:823
+msgid "The banner image has been uploaded correctly"
+msgstr "Правильно загружено изображение баннера"
+
+#: functions.php:836
+msgid "The banner image has been removed"
+msgstr "Изображение баннера было удалено"
+
+#: functions.php:860
+msgid "Udhauli"
+msgstr "Udhauli"
+
+#: functions.php:915 functions.php:937
+msgid "All categories"
+msgstr "Все категории"
+
+#: functions.php:1016
+msgid "Choose one category"
+msgstr "Выберите одну категорию"
+
+#: functions.php:1019
+msgid "Title: this field is required"
+msgstr "Название: это поле обязательно для заполнения."
+
+#: functions.php:1020
+msgid "Title too short"
+msgstr "Заголовок слишком короткий"
+
+#: functions.php:1023
+msgid "Description too short"
+msgstr "Описание слишком короткое"
+
+#: functions.php:1026
+msgid "Price: no more than 50 characters"
+msgstr "Цена: не более 50 символов"
+
+#: functions.php:1028
+msgid "Currency: make your selection"
+msgstr "Валюта: сделайте свой выбор"
+
+#: functions.php:1030
+msgid "Photo: must be png,gif,jpg,jpeg"
+msgstr "Фото: должно быть png, gif, jpg, jpeg"
+
+#: functions.php:1033
+msgid "Name: this field is required"
+msgstr "Имя: это поле обязательно для заполнения."
+
+#: functions.php:1034
+msgid "Name: enter at least 3 characters"
+msgstr "Имя: введите не менее 3 символов"
+
+#: functions.php:1035
+msgid "Name: no more than 35 characters"
+msgstr "Имя: не более 35 символов"
+
+#: functions.php:1038 user-change_email.php:79
+msgid "Email: this field is required"
+msgstr "Электронная почта: это поле обязательно для заполнения."
+
+#: functions.php:1042
+msgid "Please select a country"
+msgstr "Выберите страну"
+
+#: functions.php:1045 functions.php:1057
+msgid "Region: this field is required"
+msgstr "Регион: это поле требуется"
+
+#: functions.php:1046
+msgid "Region: enter at least 3 characters"
+msgstr "Регион: введите не менее 3 символов"
+
+#: functions.php:1047
+msgid "Region: no more than 100 characters"
+msgstr "Регион: не более 100 символов"
+
+#: functions.php:1050 functions.php:1060
+msgid "City: this field is required"
+msgstr "Город: это поле требуется"
+
+#: functions.php:1051
+msgid "City: enter at least 3 characters"
+msgstr "Город: введите не менее 3 символов"
+
+#: functions.php:1052
+msgid "City: no more than 100 characters"
+msgstr "Город: не более 100 символов"
+
+#: functions.php:1389
+msgid "Select model"
+msgstr "Выбрать модель"
+
+#: functions.php:1443 functions.php:1457 functions.php:1471
+msgid "n/a"
+msgstr "н /"
+
+#: header.php:45
+#, php-format
+msgid "Hi %s"
+msgstr "Привет,% s"
+
+#: header.php:50 user-register.php:30
+msgid "Register"
+msgstr "регистр"
+
+#: header.php:64
+msgid "Language:"
+msgstr "Язык:"
+
+#: header.php:156
+msgid "Slider Image"
+msgstr "Изображение слайдера"
+
+#: header.php:158
+msgid "Button"
+msgstr "кнопка"
+
+#: header.php:185
+msgid "Search Your Car Model"
+msgstr "Поиск модели автомобиля"
+
+#: header.php:193
+msgid "MAKE"
+msgstr "ДЕЛАТЬ"
+
+#: header.php:195
+msgid "Select a car make"
+msgstr "Выберите автомобиль"
+
+#: header.php:206
+msgid "MODEL"
+msgstr "МОДЕЛЬ"
+
+#: header.php:217
+msgid "TYPE"
+msgstr "ТИП"
+
+#: header.php:219
+msgid "Select a car type"
+msgstr "Выберите тип автомобиля"
+
+#: header.php:231
+msgid "TRANSMISSION"
+msgstr "КОРОБКА ПЕРЕДАЧ"
+
+#: header.php:232 header.php:326
+msgid "Manual"
+msgstr "Руководство"
+
+#: header.php:233 header.php:327
+msgid "Auto"
+msgstr "Авто"
+
+#: header.php:264
+msgid "Select a country"
+msgstr "Выберите страну"
+
+#: header.php:270
+msgid "Select a region"
+msgstr "Выберите регион"
+
+#: header.php:275
+msgid "Select a city"
+msgstr "Выберите город"
+
+#: header.php:290
+msgid "Select make"
+msgstr "Выберите make"
+
+#: header.php:313
+msgid "Select type"
+msgstr "Выберите тип"
+
+#: header.php:325
+msgid "Transmission:"
+msgstr "Коробка передач:"
+
+#: header.php:337 item-post.php:64 item-post.php:66
+msgid "Select a category"
+msgstr "Выберите категорию"
+
+#: header.php:346
+msgid "Min Price"
+msgstr "Минимальная цена"
+
+#: header.php:349
+msgid "Max Price"
+msgstr "Макс. Цена"
+
+#: item-post.php:58
+msgid "General Information"
+msgstr "Главная Информация"
+
+#: item-post.php:60
+msgid "Category"
+msgstr "категория"
+
+#: item-post.php:78 user-profile.php:108
+msgid "Description"
+msgstr "Описание"
+
+#: item-post.php:85 search-sidebar.php:63
+msgid "Price"
+msgstr "Цена"
+
+#: item-post.php:96
+msgid "Listing Location"
+msgstr "Расположение листинга"
+
+#: item-post.php:99 user-profile.php:72
+msgid "Country"
+msgstr "Страна"
+
+#: item-post.php:105 item-post.php:131 user-profile.php:78
+msgid "Region"
+msgstr "Область"
+
+#: item-post.php:153 search-sidebar.php:45 user-profile.php:84
+msgid "City"
+msgstr "город"
+
+#: item-post.php:169
+msgid "City Area"
+msgstr "Городская площадь"
+
+#: item-post.php:175 user-profile.php:96
+msgid "Address"
+msgstr "Адрес"
+
+#: item-post.php:184
+msgid "Seller's information"
+msgstr "Информация о продавце"
+
+#: item-post.php:186 item-sidebar.php:61 user-profile.php:47
+#: user-register.php:40
+msgid "Name"
+msgstr "имя"
+
+#: item-post.php:192 user-login.php:39 user-recover.php:38 user-register.php:46
+msgid "E-mail"
+msgstr "Электронная почта"
+
+#: item-post.php:199
+msgid "Show e-mail on the listing page"
+msgstr "Показывать электронную почту на странице листинга"
+
+#: item-post.php:218 user-change_email.php:61 user-change_password.php:65
+#: user-change_username.php:103 user-profile.php:116
+msgid "Update"
+msgstr "Обновить"
+
+#: item-post.php:218
+msgid "Publish"
+msgstr "Публиковать"
+
+#: item-send-friend.php:51 item.php:180
+msgid "Your e-mail"
+msgstr "Ваш адрес электронной почты"
+
+#: item-send-friend.php:58
+msgid "Your friend's name"
+msgstr "Имя твоего друга"
+
+#: item-send-friend.php:64
+msgid "Your friend's e-mail address"
+msgstr "Адрес электронной почты вашего друга"
+
+#: item-send-friend.php:71
+msgid "Subject (optional)"
+msgstr "Тема (необязательно)"
+
+#: item-sidebar.php:31
+msgid "Mark as..."
+msgstr "Отметить как..."
+
+#: item-sidebar.php:32
+msgid "Mark as spam"
+msgstr "Отметить как спам"
+
+#: item-sidebar.php:33
+msgid "Mark as misclassified"
+msgstr "Отметить как неправильно классифицированный"
+
+#: item-sidebar.php:34
+msgid "Mark as duplicated"
+msgstr "Отметить как дублированный"
+
+#: item-sidebar.php:35
+msgid "Mark as expired"
+msgstr "Пометить как истек"
+
+#: item-sidebar.php:36
+msgid "Mark as offensive"
+msgstr "Отметить как оскорбительное"
+
+#: item-sidebar.php:45
+msgid "The listing is expired. You can't contact the publisher."
+msgstr "Срок действия истек. Вы не можете связаться с издателем."
+
+#: item-sidebar.php:49
+msgid "It's your own listing, you can't contact the publisher."
+msgstr "Это ваш листинг, вы не можете связаться с издателем."
+
+#: item-sidebar.php:53
+msgid ""
+"You must log in or register a new account in order to contact the advertiser"
+msgstr ""
+"Вы должны войти в систему или зарегистрировать новую учетную запись, чтобы "
+"связаться с рекламодателем"
+
+#: item-sidebar.php:63 item-sidebar.php:66 item-sidebar.php:69
+#, php-format
+msgid " %s"
+msgstr "% s"
+
+#: item-sidebar.php:85
+msgid "Send message"
+msgstr "Отправить сообщение"
+
+#: item-sidebar.php:92
+msgid "Contact Publisher"
+msgstr "Связаться с издателем"
+
+#: item-sidebar.php:106
+msgid "Your e-mail address"
+msgstr "Ваш адрес электронной почты"
+
+#: item-sidebar.php:110 user-public-sidebar.php:41
+msgid "Phone number"
+msgstr "Номер телефона"
+
+#: item-sidebar.php:121
+msgid "Attachment"
+msgstr "прикрепление"
+
+#: item-sidebar.php:142 user-public-sidebar.php:63
+msgid "Enter the words above"
+msgstr "Введите слова выше"
+
+#: item-sidebar.php:144 user-public-sidebar.php:65
+msgid "Help"
+msgstr "Помогите"
+
+#: item.php:64
+#, php-format
+msgid ""
+"<i class=\"fa fa-calendar-o\"></i> <strong class=\"publish\"></strong> %1$s"
+msgstr ""
+
+#: item.php:70
+#, php-format
+msgid "<i class=\"fa fa-calendar\"></i><strong class=\"update\"></strong> %1$s"
+msgstr ""
+
+#: item.php:92 loop-single-premium.php:99 loop-single.php:88
+#: loop-single.php:129
+msgid "Edit item"
+msgstr "Изменить элемент"
+
+#: item.php:102 item.php:107
+msgid "Image"
+msgstr "Образ"
+
+#: item.php:119
+msgid "Share"
+msgstr "Поделиться"
+
+#: item.php:128
+msgid "Comments"
+msgstr "Комментарии"
+
+#: item.php:135
+msgid "by"
+msgstr "от"
+
+#: item.php:139
+msgid "Delete your comment"
+msgstr "Удалить комментарий"
+
+#: item.php:150
+msgid "Useful Information :"
+msgstr "Полезная информация :"
+
+#: item.php:152
+msgid "Avoid scams by acting locally or paying with PayPal"
+msgstr "Избегайте мошенничества, действуя локально или оплачивая PayPal"
+
+#: item.php:153
+msgid ""
+"Never pay with Western Union, Moneygram or other anonymous payment services"
+msgstr ""
+"Никогда не платите с помощью Western Union, Moneygram или других анонимных "
+"платежных услуг"
+
+#: item.php:154
+msgid ""
+"Don't buy or sell outside of your country. Don't accept cashier cheques from "
+"outside your country"
+msgstr ""
+"Не покупайте и не продавайте за пределами вашей страны. Не принимайте чеки-"
+"кассиры за пределами вашей страны"
+
+#: item.php:155
+msgid ""
+"This site is never involved in any transaction, and does not handle "
+"payments, shipping, guarantee transactions, provide escrow services, or "
+"offer \"buyer protection\" or \"seller certification\""
+msgstr ""
+"Этот сайт никогда не участвует в какой-либо транзакции и не обрабатывает "
+"платежи, доставку, гарантийные операции, предоставляет услуги условного "
+"депонирования или предлагает «защиту покупателя» или «сертификацию продавца»,"
+
+#: item.php:160
+msgid "Leave your comment (spam and offensive messages will be removed)"
+msgstr ""
+"Оставьте свой комментарий (спам и оскорбительные сообщения будут удалены)"
+
+#: item.php:193
+msgid "Comment"
+msgstr "Комментарий"
+
+#: item.php:219
+msgid "Related listings"
+msgstr "Похожие объявления"
+
+#: loop-single-premium.php:55 loop-single.php:54 main.php:63
+msgid "Premium"
+msgstr "премия"
+
+#: loop-single-premium.php:101 loop-single.php:90 loop-single.php:131
+msgid "This action can not be undone. Are you sure you want to continue?"
+msgstr "Это действие не может быть отменено. Вы уверены что хотите продолжить?"
+
+#: loop-single-premium.php:104 loop-single.php:93 loop-single.php:134
+msgid "Activate"
+msgstr "активировать"
+
+#: main.php:42
+msgid "Premium Listings"
+msgstr "Премиум"
+
+#: main.php:96
+msgid "Latest Listings"
+msgstr "Последние объявления"
+
+#: main.php:99
+msgid "There aren't listings available at this moment"
+msgstr "В настоящий момент нет объявлений"
+
+#: main.php:115
+msgid "See all listings"
+msgstr "Просмотреть все объявления"
+
+#: main.php:123
+#, php-format
+msgid "Most viewed in %s"
+msgstr "Наиболее просматриваемые в % s"
+
+#: search-sidebar.php:32
+msgid "Advance search"
+msgstr "Расширенный поиск"
+
+#: search-sidebar.php:41
+msgid "Your search"
+msgstr "Результат поиска"
+
+#: search-sidebar.php:51
+msgid "Show only"
+msgstr "Покажи только"
+
+#: search-sidebar.php:55
+msgid "listings with pictures"
+msgstr "списки с фотографиями"
+
+#: search-sidebar.php:64
+msgid "Min"
+msgstr "мне"
+
+#: search-sidebar.php:66
+msgid "Max"
+msgstr "Максимум"
+
+#: search-sidebar.php:86
+msgid "Apply"
+msgstr "Подать заявление"
+
+#: search-sidebar.php:93
+msgid "Refine category"
+msgstr "Уточнить категорию"
+
+#: search.php:56
+msgid "Selected"
+msgstr "выбранный"
+
+#: search.php:57
+msgid "Nothing selected, input was"
+msgstr "Ничего не выбрано, вход был"
+
+#: search.php:75
+#, php-format
+msgid "There are no results matching \"%s\""
+msgstr "Не найдено результатов, соответствующих «% s»"
+
+#: search.php:79
+#, php-format
+msgid "%1$d - %2$d of %3$d listings"
+msgstr ""
+
+#: search.php:88
+msgid "Sort by"
+msgstr "Сортировать по"
+
+#: search.php:124
+msgid "Premium listings"
+msgstr "Премиум"
+
+#: search.php:145
+msgid "Other searches that may interest you"
+msgstr "Другие поисковые запросы, которые могут вас заинтересовать"
+
+#: user-alerts.php:42
+msgid "You do not have any alerts yet"
+msgstr "У вас еще нет предупреждений"
+
+#: user-alerts.php:49
+msgid "Alert"
+msgstr "бдительный"
+
+#: user-alerts.php:49
+msgid "This action can't be undone. Are you sure you want to continue?"
+msgstr "Это действие не может быть отменено. Вы уверены что хотите продолжить?"
+
+#: user-alerts.php:49
+msgid "Delete this alert"
+msgstr "Удалить это предупреждение"
+
+#: user-change_email.php:30
+msgid "Change e-mail"
+msgstr "сменить имейл"
+
+#: user-change_email.php:40
+msgid "Change E-Mail"
+msgstr "Сменить имейл"
+
+#: user-change_email.php:48
+msgid "Current e-mail"
+msgstr "Текущая электронная почта"
+
+#: user-change_email.php:54
+msgid "New E-Mail"
+msgstr "Новый E-mail"
+
+#: user-change_password.php:46
+msgid "Current password"
+msgstr "Текущий пароль"
+
+#: user-change_password.php:52 user-forgot_password.php:39
+msgid "New password"
+msgstr "Новый пароль"
+
+#: user-change_password.php:58 user-forgot_password.php:45
+msgid "Repeat new password"
+msgstr "повторите новый пароль"
+
+#: user-change_username.php:52
+msgid "Username: this field is required"
+msgstr "Имя пользователя: это поле обязательно для заполнения."
+
+#: user-change_username.php:77
+msgid "The username is available"
+msgstr "Имя пользователя доступно"
+
+#: user-change_username.php:79
+msgid "The username is NOT available"
+msgstr "Имя пользователя НЕ доступно"
+
+#: user-change_username.php:95
+msgid "Username"
+msgstr "имя пользователя"
+
+#: user-forgot_password.php:30 user-recover.php:30
+msgid "Recover your password"
+msgstr "Восстановите свой пароль"
+
+#: user-items.php:40
+msgid "My listings"
+msgstr "Мои объявления"
+
+#: user-items.php:42
+msgid "No listings have been added yet"
+msgstr "Пока не добавлены списки"
+
+#: user-login.php:29
+msgid "Log in"
+msgstr "Авторизоваться"
+
+#: user-login.php:44 user-register.php:52
+msgid "Password"
+msgstr "пароль"
+
+#: user-login.php:51
+msgid "Remember me"
+msgstr "Запомни меня"
+
+#: user-login.php:54
+msgid "Login to My Account"
+msgstr "Вход в мой аккаунт"
+
+#: user-login.php:58
+msgid "Forgot password?"
+msgstr "Забыли пароль?"
+
+#: user-profile.php:53
+msgid "User type"
+msgstr "Тип пользователя"
+
+#: user-profile.php:60
+msgid "Cell phone"
+msgstr "Сотовый телефон"
+
+#: user-profile.php:66
+msgid "Phone"
+msgstr "Телефон"
+
+#: user-profile.php:90
+msgid "City area"
+msgstr "Городская площадь"
+
+#: user-profile.php:102
+msgid "Website"
+msgstr "Веб-сайт"
+
+#: user-public-profile.php:69
+#, php-format
+msgid "<strong>Address:</strong> %1$s"
+msgstr ""
+
+#: user-public-profile.php:72
+#, php-format
+msgid "<strong>Location:</strong> %1$s"
+msgstr ""
+
+#: user-public-profile.php:77
+msgid "User Description"
+msgstr "Описание пользователя"
+
+#: user-public-profile.php:83
+msgid "Latest listings"
+msgstr "Последние объявления"
+
+#: user-recover.php:46
+msgid "Send me a new password"
+msgstr "Пришлите мне новый пароль"
+
+#: user-register.php:58
+msgid "Repeat password"
+msgstr "Повторите пароль"
+
+#: user-register.php:62
+msgid "Passwords don't match"
+msgstr "Пароли не совпадают"
+
+#: user-register.php:74
+msgid "Create an Account"
+msgstr "Завести аккаунт"
+
+#: user-sidebar.php:23
+msgid "MENU"
+msgstr "МЕНЮ"
+
+#: user-sidebar.php:28
+msgid "Are you sure you want to delete your account?"
+msgstr "Вы действительно хотите удалить свою учетную запись?"
+
+#~ msgid "Documentation"
+#~ msgstr "Документация"
+
+#~ msgid "Search box text 1"
+#~ msgstr "Текст окна поиска 1"
+
+#~ msgid "Search box text 2"
+#~ msgstr "Текст окна поиска 2"
+
+#~ msgid "Search box text 3"
+#~ msgstr "Текст окна поиска 3"
+
+#~ msgid "Theme color mode"
+#~ msgstr "Цветной режим темы"
+
+#~ msgid "Blue"
+#~ msgstr "синий"
+
+#~ msgid "Dark Blue"
+#~ msgstr "Темно-синий"
+
+#~ msgid "Dark Green"
+#~ msgstr "Темно-зеленый"
+
+#~ msgid "Purple"
+#~ msgstr "Пурпурный"
+
+#~ msgid "Red"
+#~ msgstr "красный"
+
+#~ msgid "Contact Widget"
+#~ msgstr "Как связаться с Widget"
+
+#~ msgid "Icon"
+#~ msgstr "Значок"
+
+#~ msgid "Email"
+#~ msgstr "Эл. адрес"
+
+#~ msgid "Links Widget"
+#~ msgstr "Виджет ссылок"
+
+#~ msgid "Add links"
+#~ msgstr "Добавить ссылки"
+
+#~ msgid "Arrange Widgets"
+#~ msgstr "Упорядочить виджеты"
+
+#~ msgid "You can drag the widget to alter the position"
+#~ msgstr "Вы можете перетащить виджет, чтобы изменить позицию"
+
+#~ msgid "%s Widget"
+#~ msgstr "% s Widget"
+
+#~ msgid "Social Widget"
+#~ msgstr "Социальный виджет"
+
+#~ msgid "Add social links"
+#~ msgstr "Социальные ссылкиДобавить социальные ссылки"
+
+#~ msgid "Text Widget"
+#~ msgstr "Текстовый виджет"
+
+#~ msgid "Content"
+#~ msgstr "содержание"
+
+#~ msgid "Follow us"
+#~ msgstr "Подписывайтесь на нас"
+
+#~ msgid "OsclassWizards"
+#~ msgstr "OsclassWizards"
+
+#~ msgid "SALE"
+#~ msgstr "ПРОДАЖА"
+
+#~ msgid "RENT"
+#~ msgstr "АРЕНДА"
+
+#~ msgid "See all categories"
+#~ msgstr "Смотреть все категории"
+
+#~ msgid "For rent"
+#~ msgstr "Аренда"
+
+#~ msgid "For sale"
+#~ msgstr "Продается"
+
+#~ msgid "Select a property type"
+#~ msgstr "Выберите тип недвижимости"
+
+#~ msgid "Rooms"
+#~ msgstr "Номера"
+
+#~ msgid "Bathrooms"
+#~ msgstr "В ванных комнатах"
+
+#~ msgid "Area"
+#~ msgstr "Площадь"
+
+#~ msgid "Beds"
+#~ msgstr "Кровати"
+
+#~ msgid "Baths"
+#~ msgstr "баня"
+
+#~ msgid "Categories Icons"
+#~ msgstr "Категории Иконки"
+
+#~ msgid ""
+#~ "Choose custom icons for categories. The items from the category will take "
+#~ "the related icons in google map."
+#~ msgstr ""
+#~ "Выберите пользовательские значки для категорий. Элементы из категории "
+#~ "будут отображать соответствующие значки на карте google."
+
+#~ msgid ""
+#~ "We use <a style=\"color: #018be3; text-decoration: none;\" title=\"Visit "
+#~ "Font Awesome site for help\" target=\"_blank\" href=\"http://fortawesome."
+#~ "github.io/Font-Awesome/3.2.1/icons/\">Font Awesome Icons.</a> Just type "
+#~ "icon name omitting <strong>\"icon-\"</strong> eg. home or car."
+#~ msgstr ""
+#~ "Мы используем <a style = \"color: # 018be3; text-decoration: none;\" "
+#~ "title = \"Посетите Font Awesome site for help\" target = \"_ blank\" href "
+#~ "= \"http://fortawesome.github.io/Font-Awesome/3.2.1/icons/\"> Шрифт "
+#~ "Awesome Icons. </a> Просто введите icon icon omitting <strong> \"-\" </ "
+#~ "strong>, например. дома или машине."
+
+#~ msgid "Welcome message"
+#~ msgstr "Приветственное сообщение"
+
+#~ msgid "Green"
+#~ msgstr "зеленый"
+
+#~ msgid "Vivid Red"
+#~ msgstr "Яркий красный"
+
+#~ msgid "Light Blue"
+#~ msgstr "Светло-синий"
+
+#~ msgid "Orange"
+#~ msgstr "оранжевый"
+
+#~ msgid "Gray"
+#~ msgstr "Серый"
+
+#~ msgid "Yellow"
+#~ msgstr "желтый"
+
+#~ msgid "Google fonts"
+#~ msgstr "Google шрифты"
+
+#~ msgid "Header 728x90"
+#~ msgstr "Заголовок 728x90"
+
+#~ msgid ""
+#~ "This ad will be shown at the top of your website, next to the site title "
+#~ "and above the search results."
+#~ msgstr ""
+#~ "Это объявление будет показано в верхней части вашего сайта, рядом с "
+#~ "названием сайта и над результатами поиска."
+
+#~ msgid "Search results 728x90 (middle of the page)"
+#~ msgstr "Результаты поиска 728x90 (посередине страницы)"
+
+#~ msgid "Sidebar sidebar-300x250"
+#~ msgstr "Боковая панель боковой панели-300x250"
+
+#~ msgid "Before footer block"
+#~ msgstr "До нижнего колонтитула"
+
+#~ msgid "Dont display this block"
+#~ msgstr "Не показывать этот блок"
+
+#~ msgid "Short Text"
+#~ msgstr "Короткий текст"
+
+#~ msgid "Button title"
+#~ msgstr "Название кнопки"
+
+#~ msgid "Footer settings"
+#~ msgstr "Настройки нижнего"
+
+#~ msgid "First Row Title"
+#~ msgstr "Название первой строки"
+
+#~ msgid "First Row Text"
+#~ msgstr "Первый текст строки"
+
+#~ msgid "Last Row Title"
+#~ msgstr "Последняя строка заголовка"
+
+#~ msgid "Last Row Text"
+#~ msgstr "Последний текст строки"
+
+#~ msgid "Header background settings"
+#~ msgstr "Настройки фона заголовка"
+
+#~ msgid "Background image"
+#~ msgstr "Изображение на заднем плане"
+
+#~ msgid "Recomended size of 1350 px X 150 px"
+#~ msgstr "Рекомендованный размер 1350 px X 150 px"
+
+#~ msgid "The preferred size of the logo is 600x100."
+#~ msgstr "Предпочтительный размер логотипа - 600x100."
+
+#~ msgid "Catalogue Theme by "
+#~ msgstr "Тема каталога по"
+
+#~ msgid "Ads settings"
+#~ msgstr "Настройки рекламы"
+
+#~ msgid "Post item title"
+#~ msgstr "Заголовок сообщения"
+
+#~ msgid "Gallery"
+#~ msgstr "Галерея"
+
+#~ msgid "Footer link"
+#~ msgstr "Нижний колонтитул"
+
+#~ msgid ""
+#~ "I want to help Osclass by linking to <a href=\"http://osclass.org/\" "
+#~ "target=\"_blank\">osclass.org</a> from my site with the following text:"
+#~ msgstr ""
+#~ "I want to help Osclass by linking to <a href=\"http://osclass.org/\" "
+#~ "target=\"_blank\">osclass.org</a> from my site with the following text:"
+
+#~ msgid ""
+#~ "This website is proudly using the <a title=\"Osclass web\" href=\"http://"
+#~ "osclass.org/\">classifieds scripts</a> software <strong>Osclass</strong>"
+#~ msgstr ""
+#~ "Этот сайт с гордостью использует <a title=\"Osclass web\" href=\"http://"
+#~ "osclass.org/\"> скрипты объявлений </a> программное обеспечение <strong> "
+#~ "Osclass </ strong>"
+
+#~ msgid "Show location input as:"
+#~ msgstr "Показывать ввод местоположения как:"
+
+#~ msgid "Sign up"
+#~ msgstr "зарегистрироваться"
+
+#~ msgid "Free Listing"
+#~ msgstr "Бесплатные объявления"
+
+#~ msgid "Pages"
+#~ msgstr "страницы"
+
+#~ msgid "All rights reserved."
+#~ msgstr "Все права защищены."
+
+#~ msgid ""
+#~ "This website is proudly using the <a title=\"Osclass web\" href=\"%s"
+#~ "\">classifieds scripts</a> software <strong>Osclass</strong>"
+#~ msgstr ""
+#~ "Этот сайт с гордостью использует <a title=\"Osclass web\" href=\"%s\"> "
+#~ "скрипты объявлений </a> программное обеспечение <strong> Osclass </ "
+#~ "strong>"
+
+#~ msgid "The header background settings has been saved"
+#~ msgstr "Настройки фона заголовка сохранены"
+
+#~ msgid "The category icon settings has been saved"
+#~ msgstr "Настройки значка категории сохранены"
+
+#~ msgid "The social links has been saved"
+#~ msgstr "Социальные ссылки сохранены"
+
+#~ msgid "The footer settings has been saved"
+#~ msgstr "Настройки нижнего колонтитула сохранены"
+
+#~ msgid "Catalogue theme settings"
+#~ msgstr "Настройки темы каталога"
+
+#~ msgid "Report"
+#~ msgstr "отчет"
+
+#~ msgid "Featured"
+#~ msgstr "Рекомендуемые"
+
+#~ msgid "View details"
+#~ msgstr "Посмотреть детали"
+
+#~ msgid "Show filters"
+#~ msgstr "Показать фильтры"
+
+#~ msgid "Access to your account"
+#~ msgstr "Доступ к вашей учетной записи"
+
+#~ msgid "Adress : "
+#~ msgstr "Адрес:"
+
+#~ msgid "Location : "
+#~ msgstr "Место нахождения :"
+
+#~ msgid "Register an account for free"
+#~ msgstr "Зарегистрировать учетную запись бесплатно"
+
+#~ msgid "Create"
+#~ msgstr "Создайте"
+
+#~ msgid "Already have an account ?"
+#~ msgstr "У вас уже есть учетная запись?"
+
+#~ msgid "Display menu"
+#~ msgstr "Меню отображения"
+
+#~ msgid "Delete account ?"
+#~ msgstr "Удалить аккаунт ?"
+
+#~ msgid "Show Header Background Image"
+#~ msgstr "Показать фоновое изображение заголовка"
+
+#~ msgid "Show Footer Background Image"
+#~ msgstr "Показать фоновый рисунок нижнего колонтитула"
+
+#~ msgid "view all..."
+#~ msgstr "посмотреть все..."
+
+#~ msgid "Theme color settings updated correctly"
+#~ msgstr "Настройки цвета темы обновлены правильно"
+
+#~ msgid "The header background image has been uploaded correctly"
+#~ msgstr "Исходное изображение заголовка загружено правильно"
+
+#~ msgid "The footer background image has been uploaded correctly"
+#~ msgstr "Фоновое изображение нижнего колонтитула загружено правильно"
+
+#~ msgid "The footer background image image has been removed"
+#~ msgstr "Изображение фонового изображения нижнего колонтитула удалено"
+
+#~ msgid "What are you looking for?"
+#~ msgstr "Что вы ищете?"
+
+#~ msgid "Filters:"
+#~ msgstr "Фильтры:"

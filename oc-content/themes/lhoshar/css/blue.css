@@ -1,0 +1,25 @@
+
+/* -- color #3e3eb1; blue color -- */
+
+#navbar .nav .register a{
+	color: #1396e2 !important;
+}
+.btn, #categories-row .grid_list .fa, .slick-arrow, .listing-grid-overlay .currency-value, .ribbon span, .latest_ads .see_more_link a, .popular-cities ul li a, .popular-regions ul li a, span.active a.list-button, .active a.grid-button, .doublebutton a.list-button, .doublebutton .grid-button{
+	background-color: #1396e2;
+}
+.hovereffect .listing-lists .fa-map-marker, .locate span .fa-map-marker, .list-view .listing-basicinfo .fa, .list-detail .listing-basicinfo .fa, #item-header .fa, ul.breadcrumb li a{
+	color: #1396e2;
+}
+#search-sidebar .search-row .filters fieldset h3{
+	background-color: #1396e2;
+	border: 1px solid #1396e2;
+}
+#myBtn, #refine .category li a, .paginate a, .list-view .listing-basicinfo a, .list-detail .listing-basicinfo a, #refine .category li li a, #item-content #edit_item_view, .active a.grid-button:hover, .doublebutton a.list-button:hover, .carousel-caption a, #header_map article a{
+	background-color: #1396e2;
+}
+.see_by label, #user-login .form-login .actions a{
+	color: #1396e2;
+}
+.arrow-down{
+	border-top: 5px solid #1396e2;
+}

@@ -1,0 +1,745 @@
+
+
+@media (min-width: 1201px) and (max-width: 1310px){
+    #breadcrumb-col{
+        margin-left: 0%;
+    }  
+}
+@media (min-width: 991px) and (max-width: 1200px){
+    .first-logged span{
+        margin-top: 0px;
+    }
+    #cell1 .glyphicon, #cell2 .glyphicon{
+        margin-left: 185px;
+    }
+    .navbar-inverse .pull-right{
+        margin-top: -10px;
+        margin-bottom: 0px;
+    }
+    #breadcrumb-col{
+        margin-left: 0%;
+    }
+    #listing-view .listing-card .listing-basicinfo #listing-grid-date{
+        margin-bottom: 5px;
+    }
+    #listing-view  .fa-map-marker{
+        margin-bottom: 5px;
+    }
+    #refine .category{
+        margin-left: -37px;
+    }
+    #listing-view #listing-views .currency-value{
+        margin-left: 290px;
+    }
+    #search-col #loop-single-listpremium-col .listing-card .currency-value{
+        margin-left: 300px;
+    }
+    #search-col .listing-card .listing-detail{
+        margin-top: 60px;
+    }
+    #footer .btn-default{
+        background-color: #e94e38;
+    }
+    body.search .listing-grid .listing-card{
+        margin-top: -85px;
+    }
+}  
+@media (min-width: 991px) and (max-width: 991px){
+    #header .heading{
+        font-size: 25px;
+    }
+    #sel{
+        margin-bottom: 5px;
+    }
+    #homeicon{
+        background-color: #44bd7a;
+    }
+    #profileicon{
+        background-color: #f46363;
+    }
+    #graduationicon{
+        background-color: #da26be;
+    }
+    #musicicon{
+        background-color: #f19e1f;
+    }
+    #transportationicon{
+        background-color: #88499c;
+    }
+    #breadcrumb-col{
+        margin-left: 10%;
+    }
+    #item-sidebar-col{
+        position: initial;
+    }
+    #listing-view #listing-views .currency-value{
+        margin-left: 250px;
+    }
+    #search-col #loop-single-listpremium-col .listing-card .currency-value, #search-col #listing-view .listing-card .currency-value{
+        position: absolute;
+        margin-left: -165px;
+        margin-top: -22px;
+    }
+    .item-photos .main-photo img{
+        margin-left: 9%;
+    }
+    #footer .btn-default{
+        background-color: #e94e38;
+    }
+}    
+@media (min-width: 768px) and (max-width: 990px){
+    .first-logged span{
+        margin-top: 0px;
+    }
+    .navbar-inverse .navbar-nav{
+        float: none;
+    }
+    .navbar-inverse .pull-right{
+        margin-top: -10px;
+        margin-bottom: 0px;
+    }
+    #right-navbar li a, #right-navbar .first-logged a{
+        background-color: #e94e38;
+        border-right: 1px solid #fff;
+        height: 55px;
+        margin-top: 5px;
+        padding: 17px 15px;
+        color: #fff;
+    }
+    #cell1 .glyphicon, #cell2 .glyphicon{
+        margin-left: 190px;
+    }
+    #sel{
+        margin-bottom: 5px;
+    }
+    #homeicon{
+        background-color: #44bd7a;
+    }
+    #profileicon{
+        background-color: #f46363;
+    }
+    #graduationicon{
+        background-color: #da26be;
+    }
+    #musicicon{
+        background-color: #f19e1f;
+    }
+    #transportationicon{
+        background-color: #88499c;
+    }
+    #breadcrumb-col{
+        margin-left: 0%;
+    }
+    #listing-view .listing-lists{
+        margin-top: 10px;
+    }
+    #listing-view .listing-card .listing-basicinfo #listing-grid-date{
+        margin-bottom: 5px;
+    }
+    #listing-view  .fa-map-marker{
+        margin-bottom: 5px;
+    }
+    #refine .category{
+        margin-left: -30px;
+    }
+    #listing-view #listing-views .currency-value{
+        margin-left: 250px;
+    }
+    #search-col #loop-single-listpremium-col .listing-card .currency-value, #search-col #listing-view .listing-card .currency-value{
+        position: absolute;
+        margin-left: -165px;
+        margin-top: -22px;
+    }
+    #search-sidebar-subscribe .alert_form input{
+        margin-left: 0px;
+    }
+    #search-sidebar-subscribe .alert_form button{
+        width: 100%;
+        margin-left: 0px;
+    }
+    #search-col .listing-card .listing-detail{
+        margin-top: 60px;
+    }
+    #footer .btn-default{
+        background-color: #e94e38;   
+    } 
+     body.search .listing-grid .listing-card {
+        margin-top: -85px;
+    }
+    #item-sidebar-col{
+        position: initial;
+    }
+    #user-items-col #listing-view{
+        margin-top: 60px;
+    }
+    .item-photos .main-photo img{
+        margin-left: 9%;
+    }
+}
+@media (min-width: 768px) and (max-width: 768px){
+    #breadcrumb-col{
+        margin-left: -3%;
+    }
+}
+@media (min-width: 0px) and (max-width: 767px){
+    .first-logged span{
+        margin-top: 0px;
+    }
+    .navbar-brand{
+        margin-left: 0px;
+    }
+     #main-navbar li a{
+        margin-left: 0px;
+    }
+    .navbar-inverse .pull-right{
+        margin-top: auto;
+        margin-bottom: 0px;
+    }
+    .navbar-inverse .navbar-toggle{
+        width: 50px;
+        border-radius: 5px;
+    }
+    .navbar-inverse .navbar-toggle span{
+        width: 30px;
+    }
+    #right-navbar li a, #right-navbar .first-logged a{
+        background-color: #e94e38;
+        border-right: 1px solid #fff;
+        height: 50px;
+        margin-top: 2px;
+        padding: 17px 15px;
+        margin-right: 0px;
+        color: #fff;
+    }
+    .navbar-default .navbar-toggle{
+        width: 50px;
+        border-radius: 8px;
+    }
+    .navbar-default .navbar-toggle span{
+        width: 30px;
+    }
+    .navbar-default .navbar-toggle .icon-bar, .navbar-inverse .navbar-toggle .icon-bar{
+        background-color: #eee;
+        width: 40px;
+        height: 4px;
+        margin-bottom: -2px;
+        margin-left: -5px;
+        border-radius: 0px;
+    }
+    #header #header-col #cell1 .glyphicon, #header #header-col #cell2 .glyphicon{
+        display: none;
+    }
+    #header #cells .select-box-icon {
+        display: block;
+        color: #fff;
+        margin-top: 10px;
+    }
+    #sel{
+        margin-bottom: 5px;
+    }
+    .navbar-default{
+        display: none;
+    }
+    #categories-row{
+        margin-top: 0px;
+    }
+    #homeicon{
+        background-color: #44bd7a;
+    }
+    #profileicon{
+        background-color: #f46363;
+    }
+    #graduationicon{
+        background-color: #da26be;
+    }
+    #musicicon{
+        background-color: #f19e1f;
+    }
+    #transportationicon{
+        background-color: #88499c;
+    }
+    #breadcrumb-col{
+        margin-left: -3%;
+    }
+    .listing-grid .listing-card:nth-child(2n){
+        margin-left: 0px;
+        margin-top: -25px;
+    }
+    .listing-card .listing-thumb{
+        float: none;
+    }
+    #listing-view img{
+        height: auto;
+    }
+    .listing-grid #grid-images{
+        height: auto;
+    }
+    .listing-grid #grid-images img{
+        margin: 0px;
+    }
+    #listing-view #grid-view #grid-images{
+        margin-left: 0px;
+    }
+    #listing-view #grid-view .listing-card{
+        margin-left: 0px;
+        height: auto;
+    }
+    #listing-view .listing-lists{
+        margin-top: 10px;
+    }
+    #listing-view .listing-card .listing-basicinfo #listing-grid-date{
+        margin-bottom: 5px;
+    }
+    #listing-view  .fa-map-marker{
+        margin-bottom: 5px;
+    }
+    #item-sidebar-col{
+        position: initial;
+    }
+    #listing-view #listing-views .currency-value, #search-col #loop-single-listpremium-col .listing-card .currency-value{
+        margin-left: 0px;
+        position: unset;
+        float: right;
+    }
+    #search-sidebar-subscribe .alert_form input{
+        margin-left: 0px;
+    }
+    #search-sidebar-subscribe .alert_form button{
+        width: 100%;
+        margin-left: 0px;
+    }
+    #user-items-col .listing-grid #grid-view {
+        margin-top: 70px;
+        margin-bottom: -40px;
+    }
+    body.search #grid-view-col, body.search #loop-single-premium-col{
+        width: 100%;
+    }
+    #footer .btn-default{
+        margin-top: -70px;
+        margin-left: 125px;
+        background-color: #e94e38;
+        height: 50px;
+        width: 120px;   
+    }
+    .popular-cities ul li, .popular-regions ul li{
+        margin-bottom: 0px;
+    }
+    .form-container .controls input{
+        width: 100%;
+    }
+    .form-container textarea{
+        width: auto;
+    }
+    .form-register h1{
+        font-size: 25px;
+    } 
+     body.search .listing-grid .listing-card{
+        margin-top: 0px;
+    }
+}    
+@media (min-width: 630px) and (max-width: 767px){
+    #header-col{
+        width: 66.66666667%;
+        margin-left: 16.66666667%;
+    }
+}
+@media (min-width: 0px) and (max-width: 740px){
+    #header{
+        margin: 0px;
+    }
+    #header .heading{
+        margin-top: 20px;
+        margin-bottom: 5px;
+    }
+    #sel{
+        margin-bottom: 5px;
+    }
+    .listing-grid .listing-card{
+        height: auto;c
+    }
+    #listing-view #grid-view #grid-images{
+        margin-bottom: 0px;
+    } 
+    #listing-view #grid-view .listing-card{
+        margin-top: 0px;
+    }
+    #item-header .price{
+        margin-top: -10px;
+    }
+    #item-header hr{
+        margin-top: 65px;
+    }
+    #item-header .fa{
+        margin-left: 0px;
+        margin-bottom: 10px;
+    }
+    #item-header .item-header{
+        display: block;
+        margin-bottom: -10px;
+    }
+    .resp-wrapper{
+        padding: 0px;
+    }
+    .item-photos .main-photo img{
+        margin-left: 3%;
+    }
+    .wrapper, #footer {
+        padding-left: 0px;
+        padding-right: 0px;
+    }
+    .item-photos .thumbs img{
+        margin-left: 15px;
+    }
+    body.search #sidebar{
+        background-color: #fff;
+        border-radius: 0px;
+    }
+    body.user-public-profile #sidebar{
+        margin-top: 0px;
+    }
+    body.search #content h1{
+        margin-top: 20px;
+    }
+    body.search .list-header{
+        height: auto;
+    }
+    body.home #header{
+        margin-bottom: 0px;
+    }
+    body.not-found #query{
+        width: 100%;
+        margin-bottom: 10px;
+    }
+    .doublebutton{
+        margin-right: 0px;
+    }
+    .see_by{
+        position: absolute;
+        margin-top: 0px;
+    }
+    .modal-header .close{
+        color: #e94e38 !important;
+    }
+}
+@media (min-width: 0px) and (max-width: 630px){
+    #right-navbar li a{
+        height: 50px;
+    }
+    #header .select-box{
+        margin-left: 1px;
+        margin-right: 1px;
+    }
+    .item-photos .main-photo img{
+        margin-left: 2%;
+    }
+}        
+@media (min-width: 0px) and (max-width: 568px){
+    .navbar-inverse .pull-right{
+        margin-left: 1px;
+    }    
+    #right-navbar li a{
+        height: 30px;
+        margin-top: 2px;
+        padding: 5px 15px;
+        height: 50px;
+    }
+    #right-navbar .first-logged a{
+        font-size: 10px;
+        padding: 18px 7px;
+    }
+     #header .heading{
+        font-size: 25px;
+    }
+    #footer h2{
+        margin-bottom: -20px;
+        margin-top: 20px;
+    }
+    #footer .alert_form input{
+        margin-top: 65px;
+    }
+}  
+@media (min-width: 0px) and (max-width: 545px){
+    #footer .alert_form input{
+        width: 430px;
+    }
+    #footer .btn-default{
+        margin-left: 90px;   
+    }
+}
+@media (min-width: 0px) and (max-width: 510px){
+    #footer .alert_form input{
+        width: 430px;
+    }
+    #footer .btn-default{
+        margin-left: 90px;   
+    }
+}
+@media (min-width: 0px) and (max-width: 470px){
+    .first-logged span{
+        margin-top: -20px;
+        margin-left: 5px;
+    }
+    #header #cell1 .select-box .select-box-label, #header #cell2 .select-box .select-box-label{
+        margin-left: -5px;
+    }
+    body.search .listing-grid .listing-card:nth-child(2n){
+        margin-left: 0px;
+        margin-top: 15px;
+    }
+    #listing-view #listing-views .currency-value, #search-col #loop-single-listpremium-col .listing-card .currency-value{
+        font-size: 12px;
+    }
+    #listing-view .listing-card .listing-basicinfo a{
+        padding: 6px 10px;
+    }
+    .item-photos .main-photo img{
+        margin-left: 1%;
+    }
+    #footer .row ul li a{
+        font-size: 10px;
+        margin-right: 3px;
+    }
+    #footer .alert_form input{
+        width: 385px;
+    }
+    #footer .btn-default{
+        margin-left: 65px;   
+    }
+}   
+@media (min-width: 0px) and (max-width: 425px){
+    #cell1 .glyphicon, #cell2 .glyphicon{
+        margin-left: 155px;
+        margin-top: 6px;
+    }
+    .navbar-inverse .pull-right{
+        margin-left: 1px;
+    }
+    #footer .alert_form input{
+        width: 370px;
+    }
+    #footer .btn-default{
+        margin-left: 60px;   
+    }
+    .form-register h1{
+        font-size: 25px;
+    }
+    .form-password-recover h1{
+        font-size: 20px;
+    }    
+}    
+@media (min-width: 0px) and (max-width: 405px){
+    .form-inline #cell2 .glyphicon{
+        margin-left: 79%;
+    }
+    #footer .alert_form input{
+        width: 330px;
+    }
+    #footer .btn-default{
+        margin-left: 40px;   
+    }
+    .listing-grid hr{
+        margin-top: 45px;
+        margin-bottom: 10px;
+    }
+    .form-login .control-group .checkbox input{
+        margin-left: 40px;
+    }
+    .checkbox label, .radio label{
+        padding-left: 255px;
+    }
+    #user-login .checkbox{
+        margin-left: -210px;
+    }
+}
+@media (min-width: 0px) and (max-width: 375px){
+    #cell1 .glyphicon, #cell2 .glyphicon{
+        margin-left: 135px;
+    }
+    #header #cell1 .select-box .select-box-label, #header #cell2 .select-box .select-box-label{
+        margin-left: 0px;
+    }
+    #right-navbar li a{
+        padding: 10px 15px;
+        font-size: 12px;
+    }
+    #user-items-col #listing-view .admin-options{
+        display: block;
+        margin-left: -105px;
+    }
+    #listing-view #listing-views .currency-value, #search-col #loop-single-listpremium-col .listing-card .currency-value{
+        font-size: 10px;
+    }
+    #listing-view .listing-card .listing-basicinfo a{
+        padding: 6px 10px;
+        font-size: 12px;
+    }
+    #footer .alert_form input{
+        width: 330px;
+    }
+    #footer .btn-default{
+        margin-left: 40px;   
+    }
+    #footer .socialmedia{
+        margin-top: 25px;
+    }
+    #footer .socialmedia a{
+        margin-right: 10px;
+    }
+    .form-register h1{
+        font-size: 20px;
+    }
+}
+@media (min-width: 0px) and (max-width: 365px){
+    #header #cells .select-box-icon{
+        margin-top: 6px;
+    }
+    #header #cell1 .select-box .select-box-label, #header #cell2 .select-box .select-box-label{
+        margin-left: -5px;
+    }
+    #footer .alert_form input{
+        width: 300px;
+    }
+    #footer .btn-default{
+        margin-left: 25px;   
+    }
+    .form-register h1{
+        font-size: 18px;
+    }
+    #item-content .user-card{
+        display: initial;
+    }
+    .user-card ul {
+        margin-top: 94px;
+        margin-left: -15px;
+        margin-bottom: -20px;
+    }
+    #item-content .user-card .name{
+        margin-bottom: 0px;
+    }
+    #search-col .doublebutton{
+        margin-right: -30px;
+    }
+    #search-col .doublebutton .active a.grid-button, #search-col .doublebutton a.list-button{
+       margin-right: 20px;
+       margin-left: 0px;
+    }
+    #search-col .see_by{
+        margin-left: -10px;
+    }
+}
+@media (min-width: 0px) and (max-width: 340px){
+    #right-navbar li a{
+        padding: 12px 15px;
+        font-size: 10px;
+    }
+    #header .heading{
+        font-size: 18px;
+        margin-top: 20px;
+    }
+    .list-grid-buttons .doublebutton{
+        margin-right: -15px;
+    }
+    .item-photos .main-photo img{
+        margin-left: 1%;
+    }
+    #footer .alert_form input{
+        width: 280px;
+    }
+    #footer .btn-default{
+        margin-left: 15px;   
+    }
+    #footer .socialmedia{
+        margin-top: 15px;
+    }
+    #footer .socialmedia a{
+        margin-right: 18px;
+        margin-left: 22px;
+    }
+}    
+@media (min-width: 0px) and (max-width: 320px){
+    #header .heading{
+        font-size: 18px;
+        margin-top: 20px;
+    }
+    #header #cell1 .select-box .select-box-label, #header #cell2 .select-box .select-box-label{
+        margin-left: -8px;
+        font-size: 12px;
+    }
+    #right-navbar li a{
+        height: 45px;
+        margin-top: 2px;
+        padding: 10px 15px;
+        font-size: 10px;
+    }
+    #right-navbar .first-logged a{
+        height: 45px;
+        font-size: 10px;
+        padding: 15px 7px;
+    }
+    .active a.grid-button, .doublebutton a.list-button{
+        margin-left: 0px;
+        margin-right: 15px;
+    }
+    #footer .alert_form input{
+        width: 270px;
+    }
+    #footer .btn-default{
+        margin-left: 10px;   
+    }
+}
+@media (min-width: 0px) and (max-width: 312px){
+    .list-grid-buttons{
+        padding: 16px 2px;
+    }
+    .active a.grid-button, .doublebutton a.list-button{
+        margin-left: -15px;
+        margin-right: 20px;
+    }
+    #footer .alert_form .form-inline .form-group{
+        display: grid;
+    }
+    #footer .alert_form input{
+        width: auto;
+        border-radius: 5px;
+    }
+    #footer .btn-default{
+        width: auto;   
+        border-radius: 5px;
+        margin-left: 40px;
+    }
+    .listing-grid hr{
+        margin-top: 60px;
+    }
+    #listing-view #listing-views .currency-value, #search-col #loop-single-listpremium-col .listing-card .currency-value{
+        font-size: 8px;
+    }
+    #listing-view .listing-card .listing-basicinfo a{
+        font-size: 8px;
+    }
+    #listing-view .listing-card .listing-basicinfo p{
+        font-size: 12px;
+    }
+}
+@media (min-width: 0px) and (max-width: 300px){
+    #right-navbar li a{
+        margin-top: 2px;
+        padding: 10px 15px;
+        font-size: 10px;
+    }
+    #header .heading{
+        font-size: 18px;
+        margin-top: 20px;
+    }
+    #search-col .see_by {
+        margin-left: -20px;
+        margin-top: 40px;
+    }
+    #footer .btn-default{
+        margin-top: -75px;
+        height: 60px;
+        margin-left: 45px;
+        border-top-left-radius: 0px;
+        border-bottom-left-radius: 0px;
+    }
+}      

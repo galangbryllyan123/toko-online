@@ -1,0 +1,30 @@
+{
+  "name": "madhouse/messenger",
+  "authors": [
+    "MADHOUSE <contact.wearemadhouse@gmail.com>"
+  ],
+  "description": "Personal messaging plugin for Osclass, designed by Madhouse.",
+  "main": "index.php",
+  "keywords": [
+    "osclass",
+    "plugins",
+    "PM"
+  ],
+  "license": "Apache-2.0",
+  "homepage": "http://wearemadhouse.wordpress.com/",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests",
+    "vendor"
+  ],
+  "dependencies": {
+    "cssr": "git@bitbucket.org:muchmuch/cssr.git#1.0.0",
+    "Autolinker.js": "0.25.0",
+    "fancybox": "v2.1.5",
+    "twig.js": "0.8.9"
+  }
+}

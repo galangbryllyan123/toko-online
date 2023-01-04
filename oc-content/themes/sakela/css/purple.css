@@ -1,0 +1,60 @@
+
+/* -- color #702884; purple color -- */
+
+/* -- home page colors -- */
+
+#right-navbar li a, #right-navbar .first-logged a, #header .ui-button, #sel .ui-button, #profileicon, .listing-grid #grid-images .currency-value, #search-col #loop-single-listpremium-col .listing-card .currency-value{
+	background-color: #702884;
+}
+.active a.grid-button, .doublebutton a.list-button, .listing-grid .listing-basicinfo a, #listing-view .listing-card .listing-basicinfo a, #listing-view #listing-views .currency-value{
+	background-color: #702884;
+}
+#latest-listing-strong, .popular-cities ul li a, .popular-regions ul li a, #sidebar .plugin-hooks .one_input h6{
+	background-color: #702884;
+}
+#category-heading .fa, #language-row span a:hover, #footer h5 a:hover, .navbar-inverse #main-navbar li a:hover, .navbar-default .navbar-left li a:hover, #categories-row #category-heading #all-categories li a:hover, #categories-row #category-heading a:hover, #categories-row #category-heading #all-categories li strong, .listing-grid #listing-grid-date .fa-calendar-o, .listing-grid .fa-map-marker, #listing-view .fa-calendar-o, #footer .row ul li a:hover{
+	color: #702884;
+}
+.pull-right #right-navbar li a:hover{
+    color: #702884;
+    text-shadow: 0 1px 0 #702884;
+
+}
+/* -- search page colors -- */
+
+#search-sidebar-subscribe .alert_form button, #sidebar h3, #sidebar #action-button, .listing-grid #grid-images .currency-value, .listing-grid .listing-basicinfo a, #refine .category li a, #refine .category li li a, .paginate a{
+	background-color: #702884;
+}
+.see_by label, .see_by ul li a:hover, .breadcrumb li a:hover, #category-heading .fa; .flashmessage-404 .categories a:hover{
+	color: #702884;
+}
+.see_by .arrow-down{
+	border-top: 5px solid #702884;
+}
+
+/* -- item page -- */
+
+#item-header .price, #description .btn-md, #sidebars-sidebar .btn-info, .form-horizontal .btn-success, .flashmessage-404 .ui-button{
+	background-color: #702884;
+}
+#item-header .fa, #listing-view .fa-map-marker, .widget-box .fa, .control-group .fa-envelope, .control-group .fa-lock{
+	color: #702884;
+}
+
+/* -- all buttons -- */
+
+.form-register .control-group .btn-warning, #publish-ad .btn-warning, .form-login .controls .btn-lg, #user-profile-col .btn-info, #userchange-email-col .btn-info, .ui-dialog .ui-dialog-buttonpane button{
+	background-color: #702884;
+}
+
+/* -- log in my account -- */
+
+.navbar-brand a, #description, .first-logged span, #item-content .user-card .website a{
+	color: #702884;
+}
+#user-items-col .admin-options a, .ui-dialog-titlebar{
+	background-color: #702884;
+}
+.qq-upload-button{
+	background-color: #702884 !important;
+}

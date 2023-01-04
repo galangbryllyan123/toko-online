@@ -1,0 +1,72 @@
+{% for message in messages %}
+<li
+    class="clearfix message messenger-box
+        {% if message.is_from_viewer %} message-sender {% endif %}
+        {% if message.is_system %} auto-message {% endif %}
+    ">
+    {% if not message.is_system and message.sender.avatar != "" and message.sender.avatar is not null and message.sender.avatar is defined %}
+        <div class="message-avatar-wrapper">
+            <img class="sender-avatar" src="{{message.sender.avatar}}" >
+        </div>
+    {% endif %}
+    <div class="message-content-wrapper">
+        <div class="meta message-sent-date pull-right">
+            {{ message.sent_date.fb_formatted }}
+        </div>
+        {% if message.is_system is defined and not message.is_system %}
+
+        <ul class="list-inline">
+            <li class="message-title">
+                {% if message.sender.is_registered is defined and message.sender.is_registered %}
+                    <a target="_blank" href="{{ message.sender.url }}">
+                        {{ message.sender.name }}
+                    </a>
+                {% else %}
+                    {{ message.sender.name }}
+                {% endif %}
+            </li>
+        </ul>
+        {% endif %}
+        <div class="text js-text">
+            {{ message.text|raw }}
+        </div>
+        {% if not message.is_hidden and not message.is_blocked %}
+            {% if message.has_resources %}
+                <div class="messenger-resources clearfix">
+                    {% for resource in message.resources %}
+                        {% if resource.is_image %}
+                            <a class="fancybox messenger-resource"
+                               rel="{{message.id}}"
+                               href="{{resource.url}}"
+                               style="background-image:url('{{resource.url_thumbnail}}');"
+                               title="{{resource.original_name}}"
+                            >
+                            </a>
+                        {% else %}
+                            <a class="messenger-resource" href="{{resource.url}}" target="_blank">
+                                <span>{{resource.original_name}}</span>
+                            </a>
+                        {% endif %}
+                    {% endfor %}
+                </div>
+            {% endif %}
+            <div class="clearfix">
+                {% if message.can_delete %}
+                    <div class="message-delete pull-right">
+                        <a href="{{ message.urls.delete }}">
+                            {{ content.deleteAction }}
+                        </a>
+                    </div>
+                {% endif %}
+                {% if message.is_read %}
+                    <div class="message-date">
+                        <div class="read">
+                            {{ content.read }}&nbsp;{{ message.read_date.fb_formatted }}
+                        </div>
+                    </div>
+                {% endif %}
+            </div>
+        {% endif %}
+    </div>
+</li>
+{% endfor %}

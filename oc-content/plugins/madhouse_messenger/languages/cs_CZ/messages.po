@@ -1,0 +1,1679 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Madhouse Messenger\n"
+"POT-Creation-Date: 2016-12-11 16:36+0100\n"
+"PO-Revision-Date: \n"
+"Last-Translator: Madhouse <contact.wearemadhouse@gmail.com>\n"
+"Language-Team: Madhouse <contact.wearemadhouse@gmail.com>\n"
+"Language: cs\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.7\n"
+"X-Poedit-KeywordsList: __;_e;_m\n"
+"X-Poedit-Basepath: ../..\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: vendor\n"
+"X-Poedit-SearchPathExcluded-1: node_modules\n"
+
+#: classes/Madhouse/Messenger/Controllers/Admin.php:105
+#: classes/Madhouse/Messenger/Controllers/Ajax.php:87
+#: classes/Madhouse/Messenger/Controllers/Ajax.php:103
+#: classes/Madhouse/Messenger/Controllers/Ajax.php:125
+msgid "The requested message / conversation does not exists."
+msgstr "Požadovaná zpráva / konverzace neexistuje."
+
+#: classes/Madhouse/Messenger/Controllers/Admin.php:111
+#, php-format
+msgid "Messages of '%s' (Thread: #%d)"
+msgstr "Zprávy z '% s' (Téma: #% d)"
+
+#: classes/Madhouse/Messenger/Controllers/Admin.php:130
+msgid "Non-registered users"
+msgstr ""
+
+#: classes/Madhouse/Messenger/Controllers/Admin.php:140
+msgid "The requested user does not exist."
+msgstr "Požadovaná uživatel neexistuje."
+
+#: classes/Madhouse/Messenger/Controllers/Admin.php:147
+msgid "User is deleted, you can't filter on his messages."
+msgstr ""
+
+#: classes/Madhouse/Messenger/Controllers/Admin.php:154
+#, fuzzy, php-format
+msgid "%s's messages (User: %s)"
+msgstr "Zprávy uživatele% s (User: #% d)"
+
+#: classes/Madhouse/Messenger/Controllers/Admin.php:212
+#: classes/Madhouse/Messenger/Controllers/Web.php:286
+#: classes/Madhouse/Messenger/Models/BlockedUsers.php:175
+#, fuzzy
+msgid "Blocked User"
+msgstr "Ucpaný"
+
+#: classes/Madhouse/Messenger/Controllers/Admin.php:227
+#, php-format
+msgid "Successfully unblocked user %s for %s"
+msgstr ""
+
+#: classes/Madhouse/Messenger/Controllers/Admin.php:234
+#: classes/Madhouse/Messenger/Controllers/Web.php:307
+msgid "This user is already blocked"
+msgstr ""
+
+#: classes/Madhouse/Messenger/Controllers/Admin.php:240
+#: classes/Madhouse/Messenger/Controllers/Web.php:216
+#: classes/Madhouse/Messenger/Controllers/Web.php:254
+#: classes/Madhouse/Messenger/Controllers/Web.php:313
+#: classes/Madhouse/Messenger/Controllers/Web.php:366
+#: classes/Madhouse/Messenger/Controllers/Web.php:399
+#: classes/Madhouse/Messenger/Controllers/Web.php:437
+#: classes/Madhouse/Messenger/Controllers/WebNonSecure.php:304
+#: classes/Madhouse/Messenger/Controllers/WebNonSecure.php:365
+#: classes/Madhouse/Messenger/Controllers/WebNonSecure.php:607
+msgid "Nice try, but you can't do that!"
+msgstr "Hezký pokus, ale můžete to dělat!"
+
+#: classes/Madhouse/Messenger/Controllers/Admin.php:245
+#: classes/Madhouse/Messenger/Controllers/Web.php:221
+#: classes/Madhouse/Messenger/Controllers/Web.php:259
+#: classes/Madhouse/Messenger/Controllers/Web.php:318
+#: classes/Madhouse/Messenger/Controllers/Web.php:371
+#: classes/Madhouse/Messenger/Controllers/Web.php:404
+#: classes/Madhouse/Messenger/Controllers/Web.php:442
+#: classes/Madhouse/Messenger/Controllers/WebNonSecure.php:177
+#: classes/Madhouse/Messenger/Controllers/WebNonSecure.php:206
+#: classes/Madhouse/Messenger/Controllers/WebNonSecure.php:314
+#: classes/Madhouse/Messenger/Controllers/WebNonSecure.php:375
+#: classes/Madhouse/Messenger/Controllers/WebNonSecure.php:443
+#: classes/Madhouse/Messenger/Controllers/WebNonSecure.php:648
+#: classes/Madhouse/Messenger/Controllers/WebNonSecure.php:659
+msgid "An error occured while performing the task"
+msgstr "Došlo k chybě při provádění úkolu."
+
+#: classes/Madhouse/Messenger/Controllers/Admin.php:276
+#, php-format
+msgid "'%s' does not match any known extension/type"
+msgstr ""
+
+#: classes/Madhouse/Messenger/Controllers/Admin.php:299
+#, php-format
+msgid "Can't send reminder every '%s' new messages. Must be greater than 1."
+msgstr ""
+"Nelze odeslat připomínku každý '% s' nové zprávy. Musí být větší než 1."
+
+#: classes/Madhouse/Messenger/Controllers/Admin.php:369
+msgid "Something went wrong blocking the message(s)"
+msgstr ""
+
+#: classes/Madhouse/Messenger/Controllers/Admin.php:377
+msgid "Successfully blocked the message!"
+msgstr "Úspěšně zablokoval zprávu!"
+
+#: classes/Madhouse/Messenger/Controllers/Admin.php:402
+#: classes/Madhouse/Messenger/Controllers/Admin.php:421
+#: classes/Madhouse/Messenger/Controllers/Admin.php:441
+#: classes/Madhouse/Messenger/Controllers/Admin.php:526
+#: classes/Madhouse/Messenger/Controllers/Admin.php:576
+#: classes/Madhouse/Messenger/Controllers/Admin.php:634
+msgid "Something went wrong during the process."
+msgstr ""
+
+#: classes/Madhouse/Messenger/Controllers/Admin.php:448
+msgid "Successfully update labels!"
+msgstr ""
+
+#: classes/Madhouse/Messenger/Controllers/Admin.php:476
+msgid "Successfully added one label!"
+msgstr ""
+
+#: classes/Madhouse/Messenger/Controllers/Admin.php:481
+msgid "Fail when adding one label: slug and title can't be empty."
+msgstr ""
+
+#: classes/Madhouse/Messenger/Controllers/Admin.php:486
+msgid "Failed while adding the label."
+msgstr ""
+
+#: classes/Madhouse/Messenger/Controllers/Admin.php:506
+msgid "You can't remove a system label."
+msgstr ""
+
+#: classes/Madhouse/Messenger/Controllers/Admin.php:516
+msgid "Successfully remove one label!"
+msgstr ""
+
+#: classes/Madhouse/Messenger/Controllers/Admin.php:521
+msgid "Failed to delete the label: this label doesn't exist."
+msgstr ""
+
+#: classes/Madhouse/Messenger/Controllers/Admin.php:584
+msgid "Successfully update events!"
+msgstr ""
+
+#: classes/Madhouse/Messenger/Controllers/Admin.php:642
+msgid "Successfully update status!"
+msgstr ""
+
+#: classes/Madhouse/Messenger/Controllers/Admin.php:659
+msgid "Fail when adding one status. Slug and title can't be empty."
+msgstr ""
+
+#: classes/Madhouse/Messenger/Controllers/Admin.php:672
+msgid ""
+"Fail when adding one status. The slug need to be unique. You need to change "
+"your title."
+msgstr ""
+
+#: classes/Madhouse/Messenger/Controllers/Admin.php:680
+msgid "Successfully add one status!"
+msgstr ""
+
+#: classes/Madhouse/Messenger/Controllers/Admin.php:697
+msgid "This status doesn't exist. Failed to delete it."
+msgstr ""
+
+#: classes/Madhouse/Messenger/Controllers/Admin.php:705
+msgid "Successfully remove one status!"
+msgstr ""
+
+#: classes/Madhouse/Messenger/Controllers/Admin.php:716
+msgid "Please, head to settings to select a moderation user."
+msgstr "Prosím, vedoucí do nastavení lze vybrat uživatele moderování."
+
+#: classes/Madhouse/Messenger/Controllers/Admin.php:742
+msgid "Can't send an empty message."
+msgstr "Nelze poslat prázdnou zprávu."
+
+#: classes/Madhouse/Messenger/Controllers/Admin.php:744
+msgid "Select a user to send the message to and choose the 'Contact' action."
+msgstr "Vyberte uživatele, odeslat zprávu a vyberte \"Kontakt\" akce."
+
+#: classes/Madhouse/Messenger/Controllers/Admin.php:746
+#: classes/Madhouse/Messenger/Controllers/Ajax.php:106
+#: classes/Madhouse/Messenger/Controllers/Ajax.php:109
+msgid "An error occured while performing the task."
+msgstr "Došlo k chybě při provádění úkolu."
+
+#: classes/Madhouse/Messenger/Controllers/Admin.php:749
+msgid "Successfully sent the message!"
+msgstr "Úspěšně poslal zprávu!"
+
+#: classes/Madhouse/Messenger/Controllers/Admin.php:789
+msgid "An error occured while performing the upgrade."
+msgstr "Došlo k chybě při provádění úkolu."
+
+#: classes/Madhouse/Messenger/Controllers/Admin.php:795
+msgid "Well done. Successfully updated messenger!"
+msgstr "Úspěšně aktualizováno nastavení!"
+
+#: classes/Madhouse/Messenger/Controllers/AdminAjax.php:34
+#: classes/Madhouse/Messenger/Controllers/Ajax.php:222
+msgid "No action defined"
+msgstr "Žádná akce jsou definovány"
+
+#: classes/Madhouse/Messenger/Controllers/AdminAjax.php:64
+msgid "Nothing to do, no threads in database."
+msgstr ""
+
+#: classes/Madhouse/Messenger/Controllers/Ajax.php:167
+#: classes/Madhouse/Messenger/Controllers/Web.php:46
+#: classes/Madhouse/Messenger/Controllers/WebNonSecure.php:708
+msgid "Please login to access to your messages"
+msgstr "Jsme úspěšně odeslán zprávu."
+
+#: classes/Madhouse/Messenger/Controllers/Ajax.php:217
+msgid "Something went wrong performing the task!"
+msgstr ""
+
+#: classes/Madhouse/Messenger/Controllers/Web.php:106
+#: classes/Madhouse/Messenger/Controllers/Web.php:500
+msgid "The requested label does not exist"
+msgstr ""
+
+#: classes/Madhouse/Messenger/Controllers/Web.php:202
+#, php-format
+msgid "Successfully moved thread to %s"
+msgstr ""
+
+#: classes/Madhouse/Messenger/Controllers/Web.php:209
+#, php-format
+msgid "Thread is already marked as %s"
+msgstr ""
+
+#: classes/Madhouse/Messenger/Controllers/Web.php:240
+#, php-format
+msgid "Successfully removed thread of '%s'"
+msgstr ""
+
+#: classes/Madhouse/Messenger/Controllers/Web.php:247
+#, php-format
+msgid "Thread is not marked as %s"
+msgstr ""
+
+#: classes/Madhouse/Messenger/Controllers/Web.php:301
+#, php-format
+msgid "Successfully blocked user %s"
+msgstr ""
+
+#: classes/Madhouse/Messenger/Controllers/Web.php:353
+#, php-format
+msgid "Successfully unblocked user %s"
+msgstr ""
+
+#: classes/Madhouse/Messenger/Controllers/Web.php:360
+msgid "This user is already unblocked"
+msgstr ""
+
+#: classes/Madhouse/Messenger/Controllers/Web.php:393
+msgid "Successfully mark a thread as unread"
+msgstr ""
+
+#: classes/Madhouse/Messenger/Controllers/Web.php:431
+msgid "Successfully mark all threads as read"
+msgstr ""
+
+#: classes/Madhouse/Messenger/Controllers/Web.php:464
+#: classes/Madhouse/Messenger/Controllers/Web.php:476
+#: classes/Madhouse/Messenger/Controllers/WebNonSecure.php:161
+#: classes/Madhouse/Messenger/Controllers/WebNonSecure.php:172
+#: classes/Madhouse/Messenger/Controllers/WebNonSecure.php:289
+#: classes/Madhouse/Messenger/Controllers/WebNonSecure.php:352
+#: classes/Madhouse/Messenger/Controllers/WebNonSecure.php:404
+#: classes/Madhouse/Messenger/Controllers/WebNonSecure.php:419
+#: classes/Madhouse/Messenger/Controllers/WebNonSecure.php:438
+#: classes/Madhouse/Messenger/Controllers/WebNonSecure.php:612
+#, fuzzy
+msgid "The requested message or conversation does not exist"
+msgstr "Požadovaná zpráva / konverzace neexistuje."
+
+#: classes/Madhouse/Messenger/Controllers/Web.php:488
+#: classes/Madhouse/Messenger/Controllers/WebNonSecure.php:750
+msgid "The requested status does not exist"
+msgstr ""
+
+#: classes/Madhouse/Messenger/Controllers/WebNonSecure.php:154
+msgid "You are registered. Please login to see the thread."
+msgstr ""
+
+#: classes/Madhouse/Messenger/Controllers/WebNonSecure.php:249
+#, php-format
+msgid "Talking with %s - %s"
+msgstr ""
+
+#: classes/Madhouse/Messenger/Controllers/WebNonSecure.php:251
+#, php-format
+msgid "Talking with %s"
+msgstr ""
+
+#: classes/Madhouse/Messenger/Controllers/WebNonSecure.php:309
+#: classes/Madhouse/Messenger/Controllers/WebNonSecure.php:370
+#: classes/Madhouse/Messenger/Controllers/WebNonSecure.php:622
+msgid "Sorry, you can't send a message to a disabled/deleted user"
+msgstr ""
+"Promiňte. Nelze odeslat zprávu na zdravotně postižené / odstraněného "
+"uživatele."
+
+#: classes/Madhouse/Messenger/Controllers/WebNonSecure.php:319
+#, fuzzy
+msgid "We've successfully updated the thread status"
+msgstr "Jsme úspěšně odeslán zprávu."
+
+#: classes/Madhouse/Messenger/Controllers/WebNonSecure.php:380
+#, fuzzy
+msgid "We've successfully updated the thread title"
+msgstr "Jsme úspěšně odeslán zprávu."
+
+#: classes/Madhouse/Messenger/Controllers/WebNonSecure.php:432
+msgid "You can not delete this message"
+msgstr ""
+
+#: classes/Madhouse/Messenger/Controllers/WebNonSecure.php:450
+#, fuzzy
+msgid "Message deleted"
+msgstr "Zpráva"
+
+#: classes/Madhouse/Messenger/Controllers/WebNonSecure.php:617
+msgid "Can't send an empty message"
+msgstr "Nelze poslat prázdnou zprávu."
+
+#: classes/Madhouse/Messenger/Controllers/WebNonSecure.php:627
+msgid "Sorry, you can't send a message to a disabled/deleted item"
+msgstr ""
+"Promiňte. Nelze odeslat zprávu na zdravotně postižené / odstraněného "
+"uživatele."
+
+#: classes/Madhouse/Messenger/Controllers/WebNonSecure.php:633
+msgid "This email is already registered. Please login to send a message."
+msgstr ""
+
+#: classes/Madhouse/Messenger/Controllers/WebNonSecure.php:638
+msgid "Sorry, you can't send a message to this user. He may have blocked you."
+msgstr ""
+
+#: classes/Madhouse/Messenger/Controllers/WebNonSecure.php:643
+msgid "Your name and/or email address do not seem valid."
+msgstr ""
+
+#: classes/Madhouse/Messenger/Controllers/WebNonSecure.php:654
+msgid ""
+"Failed to send the message. One of your files is too big or isn't an allowed "
+"extension."
+msgstr ""
+
+#: classes/Madhouse/Messenger/Controllers/WebNonSecure.php:672
+msgid "We've successfully sent your message"
+msgstr "Jsme úspěšně odeslán zprávu."
+
+#: classes/Madhouse/Messenger/Controllers/WebNonSecure.php:683
+msgid ""
+"Posted data exceeds the server limit. Probable cause: uploaded file is too "
+"large."
+msgstr ""
+
+#: classes/Madhouse/Messenger/Models/MessagesBase.php:106
+msgid "Saving the message has failed."
+msgstr "Uložení zprávy selhalo."
+
+#: classes/Madhouse/Messenger/Models/MessagesBase.php:126
+msgid "Adding the message to the requested thread has failed."
+msgstr "Přidání zprávy do požadované závitu selhal."
+
+#: classes/Madhouse/Messenger/Plugin.php:405
+#, php-format
+msgid ""
+"A new Madhouse Messenger version has been detected, head to the %s to "
+"complete the upgrade."
+msgstr ""
+
+#: classes/Madhouse/Messenger/Plugin.php:409
+msgid "upgrade page"
+msgstr ""
+
+#: classes/Madhouse/Messenger/Services/EmailService.php:114
+msgid "No related item"
+msgstr "Související položka"
+
+#: classes/Madhouse/Messenger/Services/EmailService.php:126
+#, fuzzy
+msgid "See thread"
+msgstr "viz vlákno"
+
+#: classes/Madhouse/Messenger/Services/MessengerService.php:459
+#, php-format
+msgid "Phone number: %s"
+msgstr ""
+
+#: classes/Madhouse/Messenger/Views/Message.php:42
+msgid ""
+"Sorry. This message has been blocked by an administrator (reason: spam)."
+msgstr "Promiňte. Tato zpráva byla zablokována správcem (důvod: spam)."
+
+#: classes/Madhouse/Messenger/Views/Message.php:45
+msgid "This message has been deleted."
+msgstr "Tato zpráva byla smazána."
+
+#: index.php:140
+msgid "Madhouse Messenger"
+msgstr "Madhouse Messenger"
+
+#: index.php:174
+msgid "Inbox"
+msgstr "Inbox"
+
+#: index.php:185 index.php:196
+msgid "Thread"
+msgstr "Zprávy z '% s' (Téma: #% d)"
+
+#: index.php:461 index.php:669 index.php:700 index.php:713
+#: views/admin/main.php:41 views/web/widget.php:19
+msgid "Messages"
+msgstr "Zprávy"
+
+#: index.php:468
+msgid "Unknown status"
+msgstr ""
+
+#: index.php:482
+#, php-format
+msgid "%d attachment"
+msgstr ""
+
+#: index.php:482
+#, php-format
+msgid "%d attachments"
+msgstr ""
+
+#: index.php:681 views/web/inbox.php:72
+msgid "Messenger"
+msgstr "Zpráva"
+
+#: index.php:682
+msgid "Dashboard"
+msgstr "Palubní deska"
+
+#: index.php:684 views/admin/listing.php:86
+msgid "Manage messages"
+msgstr "Správa zpráv"
+
+#: index.php:685
+msgid "Blocked users"
+msgstr ""
+
+#: index.php:687
+msgid "Labels"
+msgstr ""
+
+#: index.php:689
+msgid "Settings"
+msgstr "Nastavení"
+
+#: index.php:718
+msgid "Contact"
+msgstr "Kontakt"
+
+#: views/admin/blocked-users.php:14
+msgid "Manage blocked users"
+msgstr ""
+
+#: views/admin/blocked-users.php:21 views/admin/listing.php:131
+#: views/admin/settings.php:37 views/admin/settings.php:559
+#: views/web/thread.php:238
+msgid "Status"
+msgstr "Postavení"
+
+#: views/admin/blocked-users.php:22 views/admin/listing.php:115
+msgid "User"
+msgstr "Uživatel"
+
+#: views/admin/blocked-users.php:23 views/admin/blocked-users.php:37
+#: views/admin/message-single.php:3 views/admin/message-single.php:99
+msgid "Blocked"
+msgstr "Ucpaný"
+
+#: views/admin/blocked-users.php:24 views/admin/listing.php:136
+msgid "Date"
+msgstr "Datum"
+
+#: views/admin/blocked-users.php:45
+#, php-format
+msgid "Unblock %s for this user"
+msgstr ""
+
+#: views/admin/blocked-users.php:66
+msgid "No blocked users, yet."
+msgstr ""
+
+#: views/admin/contact.php:7
+msgid "Starting a conversation with"
+msgstr ""
+
+#: views/admin/contact.php:14
+msgid "Edit"
+msgstr ""
+
+#: views/admin/contact.php:19
+msgid "Public profile"
+msgstr ""
+
+#: views/admin/contact.php:27 views/admin/listing.php:134
+#: views/web/contact-form.php:74
+msgid "Message"
+msgstr "Zpráva"
+
+#: views/admin/contact.php:30 views/web/contact-form.php:81
+#: views/web/thread.php:89
+msgid "Write something..."
+msgstr "Napište něco ..."
+
+#: views/admin/contact.php:34 views/web/contact-form.php:107
+#: views/web/thread.php:117
+msgid "Send message"
+msgstr "Poslat zprávu"
+
+#: views/admin/events.php:14 views/admin/settings.php:17
+#: views/admin/settings.php:236
+msgid "Auto-messages"
+msgstr "Zprávy"
+
+#: views/admin/events.php:17
+msgid ""
+"Auto-messages are messages automatically send when you're doing actions on "
+"osclass. Ie: Change the satus of a conversation, mark as spam an item or "
+"delete an item."
+msgstr ""
+
+#: views/admin/events.php:42
+#, php-format
+msgid "Event: %s"
+msgstr ""
+
+#: views/admin/events.php:49
+#, php-format
+msgid "Excerpt in %s"
+msgstr ""
+
+#: views/admin/events.php:56
+msgid ""
+"Excerpt is displayed on inbox when this event is the last message received. "
+"If empty the text is displayed."
+msgstr ""
+
+#: views/admin/events.php:65 views/admin/status.php:103
+#, php-format
+msgid "Text in %s"
+msgstr ""
+
+#: views/admin/events.php:86 views/admin/status.php:123
+msgid "Save titles"
+msgstr ""
+
+#: views/admin/labels.php:14
+msgid "Create a label"
+msgstr ""
+
+#: views/admin/labels.php:17
+msgid ""
+"Labels are used by users to sort their conversations. As on gmail, you can "
+"create labels like 'favorits' for users. Therefore they will have the "
+"ability to add threads to this label and so organise their inbox."
+msgstr ""
+
+#: views/admin/labels.php:24
+msgid "Label title"
+msgstr ""
+
+#: views/admin/labels.php:36
+msgid "Add label"
+msgstr ""
+
+#: views/admin/labels.php:44
+msgid "Manage labels"
+msgstr ""
+
+#: views/admin/labels.php:67
+#, php-format
+msgid "Label: %s"
+msgstr ""
+
+#: views/admin/labels.php:69
+msgid "Remove this label"
+msgstr ""
+
+#: views/admin/labels.php:77
+#, php-format
+msgid "Label title in %s"
+msgstr ""
+
+#: views/admin/labels.php:96
+msgid "Update all labels"
+msgstr ""
+
+#: views/admin/labels.php:105
+msgid ""
+"Are you sure you want to delete this label for all users? This can't be "
+"undone."
+msgstr ""
+
+#: views/admin/labels.php:110 views/admin/status.php:137
+msgid "Cancel"
+msgstr ""
+
+#: views/admin/labels.php:113 views/admin/labels.php:130
+#: views/admin/settings.php:133 views/admin/status.php:140
+#: views/admin/status.php:157 views/web/inbox.php:195 views/web/thread.php:141
+#: views/web/thread.php:201
+msgid "Delete"
+msgstr "Vymazat"
+
+#: views/admin/listing.php:98 views/admin/message-single.php:23
+#: views/web/inbox.php:231
+msgid "Block"
+msgstr "Blok"
+
+#: views/admin/listing.php:99 views/admin/message-single.php:19
+#: views/web/inbox.php:237
+msgid "Unblock"
+msgstr "Odblokovat"
+
+#: views/admin/listing.php:102
+msgid "Apply"
+msgstr ""
+
+#: views/admin/listing.php:116
+msgid "Item ID"
+msgstr "Item ID"
+
+#: views/admin/listing.php:121
+msgid "Find"
+msgstr "Najít"
+
+#: views/admin/listing.php:133
+msgid "From / To"
+msgstr ""
+
+#: views/admin/listing.php:135
+msgid "Related item"
+msgstr "Související položka"
+
+#: views/admin/listing.php:145
+msgid "No messages, yet."
+msgstr "Žádné zprávy, ale přesto."
+
+#: views/admin/main.php:14
+msgid "Upgrade"
+msgstr ""
+
+#: views/admin/main.php:17
+msgid "Your messenger plugin needs to be upgraded."
+msgstr ""
+
+#: views/admin/main.php:19 views/admin/nav.php:13
+msgid "Upgrade now!"
+msgstr ""
+
+#: views/admin/main.php:33
+msgid "Thread and messages statistics"
+msgstr ""
+
+#: views/admin/main.php:34
+#, php-format
+msgid "in the last %s %s"
+msgstr ""
+
+#: views/admin/main.php:42
+#, fuzzy
+msgid "Threads"
+msgstr "Zprávy z '% s' (Téma: #% d)"
+
+#: views/admin/main.php:72 views/web/inbox.php:101
+msgid "Filters"
+msgstr ""
+
+#: views/admin/main.php:77
+msgid "Daily"
+msgstr "Denně"
+
+#: views/admin/main.php:80
+msgid "Weekly"
+msgstr "Týdenní"
+
+#: views/admin/main.php:83
+msgid "Monthly"
+msgstr "Měsíčně"
+
+#: views/admin/main.php:88
+msgid "Period"
+msgstr ""
+
+#: views/admin/main.php:94
+msgid "Filter"
+msgstr ""
+
+#: views/admin/main.php:103
+#, php-format
+msgid "Stats by %s"
+msgstr ""
+
+#: views/admin/main.php:110
+msgid "Today"
+msgstr ""
+
+#: views/admin/main.php:112
+#, fuzzy
+msgid "This week"
+msgstr "Tento týden (zatím)"
+
+#: views/admin/main.php:114
+#, fuzzy
+msgid "This month"
+msgstr "Minulý měsíc"
+
+#: views/admin/main.php:123 views/admin/main.php:154 views/admin/main.php:190
+msgid "threads"
+msgstr "závity"
+
+#: views/admin/main.php:131 views/admin/main.php:162 views/admin/main.php:198
+msgid "messages"
+msgstr "Zprávy"
+
+#: views/admin/main.php:141
+msgid "Yesterday"
+msgstr "Včera"
+
+#: views/admin/main.php:143
+msgid "Last week"
+msgstr "Minulý týden"
+
+#: views/admin/main.php:145
+msgid "Last month"
+msgstr "Minulý měsíc"
+
+#: views/admin/main.php:180
+msgid "All time"
+msgstr ""
+
+#: views/admin/main.php:183
+msgid "Since the beginning"
+msgstr "Od začátku"
+
+#: views/admin/main.php:208
+#, php-format
+msgid "Top users last %s %ss"
+msgstr ""
+
+#: views/admin/main.php:213
+msgid "Any user for this period"
+msgstr ""
+
+#: views/admin/main.php:233
+#, php-format
+msgid "Top listings last %s %ss"
+msgstr ""
+
+#: views/admin/main.php:238
+msgid "Any listing for this period"
+msgstr ""
+
+#: views/admin/message-single.php:3
+msgid "Active"
+msgstr "Aktivní"
+
+#: views/admin/message-single.php:8
+msgid "Show thread"
+msgstr "Show závit"
+
+#: views/admin/message-single.php:10
+msgid "Show messages of item"
+msgstr "Zobrazit zprávy z položky"
+
+#: views/admin/message-single.php:13
+msgid "Show more..."
+msgstr "Zobrazit více ..."
+
+#: views/admin/message-single.php:15
+msgid "Show messages of"
+msgstr "Zobrazit zprávy z"
+
+#: views/admin/message-single.php:33
+msgid "From: "
+msgstr ""
+
+#: views/admin/message-single.php:49
+msgid "To: "
+msgstr ""
+
+#: views/admin/message-single.php:70
+msgid "Auto-message"
+msgstr ""
+
+#: views/admin/message-single.php:77
+msgid "Message attachments: "
+msgstr ""
+
+#: views/admin/message-single.php:97
+msgid "Spam"
+msgstr ""
+
+#: views/admin/message-single.php:101
+msgid "Disabled"
+msgstr ""
+"Promiňte. Nelze odeslat zprávu na zdravotně postižené / odstraněného "
+"uživatele."
+
+#: views/admin/message-single.php:104
+msgid "Deleted"
+msgstr ""
+"Promiňte. Nelze odeslat zprávu na zdravotně postižené / odstraněného "
+"uživatele."
+
+#: views/admin/nav.php:25
+msgid "Documentation"
+msgstr ""
+
+#: views/admin/nav.php:32
+msgid "See more plugins by Madhouse"
+msgstr ""
+
+#: views/admin/settings.php:7 views/admin/settings.php:53
+msgid "Widget"
+msgstr ""
+
+#: views/admin/settings.php:12 views/admin/settings.php:69
+msgid "General"
+msgstr "Obecný"
+
+#: views/admin/settings.php:22 views/admin/settings.php:286
+msgid "Links"
+msgstr ""
+
+#: views/admin/settings.php:27
+msgid "Notifications & E-mails"
+msgstr "Oznámení a připomenutí (e-maily)"
+
+#: views/admin/settings.php:32 views/admin/settings.php:445
+msgid "Attachments"
+msgstr ""
+
+#: views/admin/settings.php:42 views/admin/settings.php:611
+msgid "User block"
+msgstr ""
+
+#: views/admin/settings.php:57
+msgid ""
+"Add this helper in the header to display a link to the inbox and the number "
+"of unread messages."
+msgstr ""
+
+#: views/admin/settings.php:75
+msgid "Only registered users can contact the publisher"
+msgstr ""
+
+#: views/admin/settings.php:77
+msgid "All users can contact the publisher"
+msgstr ""
+
+#: views/admin/settings.php:81
+#, php-format
+msgid ""
+"Messenger is always integrated with Osclass settings where it can. You can "
+"enable or disable the requirement for registered users on contact using the "
+"'Only allow registered users to contact publisher' option in %sOsclass item "
+"settings page%s."
+msgstr ""
+
+#: views/admin/settings.php:90
+msgid "Menu"
+msgstr ""
+
+#: views/admin/settings.php:96
+msgid "Display a link in 'user_menu'"
+msgstr "Zobrazení odkazu na \"user_menu\""
+
+#: views/admin/settings.php:99
+msgid "If checked, a link is added using 'user_menu' hook."
+msgstr "Je-li zaškrtnuto, je k dispozici odkaz přidat pomocí háku \"user_menu."
+
+#: views/admin/settings.php:106 views/web/contact-form.php:66
+#: views/web/thread.php:58
+msgid "Subject"
+msgstr ""
+
+#: views/admin/settings.php:112
+msgid "Enable on contact form"
+msgstr ""
+
+#: views/admin/settings.php:115
+msgid "Require the use of madhouse messenger contact form to display the input"
+msgstr ""
+
+#: views/admin/settings.php:123
+msgid "Edition on thread page"
+msgstr ""
+
+#: views/admin/settings.php:126
+msgid "Allow or not subject edition by users on thread."
+msgstr ""
+
+#: views/admin/settings.php:138
+msgid "Delete message for viewer and recipient"
+msgstr ""
+
+#: views/admin/settings.php:142
+msgid "Delete message only for viewer"
+msgstr ""
+
+#: views/admin/settings.php:145
+msgid ""
+"The first mode allow users to delete their message and they are deleted for "
+"the sender and the recipient."
+msgstr ""
+
+#: views/admin/settings.php:148
+msgid ""
+"The second mode allow users to delete all messages but they are only deleted "
+"for the viewer."
+msgstr ""
+
+#: views/admin/settings.php:155
+msgid "Permalinks"
+msgstr ""
+
+#: views/admin/settings.php:164
+msgid ""
+"The prefix is used to create URLs for the plugin. By default, the prefix is "
+"'messenger', therefore, the inbox URL will be 'http://yourwebsite.com/"
+"messenger/inbox'."
+msgstr ""
+
+#: views/admin/settings.php:169
+msgid "Moderator"
+msgstr "Moderátor"
+
+#: views/admin/settings.php:175
+#, php-format
+msgid "Current is '%s'"
+msgstr "Proud je '% s'"
+
+#: views/admin/settings.php:179
+msgid "(manage user)"
+msgstr "(Správa uživatelských)"
+
+#: views/admin/settings.php:191
+msgid ""
+"Select a user to be able to interact with your users from the users listing "
+"(action contact on a particular user)."
+msgstr ""
+
+#: views/admin/settings.php:196
+msgid "Contact form"
+msgstr ""
+
+#: views/admin/settings.php:201
+msgid "Enable message template "
+msgstr ""
+
+#: views/admin/settings.php:205
+msgid ""
+"This feature display the last message send by a user when he try to contact "
+"someone avoiding copy and past."
+msgstr ""
+
+#: views/admin/settings.php:210
+msgid "Thread action"
+msgstr ""
+
+#: views/admin/settings.php:215
+msgid "Enable 'mark as unread'"
+msgstr ""
+
+#: views/admin/settings.php:218
+msgid ""
+"Users are able to mark a conversation as unread when somebody send them a "
+"message."
+msgstr ""
+
+#: views/admin/settings.php:224
+msgid "Enable 'mark all as read'"
+msgstr ""
+
+#: views/admin/settings.php:227
+msgid "Users are able to mark a all conversation as read in one click."
+msgstr ""
+
+#: views/admin/settings.php:239
+msgid "On item delete"
+msgstr ""
+
+#: views/admin/settings.php:244
+msgid "Send an auto-message when deleting an item"
+msgstr ""
+
+#: views/admin/settings.php:248
+msgid ""
+"Users that contacted the deleted item will get a message to notify them that "
+"it's not available anymore."
+msgstr ""
+
+#: views/admin/settings.php:253
+msgid "On item spam"
+msgstr ""
+
+#: views/admin/settings.php:258
+msgid "Send an auto-message when the admin marks an item as spam"
+msgstr ""
+
+#: views/admin/settings.php:262
+msgid ""
+"Users that contacted an item marked as spam will get a message to notify "
+"them to be careful."
+msgstr ""
+
+#: views/admin/settings.php:266
+msgid "Customize auto-messages text"
+msgstr ""
+
+#: views/admin/settings.php:273
+#, php-format
+msgid "Do not send auto-messages to threads inactive for more than %s days"
+msgstr ""
+
+#: views/admin/settings.php:276
+msgid ""
+"This feature is useful not to notify users that contacted the item a very "
+"long time ago."
+msgstr ""
+
+#: views/admin/settings.php:277
+msgid "Inactive threads means: no recent messages for X days."
+msgstr ""
+
+#: views/admin/settings.php:278
+msgid "Leave empty to always send a message."
+msgstr ""
+
+#: views/admin/settings.php:293
+msgid "Enable autolinker"
+msgstr ""
+
+#: views/admin/settings.php:297
+msgid ""
+"Enable autolinker to replace links, emails, hashtag and @name in messages by "
+"clickable links."
+msgstr ""
+
+#: views/admin/settings.php:303
+msgid "Open links"
+msgstr ""
+
+#: views/admin/settings.php:308
+msgid "In a new window"
+msgstr ""
+
+#: views/admin/settings.php:312
+msgid "In the same window"
+msgstr ""
+
+#: views/admin/settings.php:318
+msgid "Prefix"
+msgstr ""
+
+#: views/admin/settings.php:323
+msgid "Hide"
+msgstr ""
+
+#: views/admin/settings.php:327
+msgid "Show"
+msgstr ""
+
+#: views/admin/settings.php:330
+msgid "Show or hide the http:// or https:// prefix"
+msgstr ""
+
+#: views/admin/settings.php:336
+msgid "Link Length"
+msgstr ""
+
+#: views/admin/settings.php:345
+msgid ""
+"Truncate links to a specific length. Leave empty if you doesn't want to "
+"truncate links in messages."
+msgstr ""
+
+#: views/admin/settings.php:353
+msgid "Notifications & Reminders (e-mails)"
+msgstr "Oznámení a připomenutí (e-maily)"
+
+#: views/admin/settings.php:361
+msgid "Enable e-mails"
+msgstr "Povolit e-mailů"
+
+#: views/admin/settings.php:368
+msgid "Notifications"
+msgstr "Oznámení"
+
+#: views/admin/settings.php:372
+#, php-format
+msgid ""
+"Don't send a notification if the user has more than %s unread message(s)"
+msgstr ""
+
+#: views/admin/settings.php:379
+#, php-format
+msgid ""
+"After that, send a reminder every %s new message(s). It will send a "
+"notification every N unread messages."
+msgstr ""
+
+#: views/admin/settings.php:389
+msgid "Always send a notification when a conversation is started. (New thread)"
+msgstr ""
+
+#: views/admin/settings.php:393 views/admin/upgrade.php:8
+msgid "Important!"
+msgstr ""
+
+#: views/admin/settings.php:393
+msgid ""
+"Note that unregistered users will always receive an email notification for "
+"all messages that they receive."
+msgstr ""
+
+#: views/admin/settings.php:399
+msgid "Daily reminders"
+msgstr "Povolit připomenutí"
+
+#: views/admin/settings.php:406
+msgid "Enable reminders"
+msgstr "Povolit připomenutí"
+
+#: views/admin/settings.php:414
+#, php-format
+msgid "Send a reminder every %s day(s) for %s day(s)"
+msgstr "Poslat připomínku každý %s novou %s zprávu"
+
+#: views/admin/settings.php:418
+msgid ""
+"It will send an e-mail every X days for Y days to users with unread messages."
+msgstr "To pošle e-mail (see% s) každých N nepřečtené zprávy."
+
+#: views/admin/settings.php:424
+msgid "Formatting options"
+msgstr ""
+
+#: views/admin/settings.php:431
+msgid "characters in e-mail excerpt."
+msgstr ""
+
+#: views/admin/settings.php:437
+msgid "Limit the e-mail excerpt to the first line."
+msgstr ""
+
+#: views/admin/settings.php:448
+msgid "Messenger allow your users to attach files to their messages."
+msgstr ""
+
+#: views/admin/settings.php:453
+msgid "Attachments are enabled!"
+msgstr ""
+
+#: views/admin/settings.php:455
+msgid "Attachments are disabled!"
+msgstr ""
+
+#: views/admin/settings.php:459
+#, php-format
+msgid ""
+"Messenger is always integrated with Osclass settings where it can. You can "
+"enable or disable attachment using the 'Allow attached files in contact "
+"publisher form' option in %sOsclass item settings page%s."
+msgstr ""
+
+#: views/admin/settings.php:466
+msgid "Security warnings!"
+msgstr ""
+
+#: views/admin/settings.php:466
+msgid ""
+"The 'fileinfo.so' PHP extension doesn't seem to be enabled. Ask your hosting "
+"provider to enable this extension and/or the 'passthru' function to increase "
+"security a step further."
+msgstr ""
+
+#: views/admin/settings.php:473
+msgid "Maximum size"
+msgstr ""
+
+#: views/admin/settings.php:482
+msgid "Max file size allowed in Kb."
+msgstr ""
+
+#: views/admin/settings.php:488
+msgid "Thumbnail size"
+msgstr ""
+
+#: views/admin/settings.php:497
+msgid ""
+"For images only. Size must be specified as '{width}x{height}', eg. '150x150'."
+msgstr ""
+
+#: views/admin/settings.php:503
+#, php-format
+msgid "Maximum number of %s attachment(s) per message."
+msgstr ""
+
+#: views/admin/settings.php:506
+msgid "Maximum number of files that can be attached to a single message."
+msgstr ""
+
+#: views/admin/settings.php:512
+msgid "Allowed file extensions"
+msgstr ""
+
+#: views/admin/settings.php:521
+msgid ""
+"Comma-separated list of file extensions that are allowed, for example: 'doc, "
+"txt, jpg, jpeg, png, zip'."
+msgstr ""
+
+#: views/admin/settings.php:531
+#, fuzzy
+msgid "Enable secure URL"
+msgstr "Povolit stav"
+
+#: views/admin/settings.php:535
+msgid ""
+"Enable this option to serve resources through a route, hiding actual path "
+"and name to files, making the upload system secured."
+msgstr ""
+
+#: views/admin/settings.php:541
+msgid ".htaccess"
+msgstr ""
+
+#: views/admin/settings.php:550
+msgid ""
+"The upload directory is protected by a .htaccess file, edit its content only "
+"if you know what you're doing."
+msgstr ""
+
+#: views/admin/settings.php:567
+msgid "Enable status"
+msgstr "Povolit stav"
+
+#: views/admin/settings.php:575
+msgid "Manage and customize thread status"
+msgstr ""
+
+#: views/admin/settings.php:581
+msgid "Default status"
+msgstr "Výchozí stav je"
+
+#: views/admin/settings.php:599
+msgid "Only item owner can modify the status of a thread"
+msgstr "Pouze vlastník položka může změnit status závitu"
+
+#: views/admin/settings.php:601
+msgid "If this option is not checked anyone can modify it."
+msgstr "Není-li tato volba není zaškrtnuta kdokoli jej upravit."
+
+#: views/admin/settings.php:619
+msgid "Allow users to block somebody"
+msgstr ""
+
+#: views/admin/settings.php:622
+msgid "Users can't send messages to users who blocked him."
+msgstr ""
+
+#: views/admin/settings.php:633
+msgid "Notify admin when somebody is blocked"
+msgstr ""
+
+#: views/admin/settings.php:636
+msgid "Send an email to admin when somebody is blocked to manage him."
+msgstr ""
+
+#: views/admin/settings.php:643
+msgid "Save changes"
+msgstr "Uložit změny"
+
+#: views/admin/status.php:13
+msgid "Create a status"
+msgstr ""
+
+#: views/admin/status.php:16
+msgid ""
+"Status can be used by users to mark a conversation. It is displayed for "
+"everybody in the thread. It help users to organize their threads."
+msgstr ""
+
+#: views/admin/status.php:23
+msgid "Title"
+msgstr ""
+
+#: views/admin/status.php:36
+msgid "Description"
+msgstr ""
+
+#: views/admin/status.php:48
+msgid "Add status"
+msgstr ""
+
+#: views/admin/status.php:56
+msgid "Manage status"
+msgstr ""
+
+#: views/admin/status.php:80
+#, php-format
+msgid "Status: %s"
+msgstr ""
+
+#: views/admin/status.php:82
+msgid "Remove this status"
+msgstr ""
+
+#: views/admin/status.php:90
+#, php-format
+msgid "Title in %s"
+msgstr ""
+
+#: views/admin/status.php:132
+msgid "Are you sure you want to delete this status? This can't be undone."
+msgstr ""
+
+#: views/admin/upgrade.php:10
+msgid ""
+"Please wait, depending on the size of your database, it may take a few "
+"minutes to update your messenger installation to the latest version."
+msgstr ""
+
+#: views/admin/upgrade.php:24
+msgid "Nothing to update, everything's good."
+msgstr ""
+
+#: views/admin/upgrade.php:30 views/web/thread.php:62
+msgid "Update"
+msgstr ""
+
+#: views/admin/upgrade.php:36
+msgid "Progress"
+msgstr ""
+
+#: views/admin/upgrade.php:56
+msgid "thread(s) were successfully updated."
+msgstr ""
+
+#: views/admin/upgrade.php:57
+msgid "Total time:"
+msgstr ""
+
+#: views/admin/upgrade.php:61
+msgid "Back to Messenger dashboard"
+msgstr ""
+
+#: views/admin/upgrade.php:66
+msgid "An error occured, please try again or contact us on the market."
+msgstr ""
+
+#: views/web/contact-form.php:43
+#, php-format
+msgid "You have already contacted %s for this listing: %ssee thread%s"
+msgstr ""
+
+#: views/web/contact-form.php:50
+msgid "Your name"
+msgstr ""
+
+#: views/web/contact-form.php:57
+msgid "Your email"
+msgstr ""
+
+#: views/web/contact-form.php:80
+#, fuzzy
+msgid "Please write something"
+msgstr "Napište něco ..."
+
+#: views/web/contact-form.php:87
+msgid "Attachment"
+msgstr ""
+
+#: views/web/inbox.php:85
+msgid "Unread"
+msgstr "Nepřečtený"
+
+#: views/web/inbox.php:90
+msgid "Mark all as read"
+msgstr ""
+
+#: views/web/inbox.php:107
+#, php-format
+msgid "Listing: %s"
+msgstr ""
+
+#: views/web/inbox.php:154 views/web/thread.php:244
+#, fuzzy
+msgid "Deleted listing"
+msgstr ""
+"Promiňte. Nelze odeslat zprávu na zdravotně postižené / odstraněného "
+"uživatele."
+
+#: views/web/inbox.php:156 views/web/thread.php:246
+msgid "Expired listing"
+msgstr ""
+
+#: views/web/inbox.php:158 views/web/thread.php:248
+msgid "Spam or blocked listing"
+msgstr ""
+
+#: views/web/inbox.php:160 views/web/thread.php:250
+msgid "Deactivated listing"
+msgstr ""
+
+#: views/web/inbox.php:168 views/web/thread.php:267
+#, fuzzy
+msgid "No item linked to this thread"
+msgstr "Žádná položka souvisí do tohoto tématu."
+
+#: views/web/inbox.php:176
+msgid "Archive"
+msgstr ""
+
+#: views/web/inbox.php:182
+msgid "Move to inbox"
+msgstr ""
+
+#: views/web/inbox.php:189
+msgid "Restore"
+msgstr ""
+
+#: views/web/inbox.php:204
+msgid "Mark as"
+msgstr ""
+
+#: views/web/inbox.php:210
+msgid "Unmark as"
+msgstr ""
+
+#: views/web/inbox.php:223
+msgid "Mark as unread"
+msgstr ""
+
+#: views/web/inbox.php:256
+msgid "on"
+msgstr "na"
+
+#: views/web/inbox.php:264
+#, php-format
+msgid "No message unread for listing '%s' in %s, yet."
+msgstr ""
+
+#: views/web/inbox.php:266
+#, fuzzy, php-format
+msgid "No message unread in %s, yet."
+msgstr "Žádné zprávy, ale přesto."
+
+#: views/web/inbox.php:270
+#, fuzzy, php-format
+msgid "No message for listing '%s' in %s, yet."
+msgstr "Žádné zprávy, ale přesto."
+
+#: views/web/inbox.php:272
+#, fuzzy, php-format
+msgid "No message in %s, yet."
+msgstr "Žádné zprávy, ale přesto."
+
+#: views/web/thread.php:42 views/web/thread.php:309
+msgid "Talking with"
+msgstr ""
+
+#: views/web/thread.php:75
+#, php-format
+msgid "You blocked the user %s. He/She can't send you messages."
+msgstr ""
+
+#: views/web/thread.php:101
+msgid "Remove"
+msgstr ""
+
+#: views/web/thread.php:112
+msgid "Add attachment"
+msgstr ""
+
+#: views/web/thread.php:126
+#, fuzzy
+msgid "Change status to"
+msgstr "změnit na"
+
+#: views/web/thread.php:140
+msgid "Read"
+msgstr ""
+
+#: views/web/thread.php:208
+msgid "Read "
+msgstr "číst "
+
+#: views/web/thread.php:222
+#, fuzzy
+msgid "Loading previous messages"
+msgstr "Ukázat předchozí zprávy"
+
+#: views/web/thread.php:227
+#, fuzzy
+msgid "No more message to load"
+msgstr "Žádné zprávy, ale přesto."
+
+#: views/web/thread.php:286
+msgid "Block user"
+msgstr ""
+
+#: views/web/thread.php:292
+msgid "Unblock user"
+msgstr ""
+
+#: views/web/thread.php:300
+msgid "Edit subject"
+msgstr ""
+
+#: views/web/thread.php:329
+msgid "All attachments"
+msgstr ""
+
+#~ msgid "Send an e-mail everytime a user receive a message"
+#~ msgstr "Pošlete nám e-mail vždy, uživatel obdrží zprávu"
+
+#~ msgid "Stop if the user has more than %s unread message(s)"
+#~ msgstr "Přestaňte, když uživatel má více než% s nepřečtenou zprávu (y)"
+
+#~ msgid "After that, send a summary every %s new message(s)"
+#~ msgstr "Poslat připomínku každý% s novou zprávu (y)"
+
+#~ msgid "It will send an e-mail every N unread messages."
+#~ msgstr "To pošle e-mail (see% s) každých N nepřečtené zprávy."
+
+#, fuzzy
+#~ msgid "separator"
+#~ msgstr "Moderátor"
+
+#, fuzzy
+#~ msgid "Already contacted: "
+#~ msgstr "Již kontaktoval:"
+
+#~ msgid "see thread"
+#~ msgstr "viz vlákno"
+
+#~ msgid "Today (so far)"
+#~ msgstr "V současné době (zatím)"
+
+#~ msgid "This month (so far)"
+#~ msgstr "Tento měsíc (zatím)"
+
+#~ msgid "Global"
+#~ msgstr "Globální"
+
+#~ msgid "A deleted/disabled ad"
+#~ msgstr "Vypouští / vypnuto ad"
+
+#~ msgid "A blocked/spam ad"
+#~ msgstr "Blokován / spam ad"
+
+#~ msgid "No pictures for this ad!"
+#~ msgstr "Žádné fotografie k této reklamy!"
+
+#~ msgid "The requested status does not exists"
+#~ msgstr "Požadovaný stav neexistuje."
+
+#~ msgid "The requested label does not exists"
+#~ msgstr "Požadovaná uživatel neexistuje."
+
+#~ msgid "Send"
+#~ msgstr "Odeslat"
+
+#~ msgid "Status of this thread:"
+#~ msgstr "Stav tomto tématu:"
+
+#~ msgid "Inquiry about"
+#~ msgstr "Dotaz"
+
+#~ msgid "(your ad)"
+#~ msgstr "(Reklama)"
+
+#~ msgid "Sorry. Can't send the message about a disabled/spam item."
+#~ msgstr "Promiňte. Nelze odeslat zprávu o položku zakázány / spamu."
+
+#~ msgid "Successfully updated settings!"
+#~ msgstr "Úspěšně aktualizováno nastavení!"
+
+#~ msgid "Error while updating settings!"
+#~ msgstr "Chyba při aktualizaci nastavení!"
+
+#~ msgid "To"
+#~ msgstr "Na"
+
+#~ msgid "Recipients"
+#~ msgstr "Příjemci"
+
+#~ msgid "All"
+#~ msgstr "Vše"
+
+#~ msgid "Invalid endpoint '%s', must one of '%s'"
+#~ msgstr "Neplatný koncový bod \"% s\", musí být jeden z \"% s\""
+
+#~ msgid "Status of this thread has changed to %s."
+#~ msgstr "Stav tohoto vlákna změnil na% s."
+
+#~ msgid ""
+#~ "%s authorized the members of this thread to see his contacts details :\n"
+#~ "- Phone : %s\n"
+#~ "\n"
+#~ "Once you've send your contact informations, the recipient(s) can also see "
+#~ "those on your public profile."
+#~ msgstr ""
+#~ "% S oprávněn členy tohoto vlákna vidět jeho kontakty údaje:\n"
+#~ "- Telefon:% s\n"
+#~ "\n"
+#~ "Poté, co jste poslat své kontaktní informace, příjemce (ů), můžete také "
+#~ "vidět ty, které ve vašem veřejném profilu."
+
+#~ msgid "Waiting"
+#~ msgstr "Čekání"
+
+#~ msgid "Processing"
+#~ msgstr "Zpracování"
+
+#~ msgid "Appoint. scheduled"
+#~ msgstr "Jmenovat. naplánovaný"
+
+#~ msgid "Accepted"
+#~ msgstr "Přijato"
+
+#~ msgid "Not interested"
+#~ msgstr "Nemám zájem"
+
+#~ msgid "Can't contact an unknown item."
+#~ msgstr "Nelze kontaktovat neznámý předmět."
+
+#~ msgid "Author"
+#~ msgstr "Autor"
+
+#~ msgid "disabled/deleted item"
+#~ msgstr "Bezbariérový / vypouští položka"
+
+#~ msgid "Statistics"
+#~ msgstr "Statistika"
+
+#~ msgid "Select a new one: "
+#~ msgstr "Vyberte nové:"
+
+#~ msgid "Stop if user has been connected in the last %s minutes"
+#~ msgstr "Přestaňte, když je uživatel připojen v posledních% s minut"
+
+#~ msgid "Reminders"
+#~ msgstr "Upomínky"
+
+#~ msgid "Send a reminder after %s days of inactivity"
+#~ msgstr "Pošlete připomenutí po% s dnech nečinnosti"
+
+#~ msgid "No linked item"
+#~ msgstr "No souvisí položka"

@@ -1,0 +1,543 @@
+@media screen and (min-width: 971px) {
+  .user_account .ad_list table td.photo {width:17.6%;}
+}
+
+@media screen and (max-width: 970px) {
+  #pub_full {display:none;}
+  .user_account .modify_profile form label {width:100%;margin:0;padding:5px 0 1px 0;}
+  .user_account .modify_profile form input, .user_account .modify_profile form div.selector {width:100%;clear:both;margin:0;}
+  .user_account .tabberlive {width:100%;}
+  .user_account .modify_profile .update {width:100%;}
+  .user_account .modify_profile form .one-lang textarea {width:100%;}
+
+  .add_item .change_mobile {margin-left:0;}
+  #home-title {display:none;}
+  .home #sidebar #ad-title {margin-top:0;}
+  .links-wrap {float:left;width:100%;clear:both;}
+  .ad_list table td.text p.desc {height:auto;max-height:32px;line-height:16px;}
+  .ad_list table td.text h3 a {height:auto;max-height:36px;overflow:hidden;}
+  .ad_list table td .fa-folder, .ad_list table td .fa-folder-open {margin-top:3px;}
+  #search-list {margin-bottom:3px;height:20px;}
+  .item #sidebar .summary .left {margin-top:0;float:left;clear:both;width:100%;margin-bottom:0px;line-height:inherit;}
+  .item #sidebar .summary .right {margin-top:0px;float:left;clear:both;width:100%;line-height:inherit;}
+  .item #sidebar .summary .left .fa {margin-top:-1px;}
+  .item #sidebar .summary .swap {float:left;width:100%;clear:both;height:0;border-bottom:1px dotted #ddd;margin: 7px 0 10px 0;}
+  .item #sidebar .summary .del-special {display:none;}
+  .item #sidebar .summary h3 .fa {font-size:28px;}
+  #send_friend .left {display:none;}
+  #send_friend .right {float:left;width:100%;clear:both;margin:3px 0;text-align:left;}
+  .user_forms form .checkbox {padding-left:0;margin-top:-10px;}
+  .user_forms form .more-login {margin-left:0;}
+  .user_forms .right .text, #s_friend .text {line-height:16px;}
+  .dash-item .views {display:none;}
+  .add_item #uniform-undefined {margin-left:0;}
+  .add_item .box .price-warn {clear:both;margin:7px 0 0 0;width:100%;}
+  .add_item .box.price {padding:8px 5px;}
+  .add_item .price .selector {clear:none;}
+  .add_item #right-block label {float:left;width:100%;margin:0;padding:0 0 1px 0;}
+  .add_item #right-block input, .add_item #right-block .selector {float:left;width:100%;margin:0;}
+  .add_item div#showEmail {margin-left:0;}
+  .add_item #right-block label#showEmailLabel {width:85%;}
+  #piracy {display:none;}
+}
+
+@media screen and (min-width: 481px) and (max-width: 970px) {
+
+  #header .head-links {clear:none;float:right;width:auto;margin: 6px 10px 0 0;}
+  .loc-select {float:right;clear:none;width:auto;}
+
+  /*USER ACCOUNT*/
+  .user_account {padding: 0;width: 100%;}
+  .user_account #sidebar {width:30%;padding:0;overflow-x:hidden;margin-bottom:15px;border:0;float:left;}
+  .user_account #sidebar li {color:#fff}
+  .user_account .user_menu {float:left;clear:both;width:100%}
+  .user_account .user_menu li a {color:#fff;text-decoration:none;}
+  .user_account .user_menu li a:hover {text-decoration:none}
+  .user_account h2 {font-size:13px;}
+  .user_account #main {width:68%;padding:0;float:right;margin-top: 10px;}
+  .userItem .hed {font-weight:bold;border-bottom: 1px dotted #ddd;margin-bottom: 5px;padding-bottom: 2px;}
+  .userItem .hed a {font-weight:normal;}
+  .userItem #alert_list {width:100%;float:left;clear:both;font-weight:normal}
+  .user_account div.selector span {width:100%;padding:0;margin:0}
+  .user_account div.selector {width:70%;padding:0 1%;margin:0}
+  .user_account #uniform-undefined {margin: 0;width: 100%;clear: both;float: left;text-align:center}
+  .user_account .modify_profile form button {display:none}
+  .user_account fieldset {min-width:0;float:left;width:100%}
+
+  /*CONTACT*/
+  .user_forms {margin-bottom:10px;}
+  .user_forms form .checkbox {width:100%;text-align:left}
+  .user_forms form .checkbox input {float:left;margin:0;margin-right:4px;clear:both}
+  .user_forms form .checkbox label {float:left;margin:0;clear:none;width:80%;margin-top:8px;}
+  .user_forms form .checkbox .log-lab {float:left;margin:0;margin-top:8px;}
+  .user_forms .inner {width:58%;margin:0;padding:2%;margin-bottom:15px}
+  .user_forms h1 {font-size:14px;padding:5px 0 0 0;font-weight:bold;margin-bottom:5px}
+  .user_forms form label {margin:0;margin-top:10px;padding:0;width:100%;float:left;clear:both;font-size:12px;text-align:left}
+  .user_forms form input, .user_forms form textarea, .user_forms form .selector {width:100%;margin:0;padding:5px;float:left;clear:both;}
+  .user_forms form .selector {padding:0 1%;}
+  .user_forms form .selector span {width:92%;}
+  .user_forms #uniform-undefined {float:left;clear:both;width:100%;margin:0;margin-top:10px;padding:3px 0;text-align:center;}
+  .user_forms .right, #s_friend {float:right;width:40%;padding:10px;margin:0;margin-bottom:10px;font-size:12px;height:auto}
+  .user_forms .right h2,#s_friend h2 {font-size:14px;font-weight:bold;color:#333}
+  .user_forms .right h3, #s_friend h3 {font-size:13px;}
+  .user_forms .right .list-icon, #s_friend .icon {margin:0;margin-top:5px;margin-right:5px;float:left;clear:both}
+  .user_forms .right .text, #s_friend .text {padding:0;width:100%;float:left;margin-top:3px}
+  .user_forms .right .delim, #s_friend .delim {margin:10px 0;}
+  .user_forms form {float:left;clear:both;margin:0;padding:0;width:100%}
+  .user_account h1 {font-size:14px;margin:0}
+  .user_account h1 strong {padding-bottom:3px;font-weight:bold;border:none}
+  #register .delim {margin-top:10px;}
+
+  /*PAGE*/
+  .page {margin:2% 0%;padding:0;width:100%}
+  .page h1 {font-size:15px;font-weight:bold;margin:0;margin-bottom:5px;}
+  .page h2 {font-size:14px;font-weight:bold;margin:0;margin-bottom:5px;}
+  .page h3 {font-size:13px;font-weight:bold;margin:0;margin-bottom:5px;}
+
+  /*SEARCH*/
+  #regular-header, #premium-header {width:100%;padding:0;margin:10px 0;margin-top:0px;min-width:0}
+  .empty {width:100%;padding:2%;margin:10px 0;}
+  .list #sidebar {width:27%;}
+  .paginate {margin-top:10px;margin-bottom:15px;float:left;clear:both;padding:0}
+  .list #main {width:71%}
+  .ad_list {width:100%}
+  .ad_list #list_head {padding:0 1%;}
+  .ad_list #list_head .see_by {float:left;clear:both;margin-top:4px}
+  .ad_list #list_head h1 {width:auto;font-size:13px;margin-top:6px}
+  #list_head .wrap {float:right;}
+  .ad_list table td.photo img {width:100%;height:auto;}
+  .ad_list table td.photo {width:30%;}
+  #search-list .price, #search-list .date, #search-list .cat, #search-list .other  {font-size:12px;float:left;padding:2px 0px;width:auto;margin:0;margin-right:5px;margin-bottom:3px}
+  #search-list .price, #search-list .cat {padding:2px 4px;}
+  .ad_list table td.text h3 {width:100%;font-size:12px;margin:3px 0;}
+  .ad_list table td.text {width:70%}
+  .ad_list table td.text p {width:100%}
+  .ad_list table td {padding:2% 1%}
+  #search-alert {width:100%;padding:10px 3%;}
+  #search-alert h4, #list-search .text {padding:0;margin:0;font-size:13px;width:90%;text-align:left}
+  #search-alert .sub-icon, #list-search .search-icon {margin:0;margin-top:1px;margin-right:3px;}
+  #search-alert fieldset, #search-alert form {width:100%;padding:5px 0;}
+  #list-search {width:100%;margin:0;margin-bottom:10px;padding:10px 7px;}
+  #alert_email, #list-search .search-input #query, #list-search .search-input #sCity {width:100%;padding:5px 5%;margin:0;margin-bottom:5px;}
+  .search-input #query {margin-bottom:3px;padding:5px 1%}
+  #search-alert #uniform-undefined {width:100%;}
+  #list-search .search-input span {width: 100%;padding-left:0;padding-right:0;margin: 0;}
+  #list-search .search-input .selector span {width: 100%;padding:0 6px;margin: 0;}
+  #list-search .search-input div.selector {width: 100%;margin: 3px 0;padding: 0 1%;}
+  #withPicture {clear:both;float:left;height: 20px;margin-right: 5px;}
+  #withPictureLabel {float: left; margin-top: 3px; margin-left: 0; width: 83%; padding-left: 0;}
+  #list-search #uniform-undefined, #contact-wrap #contact fieldset .button {width:100%;margin-top:10px;}
+  #list-search .search-input fieldset {width:100%; min-width:0}
+  #radius_size {width:40%;margin:3px;}
+  #list-search .search-input #priceMin, #list-search .search-input #priceMax {width:40%;padding:0 5%}
+  #list-search .search-input #sCity {margin:3px 0}
+  #list-search .price-del {margin-left: 1%;margin-right: 1%;}
+  #search-gallery .box {width: 23%;}
+  #search-gallery .price {font-size:12px;margin-top:-20px;height:20px;overflow:hidden;}
+  #search-gallery {float:left;margin:0 -1%}
+  #search-gallery h3, #latest-home h3 a {font-size:12px;}
+  #search-gallery h3 a, #latest-home h3 a {display: block;float: left;height: 28px;line-height:14px;overflow: hidden;width:100%}
+
+  /*MAIN*/
+  #login_open {display:none}
+  #login_open480 {display:block}
+  #header #logo {display:none}
+  #header #logo-480 {display:block;max-width:342px;width:60%}
+  #header #logo-480 img {width:100%;height:auto;max-width:340px;}
+  #pub_970 {display:block;max-width:240px;width:38%;margin-top:6px}
+  #pub_full {display:none}
+  .flashmessage, .flashmessage {margin:0;top:0;margin-bottom:15px;width:100%}
+  .form_publish {clear:none;margin-top:0;}
+  .form_publish .publish_button a {max-width:240px;width:100%;padding:11px 2%;font-size:13px;margin:0}
+  #header #user_menu ul {float:left;margin-top: 13px;margin-right: 10px;}
+  #header {height:auto;}
+  #header #user_menu {width:100%}
+  #search-bar {margin-bottom:10px;}
+  #search-bar .but {font-size: 12px;padding-left: 14px;padding-right: 8px;}
+  #search-bar .home-but {font-size: 12px;}
+  div.breadcrumb {padding-left:0%}
+  #footer {float: left;width: 100%;padding:5px 3px;}
+  #footer .inner {padding:0}
+  ul.breadcrumb li {padding:0;padding-right:4px;}
+  body {padding:1%}
+  .home #main .see_more_link {padding-right:1%}
+  #home-ad {width:100%;height:auto;}
+  .home #sidebar #ad-title {font-weight: bold;border-bottom: 1px solid #444;margin-bottom: 5px;font-size:13px;font-weight:bold;padding-bottom:2px;text-align: left;}
+  #latest-home {float:left;margin:0 -1%;width:102%}
+  #latest-home h3, #latest-home h3 a {font-size:12px;height:28px;overflow:hidden;}
+  #latest-home h3 a {display: block;float: left;height: 32px;overflow: hidden;width:100%}
+  #latest-home .price {font-size:12px;margin-top:-20px;height:20px;overflow:hidden;}
+  #latest-header {width:98%;margin:10px 1%;margin-top:25px}
+  #home-search {width:40%;margin:0;padding:6px 8px;height:190px;}
+  #home-search .search-icon {margin-left:0;margin-right:0;margin-top:4px;}
+  #home-search .text {width:100%;margin-top:3px;text-align:left;}
+  #home-search .search-input #query {margin-bottom:3px;width:100%;padding:1px 6px;height:28px;}
+  #home-search .search-input div.selector {width:100%;float:left;clear:both;margin:0;padding: 1px 6px;margin:3px 0;height:28px;}
+  #home-search .search-input span {width:100%;padding-left:0px;padding-right:0px;margin:0}
+  #home-search .search-input #sCategory, #home-search .search-input #sRegion {margin-right:0;width:100%}
+  #home-search .search-input fieldset {padding:0;padding-top:10px;width:100%;min-width:0}
+  #home-search #uniform-undefined {width:100%;min-width:0}
+  #search-example {float:left;padding:5px 0}
+  #carousel {display:none}
+  .home #main #alert-info {width:56%;float:right;display:block;margin:0;padding:6px 8px;height:190px;}
+  #alert-info .title {font-size:13px;margin:3px 0 8px 0;}
+  #alert-info .text {font-size:12px;margin-bottom:16px;}
+  #alert-info .link {font-size:13px;text-decoration:underline;margin-top:20px;}
+  #home-ad-google {display:none}
+  .social-bookmarks {float:left;height:32px;overflow:hidden;margin-bottom:5px}
+  #search-bar .topnav .but .subnav {display:none;width:0px;height:0px;max-width:1px;max-height:1px;visibility:hidden}
+ 
+  /*ITEM*/
+  .item #sidebar .summary .text {font-size:12px;}
+  .item #main .del {margin-top:-10px;margin-bottom:0}
+  .item #sidebar #ad-title {display:none}
+  .item #sidebar .summary #contact_button, .item #sidebar .summary #uniform-undefined {margin:1%;padding: 2%;width: 48%;text-align:center}
+  .item #sidebar .summary .reg-ico, .item #sidebar .summary .loc-ico, .item #sidebar .summary .name-ico {margin-top:1px;}
+  .item #sidebar .summary .ref {display:none}
+  .item #sidebar .summary h3 {font-size:13px;width:85%;padding-bottom: 0px;padding-top: 2px;}
+  .item #sidebar .summary {margin:10px 0;width:100%;padding:2% 3%;}
+  .item #sidebar {width:33%;}
+  .item #comments form #uniform-undefined {float: right;clear: both;width: 70%;text-align: center;margin:0;padding-left:0;padding-right:0;margin-top:8px}
+  .item #comments fieldset {width: 100%;min-width: 0;}
+  .item #comments form input, .item #comments form textarea {width: 70%;padding: 5px;min-width:0}
+  .item #comments form label {margin:0;width: 30%;}
+  .item #comments form {width:100%;padding:8px}
+  .item #main {width:65%;}
+  .item #main .item_location .left {width:17%;padding:5px 1%;margin-bottom:6px;}
+  .item #main .item_location .right {width:33%;padding:5px 1%;margin-bottom:6px;overflow:hidden;text-overflow:ellipsis;white-space:nowrap}
+  .item #main .item_location {width:100%;padding-top: 6px;padding-bottom: 0px;padding-top: 10px;padding-bottom: 4px;}
+  .item #main h2 {width:90%}
+  #total-main {padding:2% 1%;}
+  #item_head {font-size:16px;}
+  #item_head .inner, .item .dates {padding: 5px 1%;width:100%;}
+  #item_head .inner h1 {width:100%}
+  .item #main .item_id, .item #main .view, .item #main .cat, .item #main .price {float:left;padding:2%;margin:0;margin-right:1%;font-size:13px;margin-bottom: 3px;}
+  #contact-wrap {margin:5% 30%;top:0;left:0;width:40%;padding:2%;height:auto;-webkit-border-radius: 4px;-moz-border-radius: 4px;border-radius: 4px;}
+  #contact-wrap #contact {width:100%;padding:3%;margin:0;-webkit-border-radius: 4px;-moz-border-radius: 4px;border-radius: 4px;border:1px solid #333}
+  #contact-wrap #contact h2 {margin:5px 0;font-size:14px}
+  #contact-wrap #contact p {padding:0}
+  #contact-wrap #contact fieldset label {width:100%;float:left;clear:both;margin-top:5px;}
+  #contact-wrap #contact fieldset input,#contact-wrap #contact fieldset textarea {width:100%;padding:1%;margin:0;float:left;clear:both}
+  #contact-wrap #contact fieldset textarea{ height:60px;}
+}
+
+@media screen and (min-width: 481px) and (max-width: 690px) {
+  #header #logo-480 {margin-top:4px;}
+  .item #sidebar .summary #contact_button, .item #sidebar .summary #uniform-undefined {margin:0;margin-bottom:5px;padding: 2%;width: 100%;text-align:center;clear:both}
+  .item #sidebar .summary .right {width:100%;clear:both;}
+  #loc-list {width:80%;margin-left:10%;margin-right:10%}
+  #related_ads .box {width:98%;}
+  .item .img-gal #photos a#img-link {width:48%;}
+  #search-gallery .box {width: 48%;}
+  .loc-select {margin-top:7px;}
+  #header .head-links {margin-top:9px;}
+  .user_account div.selector select {width:100%;padding:5px 1%}
+  .user_account .modify_profile form input, .user_account .modify_profile form textarea, .user_account .modify_profile form div.selector {width:100%;}
+  #header .head-links {float:right;width:auto;}
+  .ad_list table td.text h3 a {line-height:15px;max-height:30px;}
+  .ad_list table td.text p.desc {line-height:14px;max-height:28px;}
+  .add_item #uniform-undefined {width:60%;text-align:center;margin-top:0;}
+  #photos .qq-upload-list li {width:100%;margin:0 1% 10px 1%;width:48%;}
+}
+
+@media screen and (min-width: 691px) and (max-width: 970px) {
+  .user_account #b-right {width:43%;}
+  .user_account #b-left {width:55%;}
+  .user_forms form#contact #uniform-undefined {width:auto;}
+
+  #loc-list {width:60%;margin-left:20%;margin-right:20%}
+  #item_head .inner {width:65%;}
+  .item .img-gal #photos a#img-link {width:31.3%;}
+  #latest-home .box {width:31.3%;}
+  #search-gallery .box {width: 31.3%;}
+  .user_account .ad_list table td.photo {width:18%;}
+  .user_account .modify_profile .row.butts {padding:3px 0;}
+  .user_account .modify_profile .row.butts #uniform-undefined {width:auto;}
+  .dash-item .date {width:14%;}
+  .dash-item .price {width:23%;}
+  .user_account #change-email #uniform-undefined, .user_account #change-pass #uniform-undefined, .user_account #change-username #uniform-undefined {margin-left:25%;}
+  .user_account p .help-box {margin-left:25%;}
+  .add_item .row.cat-select label {width:30%;margin-right:0;}
+  .add_item .row.cat-select div.selector {width:70%;}
+  #photos .qq-upload-list li {width:23%;margin:0 1% 10px 1%;}
+}
+
+@media screen and (max-width: 690px) {
+  .user_account #delete_account {width:100%;text-align:center;clear:both;float:left;}
+  .user_account .modify_profile .row.butts {padding:3px 0;}
+  .user_account #b-right, .user_account #b-left {width:100%;margin:0 0 15px 0;}
+
+  .meta > label {width:100%;margin:5px 0 1px 0;}
+  .meta input, .meta .selector {width:100%;margin:0;}
+  .add_item .row.cat-select label {width:100%;margin:3px 0 1px 0;}
+  .add_item .row.cat-select div.selector {width:100%;clear:both;margin-bottom:2px;}
+
+  .paginate a, .paginate span {padding: 0 9px; line-height: 24px;}
+  element.style { } .paginate .list-last { border: 0; } .paginate .searchPaginationNext, .paginate .searchPaginationLast, .paginate .searchPaginationPrev, .paginate .searchPaginationFirst { padding: 6px 10px; height: 24px; width: 25px;}
+  .user_account #change-email #uniform-undefined, .user_account #change-pass #uniform-undefined, .user_account #change-username #uniform-undefined {width:100%;margin-left:0;}
+  .user_account p .help-box {margin-left:0;}
+  .user_account .modify_profile .current-email {padding-top:0;}
+  .dash-item .id, .dash-item .price, .dash-item .date {display:none;}
+  .dash-item .titl {width:35%;}
+  .dash-item .edit {width:24%;}
+  .dash-item .activate {width:27%;}
+
+  #footer #cop {float:left;margin-top:3px;clear:both}
+  #latest-home .box {width:48%;}
+
+  .user_public_profile #main {float:left;width:100%;}
+  .user_public_profile #sidebar {float:left;width:100%;margin-left:0;max-width:100%;}
+  .user_public_profile #description {margin-bottom:15px;}
+  #pub_profile #item_head {margin-top:0;}
+  #pub_profile #item_head .inner h1 {padding:5px;}
+  .loc-select {width:100%;}
+  .short-wrap {float:right;margin-left:-100%;margin-top:-34px;width:100%;}
+  #header .head-links {width:100%;margin:11px 0 5px 0;float:left;}
+  #item_head {margin-top:32px;}
+  #item_head .inner {width:100%;}
+  #item_head .print, #item_head .printpdf, #item_head .watchlist, #item_head #report {border-top:1px solid #35741C;padding: 8px 0;width: 32px;height: 33px;font-size: 16px;}
+  #item_head .watchlist:hover, #item_head .print:hover, #item_head #report:hover, #item_head .printpdf:hover {border-bottom:none;}
+  #item_head #report span {top:28px;}
+  #item_head .inner h1 {white-space:normal;}
+  .ad_list table td .fa-folder, .ad_list table td .fa-folder-open, .ad_list table td:hover .fa-folder-open, .ad_list table td p.go-more {display:none;}
+  .ad_list table td.text h3 a.edit-links {float:left;margin: 0 8px 0 0;}
+  .ad_list table td.text h3 a.item-name {padding-right:12px;}
+}
+
+@media screen and (max-width: 480px) {
+  #pub_full {position:relative;display:block;float:left;}
+  #contact-wrap #contact fieldset .button {width:100%;}
+  .user_account .modify_profile .row {padding:3px 0;}
+
+  #photos .qq-upload-list li {margin:0 1% 10px 1%;width:48%;}
+  ul.tabbernav li {width:100%;clear:both;margin:1px 0;border-radius:3px;-moz-border-radius:3px;-webkit-border-radius:3px;}
+  ul.tabbernav li a {width:100%;text-align:center;font-size:12px;padding:7px 0;border-radius:3px;-moz-border-radius:3px;-webkit-border-radius:3px;}
+  ul.tabbernav li.tabberactive a, ul.tabbernav li:hover a {border-bottom:1px solid #fff;}
+  .tabberlive .tabbertab .inside {height: 12px;padding: 1px;border: 1px solid #f7b900;margin:2px 0 0 0;}
+
+  .add_item #uniform-undefined {width:100%;text-align:center;margin-top:0;}
+  .add_item .price label {width:25%;}
+  #left-block, #right-block, #bottom-block {float:left;width:100%;margin:0 0 15px 0;}
+
+  #header .head-links ul {left:0;}
+  #description-public #user_data li span.left {width:100%;margin:6px 0 1px 0;}
+  #description-public #user_data li span.right {width:100%;}
+  .user_public_profile #contact-public #uniform-undefined {width:100%;padding:7px 0;text-align:center;}
+
+  .dash-item .id, .dash-item .price, .dash-item .date {display:none;}
+  .dash-item .titl {width:35%;}
+  .dash-item .edit {width:24%;}
+  .dash-item .activate {width:27%;}
+
+  .home #main .see_more_link {margin-bottom:25px;font-size:13px;}
+  .item #comments #comment_form fieldset {padding:5px;}
+  .home #sidebar #ad-title .fa {margin-top:1px;}
+  .ad_list table td.text h3 a {width:100%;height:auto;max-height:32px;overflow:hidden;line-height:16px;margin:0;}
+  .ad_list table td.text h3 a.folder-icon {display:none;}
+  .ad_list table td.text h3 {margin:0;height:auto;}
+  .user_account .ad_list table td.text p.desc {display:none;}
+  /*OTHER*/
+  div.selector select, div._200 div.selector select {min-width:0;}
+
+  /*PAGE*/
+  .page {margin:2% 1%;padding:0;width:100%}
+  .page h1 {font-size:14px;font-weight:bold;margin:0;margin-bottom:5px;}
+  .page h2 {font-size:13px;font-weight:bold;margin:0;margin-bottom:5px;}
+  .page h3 {font-size:12px;font-weight:bold;margin:0;margin-bottom:5px;}
+
+  /*CONTACT*/
+  .user_forms {margin-bottom:10px;}
+  .user_forms form .checkbox {width:100%;text-align:left}
+  .user_forms form .checkbox input {float:left;margin:0;margin-right:4px;clear:both}
+  .user_forms form .checkbox label {float:left;margin:0;clear:none;width:80%;margin-top:8px;}
+  .user_forms form .checkbox .log-lab {float:left;margin:0;margin-top:8px;}
+  .user_forms .inner {width:100%;margin:0;padding:2% 1%;margin-bottom:15px}
+  .user_forms h1 {font-size:14px;padding:5px 0 0 0;font-weight:bold;margin-bottom:5px}
+  .user_forms form label {margin:0;margin-top:10px;padding:0;width:100%;float:left;clear:both;font-size:12px;text-align:left}
+  .user_forms form input, .user_forms form textarea, .user_forms form .selector {width:100%;margin:0;padding:5px;float:left;clear:both}
+  .user_forms form .selector {padding:0 1%;}
+  .user_forms form .selector span {width:90%;}
+  .user_forms #uniform-undefined {float:left;clear:both;width:100%;margin:0;margin-top:10px;padding:3px 0;text-align:center}
+  .user_forms .right, #s_friend {clear:both;float:left;width:100%;padding:10px;margin:0;margin-bottom:10px;font-size:12px;height:auto}
+  .user_forms .right h2,#s_friend h2 {font-size:13px;font-weight:bold}
+  .user_forms .right h3, #s_friend h3 {font-size:12px;}
+  .user_forms .right .list-icon, #s_friend .icon {margin:0;margin-top:2px;margin-right:5px;float:left;clear:both}
+  .user_forms .right .text, #s_friend .text {padding:0;width:100%;float:left;}
+  .user_forms .right .delim, #s_friend .delim {margin:10px 0;}
+  .user_forms form {float:left;clear:both;margin:0;padding:0;width:100%}
+  .user_account h1 {font-size:14px;margin:0}
+  .user_account h1 strong {padding-bottom:3px;font-weight:bold}
+  #register .delim {margin-top:10px;}
+
+  /*USER ACCOUNT*/
+  .user_account {padding: 1%;width: 100%;}
+  .user_account #sidebar {width:100%;padding:0;overflow-x:hidden;margin-bottom:15px;border:0;float:left;}
+  .user_account #sidebar li {color:#fff}
+  .user_account .user_menu {float:left;clear:both;width:100%}
+  .user_account .user_menu li a {color:#fff;text-decoration:none;}
+  .user_account .user_menu li a:hover {text-decoration:none}
+  .user_account h2 {font-size:13px;}
+  .user_account #main {width:100%;padding:0;float:left;clear:both}
+  .userItem .hed {font-weight:bold;border-bottom: 1px dotted #ddd;margin-bottom: 5px;padding-bottom: 2px;}
+  .userItem .hed a {font-weight:normal;}
+  .userItem #alert_list {width:100%;float:left;clear:both;font-weight:normal}
+  .user_account div.selector select {width:100%;padding:5px;}
+  .user_account div.selector span {width:100%;padding:0;margin:0}
+  .user_account div.selector {width:100%;padding:0 5px;margin:0}
+  .user_account #uniform-undefined {margin: 0;width: 100%;clear: both;float: left;text-align:center}
+  .user_account .modify_profile form button {display:none}
+  .user_account div.selector select {min-width:0;width:100%}
+  .user_account fieldset {min-width:0;float:left;width:100%}
+
+  /*ITEM*/
+  .item .img-gal #photos a#img-link {width:48%;}
+  .item #sidebar .summary .text {font-size:12px;}
+  #item_head .inner h1 {font-size:13px;float:left;}
+  #item_head .inner {width:100%;padding:1%}
+  #report-span {float:left;clear:both;}
+  #total-main {width:100%;padding: 2% 1%;margin:10px 0;}
+  .item .dates {width:100%;padding:1%;}
+  .item #main {width:100%}
+  .item #main .item_id, .item #main .view, .item #main .cat, .item #main .price {float:left;padding:1% 2%;margin:0;margin-right:1%;font-size:12px;margin-bottom: 3px;}
+  .item #main h2 {margin-top:10px;margin-bottom:8px;width:80%;font-size:13px;}
+  .item #main .det-icon, .item #main .adi-icon, .item #main .com-icon {margin-top:12px;}
+  .item #main .item_location .left {width:35%;padding:5px 1%;margin-bottom:6px;}
+  .item #main .item_location .right {width:65%;padding:5px 1%;margin-bottom:6px;}
+  .item #main .item_location {width:100%;padding-top: 6px;padding-bottom: 0px;}
+  .item #main .clear {margin:0}
+  .item #comments {margin-bottom:15px;}
+  .item #main .loc-icon {margin-top:12px;}
+  .item #main .paginate {margin-top:0;}
+  .item #main .paginate a, .item #main .paginate span {line-height:16px;padding:3px 8px;}
+  .item #main .del {margin-top: -5px;margin-bottom: 5px;}
+  .item #comments form {width:100%;padding:6px}
+  .item #comments form label {width:100%;clear:both}
+  .item #comments form input {width:100%;clear:both;padding:5px;}
+  .item #comments form textarea {width:100%;clear:both;padding:5px;}
+  .item #comments form #uniform-undefined {margin: 5px 0;width: 100%;text-align: center;}  
+  .item #sidebar {width:100%;float:left;clear:both}
+  .item #sidebar #photos {display:none;}
+  .item #sidebar .summary {margin:10px 0;width:100%;clear:both;float:left;}
+  .item #sidebar .summary h3 {margin-top:5px;font-size:13px;height:18px;padding-top:1px}
+  .item #sidebar .summary .ref {display:none}
+  .item #sidebar .del {margin-top:5px;margin-bottom:10px}
+  .item #sidebar .summary .reg-ico, .item #sidebar .summary .loc-ico, .item #sidebar .summary .name-ico {clear:both;float:left;}
+  .item #sidebar .summary #contact_button, .item #sidebar .summary #uniform-undefined {margin:1%;padding: 2%;width: 48%;text-align:center}
+  .item #sidebar #ad-title {display:none}
+  #contact-wrap {margin:0;top:0;left:0;width:100%;padding:3%;height:100%;-webkit-border-radius: 0px;-moz-border-radius: 0px;border-radius: 0px;}
+  #contact-wrap #contact {width:100%;padding:3% 2%;margin:0;-webkit-border-radius: 4px;-moz-border-radius: 4px;border-radius: 4px;border:1px solid #333}
+  #contact-wrap #contact h2 {margin:5px 0;font-size:14px}
+  #contact-wrap #contact p {padding:0}
+  #contact-wrap #contact fieldset label {width:100%;float:left;clear:both;margin-top:5px;}
+  #contact-wrap #contact fieldset input,#contact-wrap #contact fieldset textarea {width:100%;padding:1%;margin:0;float:left;clear:both}
+  #contact-wrap #contact fieldset textarea{ height:60px;}
+
+  /*MAIN*/
+  .home #main #alert-info {display:none}
+  #login_open {display:none}
+  #login_open480 {display:block}
+  #footer {float: left;width: 100%;padding:5px 3px;}
+  #footer .inner {padding:0}
+  #header #user_menu li {float:left}
+  #header #user_menu ul {float:left;margin-top: 5px;width:100%}
+  .form_publish {clear:both;margin-top:7px;width:100%;margin-bottom:0px}
+  .form_publish .publish_button a {width:100%;padding-left:0;padding-right:0;font-size:13px;padding:10px 0;}
+  #header {height:auto;margin:0}
+  #header #logo {display:none}
+  #header #logo-480 {display:block}
+  #header #logo-480 img {width:100%;height:auto;}
+  .search input {witdth:100%;margin:0;padding-left:0;padding-right:0;}
+  #search-bar {padding-left:0}
+  #search-bar .but {height:auto;font-size:14px;width:100%;margin:0;margin-bottom:2px;border-bottom:1px solid #ccc;padding:7px 0;text-align:center;font-size:12px;-webkit-border-radius: 4px; -moz-border-radius: 4px; border-radius: 4px;}
+  #search-bar .but a {font-size:14px;}
+  #search-bar .home-but {display:none}
+  #home-search {width:100%;height:100%;padding:2%;}
+  #home-search .search-input {width:100%;height:100%}
+  #home-search .search-input input {margin-bottom:3px;padding:1px 6px;height:28px;}
+  #home-search .search-input div.selector {width:100%;float:left;clear:both;margin:0;padding: 1px 6px;margin:3px 0;height:28px;}
+  #home-search .search-input span {width:100%;padding-right:0;padding-left:0;margin:0}
+  #home-search .search-icon {margin-left:0}
+  #home-search .search-input #sRegion {margin:0;}
+  #home-title .right {display:none;}
+  #home-title {width:100%;text-align:center;margin:0;margin-top:20px;}
+  .home #main {width:100%}
+  .home #main #carousel {display:none;}
+  #latest-header {width:100%;margin:0;margin-bottom:8px;}
+  .home #main .see_more_link {float: left;clear: both;margin-top: 10px;font-size:13px;padding:1%}
+  .home #sidebar {clear:both;float:left;width:100%;}
+  #home-ad-google {display:none;}
+  #home-search .search-input fieldset {padding:0;padding-top:10px;}
+  #list-search .search-input #sCategory,#list-search .search-input #sRegion,#list-search .search-input div.selector,#header #user_menu, #home-search .search-input #sCategory, #home-search .search-input #sRegion, #home-search .search-input #query, #home-search #uniform-undefined, #home-search .search-input fieldset {width:100%}
+  #home-ad {margin-bottom:5px}
+  #list-search .search-input #sCategory, #list-search .search-input #sRegion {margin:0}
+  .home #sidebar #ad-title {font-weight: bold;border-bottom: 1px solid #444;margin-bottom: 5px;font-size:13px;font-weight:bold;padding-bottom:2px;text-align:left;}
+  #latest-home .price {font-size:13px;margin-top:-21px;height:20px;overflow:hidden;}
+  #latest-home h3 a {font-size:13px; display:block;float: left;height: 34px;overflow:hidden}
+  #search-gallery h3 a {font-size:12px; display:block;float: left;height: 28px;line-height:14px;overflow:hidden}
+  #home-search .text {margin-top:0;width:70%;text-align:left}
+  #home-search .search-icon {margin-top:1px;}
+  #home-title .left {margin:0}
+  #footer .del {margin-bottom:4px;}
+  div.breadcrumb {padding-bottom:7px;padding-left:0}
+  ul.breadcrumb li {padding:0 1%}
+  .flashmessage, .flashmessage {margin-right:0;margin-bottom: 20px;width:100%}
+  body {overflow-x:hidden;!responsive-delete-when-edit}
+  .social-bookmarks {float:left;height:32px;overflow:hidden;margin-bottom:5px}
+  #loc-list {width:100%;margin-left:0%;margin-right:0%}
+
+  /*SEARCH*/
+  #regular-header, #premium-header {width:100%;padding:0;margin:10px 0;margin-top:0px;min-width:0}
+  .list #sidebar {clear:both;float:left;width:100%;}
+  .list #main {width:100%;float:left;}
+  .empty {width:100%;padding:2%;margin:10px 0;}
+  #list_head .wrap {float:right;}
+  .ad_list #list_head {padding:0 1%;}
+  .ad_list #list_head .see_by {float:left;clear:both}
+  .ad_list #list_head h1 {width:auto}
+  .ad_list table td.photo img {width:100%;height:auto;}
+  .ad_list table td.photo {width:35%}
+  #search-list .price, #search-list .date, #search-list .cat, #search-list .other  {font-size:12px;float:left;padding:2px 0px;width:auto;margin:0;margin-right:5px;margin-bottom:3px}
+  #search-list .price, #search-list .cat {padding:2px 4px;}
+  .ad_list table td.text h3 {width:100%;font-size:12px;}
+  .ad_list table td.text {width:65%}
+  .ad_list table td.text p {width:100%}
+  .ad_list table td {padding:1%}
+  .paginate {margin-top:10px;margin-bottom:15px;float:left;clear:both;padding:0}
+  #search-alert {width:100%;padding:2%;}
+  #search-alert h4, #list-search .text {padding:0;margin:0;font-size:13px;width:90%;text-align:left}
+  #search-alert .sub-icon, #list-search .search-icon {margin:0;margin-top:1px;margin-right:3px;}
+  #search-alert fieldset, #search-alert form {width:100%;padding:5px 0;overflow-x:hidden}
+  #list-search {width:100%;margin:0;margin-bottom:10px;padding:2%;}
+  #alert_email, #list-search .search-input #query, #list-search .search-input #sCity {width:100%;padding:1%;margin:0;margin-bottom:5px;}
+  .search-input #query {margin-bottom:3px;padding:1%}
+  #search-alert #uniform-undefined {width:100%;}
+  #list-search .search-input span {width: 100%;padding-left: 0;padding-right: 0;margin: 0;}
+  #list-search .search-input div.selector {width: 100%;margin: 3px 0;padding: 0 1%;}
+  #withPicture {clear:both;float:left;}
+  #withPictureLabel {float: left; margin-top: 0px; margin-left: 3px; width: 83%; padding-left: 0;}
+  #list-search #uniform-undefined, #contact-wrap #contact fieldset .button {width:100%;margin-top:10px;}
+  #list-search .search-input fieldset {width:100%; min-width:0;overflow-x:hidden}
+  #radius_size {width:40%;margin:3px;}
+  #list-search .search-input #priceMin, #list-search .search-input #priceMax {width:40%;padding:0 1%}
+  #list-search .search-input #sCity {margin:3px 0}
+  #list-search .price-del {margin-left: 1%;margin-right: 1%;}
+  #search-gallery .box {width: 48%;}
+  #search-gallery {float:left;margin:0}
+  #search-example {float:left;padding:5px 0}
+  #search-bar .topnav .but .subnav {display:none;width:0px;height:0px;max-width:1px;max-height:1px;visibility:hidden}
+}
+
+@media screen and (max-width: 320px) {
+  .loc-select .h-my-loc .fa, .loc-select .mark {display:none;}
+  .h-my-loc, #open-loc {width:100%;font-size:12px;clear:both;margin:1px 0;text-align:center;}
+  .h-my-loc .font {width:100%;text-align:center;}
+  .loc-change .fa {float:none;margin:0 3px 0 0;font-size:10px;}
+  #search-list {margin:0;}
+  #related_ads .box {width:98%;}
+  .item .img-gal #photos a#img-link {width:98%;}
+  .user_account #main .item-entry .photo {display:none;}
+  .user_account #main .item-entry .data-wrap {width:100%;}
+  .dash-item .edit .fa, .dash-item .activate .fa {display:none;}
+  #photos .qq-upload-list li {margin:0 0 10px 0;width:100%;}
+}
+	

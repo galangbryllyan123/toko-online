@@ -1,0 +1,2 @@
+
+$(document).ready(function(){$(".opt_delete_account a").click(function(){$("#dialog-delete-account").dialog("open")}),$("#dialog-delete-account").dialog({autoOpen:!1,modal:!0,buttons:[{text:lhoshar.langs["delete"],click:function(){window.location=lhoshar.base_url+"?page=user&action=delete&id="+lhoshar.user.id+"&secret="+lhoshar.user.secret}},{text:lhoshar.langs.cancel,click:function(){$(this).dialog("close")}}]})});

@@ -1,0 +1,116 @@
+
+@-moz-document url-prefix() { 
+    .r-list li{
+    white-space: unset;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
+
+@media (min-width: 740px) and (max-width: 1000px){
+	ul.breadcrumb{
+		padding: 15px !important;
+	}
+    #footer{
+        padding-right: 15px;
+        padding-left: 15px;
+    }
+    .list-header{
+        margin-right: 15px;
+    }
+	#edge_nav .wrapper{
+		padding-left: 15px;
+		padding-right: 15px;
+	}
+	.nav li a{
+        padding: 15px 10px;
+	}
+	#header{
+		width: auto;
+	}
+    ._mdl_top_nav{
+        padding: 0px 15px;
+    }
+    .__mdl_header_box{
+        padding: 20px 15px;
+    }
+    .__mdl_search{
+        padding: 10px 15px;
+    }
+	.wrapper{
+		width: 100%;
+	}
+    body.home #main{
+    	width: 97% !important;
+    	margin-left: 15px;
+    }
+    #sidebar{
+    	width: 100%;
+    }
+    .widget-box{
+    	margin-right: 10px;
+        margin-left: 15px;
+    }
+    .main-search{
+    	width: 100%;
+    }
+    #mask_as_form{
+    	padding-right: 10px;
+        padding-left: 15px;
+    }
+    body.item #sidebar{
+    	width: 100%;
+    	padding-left: 15px;
+    }
+    body.item #sidebar .form-container .controls input, body.item #sidebar .form-container .controls textarea{
+    	width: 100%;
+    }
+    body.item #sidebar .form-container .controls textarea{
+        padding: 0px;
+    }
+    .__mdl__static_page{
+        padding: 15px;
+    }
+}
+
+/* -- sidebar -- */
+
+@media (min-width: 740px) and (max-width: 1000px){
+    body.user #sidebar, body.search #sidebar{
+    	width: 25%;
+    	margin-left: 15px;
+    }
+    body.search #main, body.user #main{
+    	width: 70%;
+    }
+    body.user #main{
+        padding-right: 15px;
+    }
+    #sidebar .price-slice input, #sidebar .two_input input{
+    	width: 30%;
+    }
+}
+
+/* -- post job css -- */
+
+@media (min-width: 740px) and (max-width: 1000px){
+    body.item #main, body.user-public-profile #main {
+        width: 100%;
+        float: left;
+        padding: 0px 15px;
+    }
+    body.user-public-profile #main{
+        padding: 0px;
+    }
+    body.user-public-profile #main #item-content{
+        padding: 15px;
+    }
+    body.item #main{
+        width: auto;
+    }
+    body.item #sidebar .widget-box{
+        margin-left: 15px;
+    }
+    .listing-grid .listing-card{
+        width: 32%;
+    }
+}

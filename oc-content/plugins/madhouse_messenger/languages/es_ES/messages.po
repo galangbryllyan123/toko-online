@@ -1,0 +1,1624 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Madhouse Messenger\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2016-12-11 16:36+0100\n"
+"PO-Revision-Date: 2016-12-11 16:55+0100\n"
+"Last-Translator: Madhouse <contact.wearemadhouse@gmail.com>\n"
+"Language-Team: Madhouse <contact.wearemadhouse@gmail.com>\n"
+"Language: es_ES\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: _;_e;__\n"
+"X-Poedit-Basepath: ../..\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Generator: Poedit 1.8.7\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: vendor\n"
+"X-Poedit-SearchPathExcluded-1: node_modules\n"
+
+#: classes/Madhouse/Messenger/Controllers/Admin.php:105
+#: classes/Madhouse/Messenger/Controllers/Ajax.php:87
+#: classes/Madhouse/Messenger/Controllers/Ajax.php:103
+#: classes/Madhouse/Messenger/Controllers/Ajax.php:125
+msgid "The requested message / conversation does not exists."
+msgstr "El mensaje / conversación indicado no existe."
+
+#: classes/Madhouse/Messenger/Controllers/Admin.php:111
+#, php-format
+msgid "Messages of '%s' (Thread: #%d)"
+msgstr "Mensajes de '%s' (Hilo: #%d)"
+
+#: classes/Madhouse/Messenger/Controllers/Admin.php:130
+msgid "Non-registered users"
+msgstr "Usuarios no registrados"
+
+#: classes/Madhouse/Messenger/Controllers/Admin.php:140
+msgid "The requested user does not exist."
+msgstr "El usuario indicado no existe."
+
+#: classes/Madhouse/Messenger/Controllers/Admin.php:147
+msgid "User is deleted, you can't filter on his messages."
+msgstr "Usuario eliminado, no puedes ver sus mensajes."
+
+#: classes/Madhouse/Messenger/Controllers/Admin.php:154
+#, php-format
+msgid "%s's messages (User: %s)"
+msgstr "%s's mensajes (User: %s)"
+
+#: classes/Madhouse/Messenger/Controllers/Admin.php:212
+#: classes/Madhouse/Messenger/Controllers/Web.php:286
+#: classes/Madhouse/Messenger/Models/BlockedUsers.php:175
+msgid "Blocked User"
+msgstr "Usuario bloqueado"
+
+#: classes/Madhouse/Messenger/Controllers/Admin.php:227
+#, php-format
+msgid "Successfully unblocked user %s for %s"
+msgstr "Usuario desbloqueado correctamente %s for %s"
+
+#: classes/Madhouse/Messenger/Controllers/Admin.php:234
+#: classes/Madhouse/Messenger/Controllers/Web.php:307
+msgid "This user is already blocked"
+msgstr "Este usuario ya está bloqueado"
+
+#: classes/Madhouse/Messenger/Controllers/Admin.php:240
+#: classes/Madhouse/Messenger/Controllers/Web.php:216
+#: classes/Madhouse/Messenger/Controllers/Web.php:254
+#: classes/Madhouse/Messenger/Controllers/Web.php:313
+#: classes/Madhouse/Messenger/Controllers/Web.php:366
+#: classes/Madhouse/Messenger/Controllers/Web.php:399
+#: classes/Madhouse/Messenger/Controllers/Web.php:437
+#: classes/Madhouse/Messenger/Controllers/WebNonSecure.php:304
+#: classes/Madhouse/Messenger/Controllers/WebNonSecure.php:365
+#: classes/Madhouse/Messenger/Controllers/WebNonSecure.php:607
+msgid "Nice try, but you can't do that!"
+msgstr "Bueno intento, ¡pero no puedes hacer esto!"
+
+#: classes/Madhouse/Messenger/Controllers/Admin.php:245
+#: classes/Madhouse/Messenger/Controllers/Web.php:221
+#: classes/Madhouse/Messenger/Controllers/Web.php:259
+#: classes/Madhouse/Messenger/Controllers/Web.php:318
+#: classes/Madhouse/Messenger/Controllers/Web.php:371
+#: classes/Madhouse/Messenger/Controllers/Web.php:404
+#: classes/Madhouse/Messenger/Controllers/Web.php:442
+#: classes/Madhouse/Messenger/Controllers/WebNonSecure.php:177
+#: classes/Madhouse/Messenger/Controllers/WebNonSecure.php:206
+#: classes/Madhouse/Messenger/Controllers/WebNonSecure.php:314
+#: classes/Madhouse/Messenger/Controllers/WebNonSecure.php:375
+#: classes/Madhouse/Messenger/Controllers/WebNonSecure.php:443
+#: classes/Madhouse/Messenger/Controllers/WebNonSecure.php:648
+#: classes/Madhouse/Messenger/Controllers/WebNonSecure.php:659
+msgid "An error occured while performing the task"
+msgstr "Un error ha ocurrido durante el proceso."
+
+#: classes/Madhouse/Messenger/Controllers/Admin.php:276
+#, php-format
+msgid "'%s' does not match any known extension/type"
+msgstr "'%s' no cuadra con ninguna extensión/tipo conocida"
+
+#: classes/Madhouse/Messenger/Controllers/Admin.php:299
+#, php-format
+msgid "Can't send reminder every '%s' new messages. Must be greater than 1."
+msgstr ""
+"No se puede enviar un recordatorio cada '%s' nuevos mensajes. Debe ser "
+"superior a 1."
+
+#: classes/Madhouse/Messenger/Controllers/Admin.php:369
+msgid "Something went wrong blocking the message(s)"
+msgstr "Algo falló al bloquear el mensaje(s)"
+
+#: classes/Madhouse/Messenger/Controllers/Admin.php:377
+msgid "Successfully blocked the message!"
+msgstr "¡Mensaje bloqueado correctamente!"
+
+#: classes/Madhouse/Messenger/Controllers/Admin.php:402
+#: classes/Madhouse/Messenger/Controllers/Admin.php:421
+#: classes/Madhouse/Messenger/Controllers/Admin.php:441
+#: classes/Madhouse/Messenger/Controllers/Admin.php:526
+#: classes/Madhouse/Messenger/Controllers/Admin.php:576
+#: classes/Madhouse/Messenger/Controllers/Admin.php:634
+msgid "Something went wrong during the process."
+msgstr "Algo falló durante el proceso."
+
+#: classes/Madhouse/Messenger/Controllers/Admin.php:448
+msgid "Successfully update labels!"
+msgstr "¡Etiquetas actualizadas correctamente!"
+
+#: classes/Madhouse/Messenger/Controllers/Admin.php:476
+msgid "Successfully added one label!"
+msgstr "¡Añade una etiqueta con éxito!"
+
+#: classes/Madhouse/Messenger/Controllers/Admin.php:481
+msgid "Fail when adding one label: slug and title can't be empty."
+msgstr ""
+"Fallo al añadir la etiqueta:  el slug y el título no pueden estar vacíos."
+
+#: classes/Madhouse/Messenger/Controllers/Admin.php:486
+msgid "Failed while adding the label."
+msgstr "Error al añadir la etiqueta."
+
+#: classes/Madhouse/Messenger/Controllers/Admin.php:506
+msgid "You can't remove a system label."
+msgstr "No puedes eliminar un sistema de etiquetas."
+
+#: classes/Madhouse/Messenger/Controllers/Admin.php:516
+msgid "Successfully remove one label!"
+msgstr "¡Etiqueta eliminada correctamente!"
+
+#: classes/Madhouse/Messenger/Controllers/Admin.php:521
+msgid "Failed to delete the label: this label doesn't exist."
+msgstr "Error al eliminar la etiqueta: esta etiqueta no existe."
+
+#: classes/Madhouse/Messenger/Controllers/Admin.php:584
+msgid "Successfully update events!"
+msgstr "¡Eventos actualizados correctamente!"
+
+#: classes/Madhouse/Messenger/Controllers/Admin.php:642
+msgid "Successfully update status!"
+msgstr "¡Estado actualizado correctamente!"
+
+#: classes/Madhouse/Messenger/Controllers/Admin.php:659
+msgid "Fail when adding one status. Slug and title can't be empty."
+msgstr "Error al añadir el estado. El slug y el título no puede estar vacíos."
+
+#: classes/Madhouse/Messenger/Controllers/Admin.php:672
+msgid ""
+"Fail when adding one status. The slug need to be unique. You need to change "
+"your title."
+msgstr ""
+"Error al añadir el estado. El slug ha de ser único. Debes cambiar el título."
+
+#: classes/Madhouse/Messenger/Controllers/Admin.php:680
+msgid "Successfully add one status!"
+msgstr "¡Estado añadido correctamente!"
+
+#: classes/Madhouse/Messenger/Controllers/Admin.php:697
+msgid "This status doesn't exist. Failed to delete it."
+msgstr "Este estado no existe. Error al elimnar."
+
+#: classes/Madhouse/Messenger/Controllers/Admin.php:705
+msgid "Successfully remove one status!"
+msgstr "¡Estado eliminado correctamente!"
+
+#: classes/Madhouse/Messenger/Controllers/Admin.php:716
+msgid "Please, head to settings to select a moderation user."
+msgstr ""
+"Por favor, dirígete a configuración para seleccionar un usuario moderador."
+
+#: classes/Madhouse/Messenger/Controllers/Admin.php:742
+msgid "Can't send an empty message."
+msgstr "No puedes enviar un mensaje vacío"
+
+#: classes/Madhouse/Messenger/Controllers/Admin.php:744
+msgid "Select a user to send the message to and choose the 'Contact' action."
+msgstr ""
+"Seleccionar el usuario destinatario del mensaje y escoge la acción 'Contacto'"
+
+#: classes/Madhouse/Messenger/Controllers/Admin.php:746
+#: classes/Madhouse/Messenger/Controllers/Ajax.php:106
+#: classes/Madhouse/Messenger/Controllers/Ajax.php:109
+msgid "An error occured while performing the task."
+msgstr "Un error ha ocurrido durante el proceso."
+
+#: classes/Madhouse/Messenger/Controllers/Admin.php:749
+msgid "Successfully sent the message!"
+msgstr "¡Mensaje enviado correctamente!"
+
+#: classes/Madhouse/Messenger/Controllers/Admin.php:789
+msgid "An error occured while performing the upgrade."
+msgstr "Un error ha ocurrido durante la actualización"
+
+#: classes/Madhouse/Messenger/Controllers/Admin.php:795
+msgid "Well done. Successfully updated messenger!"
+msgstr "Bien hecho. ¡Actualizado correctamente!"
+
+#: classes/Madhouse/Messenger/Controllers/AdminAjax.php:34
+#: classes/Madhouse/Messenger/Controllers/Ajax.php:222
+msgid "No action defined"
+msgstr "Ninguna acción definida"
+
+#: classes/Madhouse/Messenger/Controllers/AdminAjax.php:64
+msgid "Nothing to do, no threads in database."
+msgstr "Nada que hacer. No hay hilos en la base de datos."
+
+#: classes/Madhouse/Messenger/Controllers/Ajax.php:167
+#: classes/Madhouse/Messenger/Controllers/Web.php:46
+#: classes/Madhouse/Messenger/Controllers/WebNonSecure.php:708
+msgid "Please login to access to your messages"
+msgstr "Por favor, entra en tu cuenta para ver tus mensajes"
+
+#: classes/Madhouse/Messenger/Controllers/Ajax.php:217
+msgid "Something went wrong performing the task!"
+msgstr "¡Algo falló durante el proceso!"
+
+#: classes/Madhouse/Messenger/Controllers/Web.php:106
+#: classes/Madhouse/Messenger/Controllers/Web.php:500
+msgid "The requested label does not exist"
+msgstr "Esta etiqueta no existe."
+
+#: classes/Madhouse/Messenger/Controllers/Web.php:202
+#, php-format
+msgid "Successfully moved thread to %s"
+msgstr "Hilo movido correctamente a %s"
+
+#: classes/Madhouse/Messenger/Controllers/Web.php:209
+#, php-format
+msgid "Thread is already marked as %s"
+msgstr "Hilo ya marcado como %s"
+
+#: classes/Madhouse/Messenger/Controllers/Web.php:240
+#, php-format
+msgid "Successfully removed thread of '%s'"
+msgstr "Hilo eliminado correctamente de '%s'"
+
+#: classes/Madhouse/Messenger/Controllers/Web.php:247
+#, php-format
+msgid "Thread is not marked as %s"
+msgstr "El hilo no está marcado como %s"
+
+#: classes/Madhouse/Messenger/Controllers/Web.php:301
+#, php-format
+msgid "Successfully blocked user %s"
+msgstr "Usuario %s bloqueado correctamente"
+
+#: classes/Madhouse/Messenger/Controllers/Web.php:353
+#, php-format
+msgid "Successfully unblocked user %s"
+msgstr "Usuario %s desbloqueado correctamente"
+
+#: classes/Madhouse/Messenger/Controllers/Web.php:360
+msgid "This user is already unblocked"
+msgstr "Este usuario ya está desbloqueado"
+
+#: classes/Madhouse/Messenger/Controllers/Web.php:393
+msgid "Successfully mark a thread as unread"
+msgstr "Hilo marcado correctamente como no leído"
+
+#: classes/Madhouse/Messenger/Controllers/Web.php:431
+msgid "Successfully mark all threads as read"
+msgstr "Los mensajes se ha marcado como leída"
+
+#: classes/Madhouse/Messenger/Controllers/Web.php:464
+#: classes/Madhouse/Messenger/Controllers/Web.php:476
+#: classes/Madhouse/Messenger/Controllers/WebNonSecure.php:161
+#: classes/Madhouse/Messenger/Controllers/WebNonSecure.php:172
+#: classes/Madhouse/Messenger/Controllers/WebNonSecure.php:289
+#: classes/Madhouse/Messenger/Controllers/WebNonSecure.php:352
+#: classes/Madhouse/Messenger/Controllers/WebNonSecure.php:404
+#: classes/Madhouse/Messenger/Controllers/WebNonSecure.php:419
+#: classes/Madhouse/Messenger/Controllers/WebNonSecure.php:438
+#: classes/Madhouse/Messenger/Controllers/WebNonSecure.php:612
+msgid "The requested message or conversation does not exist"
+msgstr "El mensaje o conversación que buscas no existe"
+
+#: classes/Madhouse/Messenger/Controllers/Web.php:488
+#: classes/Madhouse/Messenger/Controllers/WebNonSecure.php:750
+msgid "The requested status does not exist"
+msgstr "El estado que buscas no existe"
+
+#: classes/Madhouse/Messenger/Controllers/WebNonSecure.php:154
+msgid "You are registered. Please login to see the thread."
+msgstr "Estás registrado. Por favor, haz login para ver este hilo."
+
+#: classes/Madhouse/Messenger/Controllers/WebNonSecure.php:249
+#, php-format
+msgid "Talking with %s - %s"
+msgstr "Hablando con %s - %s"
+
+#: classes/Madhouse/Messenger/Controllers/WebNonSecure.php:251
+#, php-format
+msgid "Talking with %s"
+msgstr "Hablando con %s"
+
+#: classes/Madhouse/Messenger/Controllers/WebNonSecure.php:309
+#: classes/Madhouse/Messenger/Controllers/WebNonSecure.php:370
+#: classes/Madhouse/Messenger/Controllers/WebNonSecure.php:622
+msgid "Sorry, you can't send a message to a disabled/deleted user"
+msgstr ""
+"Lo sentimos, no puedes enviar un mensaje a un usuario eliminado o desactivado"
+
+#: classes/Madhouse/Messenger/Controllers/WebNonSecure.php:319
+msgid "We've successfully updated the thread status"
+msgstr "El estado del hilo ha sido actualizado correctamente"
+
+#: classes/Madhouse/Messenger/Controllers/WebNonSecure.php:380
+msgid "We've successfully updated the thread title"
+msgstr "El título del hilo ha sido actualizado correctamente"
+
+#: classes/Madhouse/Messenger/Controllers/WebNonSecure.php:432
+msgid "You can not delete this message"
+msgstr "No puedes eliminar este mensaje"
+
+#: classes/Madhouse/Messenger/Controllers/WebNonSecure.php:450
+msgid "Message deleted"
+msgstr "Mensaje eliminado"
+
+#: classes/Madhouse/Messenger/Controllers/WebNonSecure.php:617
+msgid "Can't send an empty message"
+msgstr "No puedes enviar un mensaje vacío"
+
+#: classes/Madhouse/Messenger/Controllers/WebNonSecure.php:627
+msgid "Sorry, you can't send a message to a disabled/deleted item"
+msgstr ""
+"Lo sentimos, no puedes enviar un mensaje a un anuncio eliminado o desactivado"
+
+#: classes/Madhouse/Messenger/Controllers/WebNonSecure.php:633
+msgid "This email is already registered. Please login to send a message."
+msgstr ""
+"Este email ya está registrado. Por favor, haz login para enviar un mensaje"
+
+#: classes/Madhouse/Messenger/Controllers/WebNonSecure.php:638
+msgid "Sorry, you can't send a message to this user. He may have blocked you."
+msgstr ""
+"Lo sentimos, no puedes enviar un mensaje a este usuario. Puede que te haya "
+"bloqueado."
+
+#: classes/Madhouse/Messenger/Controllers/WebNonSecure.php:643
+msgid "Your name and/or email address do not seem valid."
+msgstr "Su nombre y / o email no parecen válidos."
+
+#: classes/Madhouse/Messenger/Controllers/WebNonSecure.php:654
+msgid ""
+"Failed to send the message. One of your files is too big or isn't an allowed "
+"extension."
+msgstr ""
+"Error al enviar el mensaje. Uno de tus archivos es demasiado grande o su "
+"formato no está permitido."
+
+#: classes/Madhouse/Messenger/Controllers/WebNonSecure.php:672
+msgid "We've successfully sent your message"
+msgstr "Mensaje enviado correctamente"
+
+#: classes/Madhouse/Messenger/Controllers/WebNonSecure.php:683
+msgid ""
+"Posted data exceeds the server limit. Probable cause: uploaded file is too "
+"large."
+msgstr ""
+"Este mensaje excede los límites del servidor. Causa probable: el archivo es "
+"demasiado grande."
+
+#: classes/Madhouse/Messenger/Models/MessagesBase.php:106
+msgid "Saving the message has failed."
+msgstr "Error al guardar el mensaje."
+
+#: classes/Madhouse/Messenger/Models/MessagesBase.php:126
+msgid "Adding the message to the requested thread has failed."
+msgstr "Error al añadir el mensaje al hilo."
+
+#: classes/Madhouse/Messenger/Plugin.php:405
+#, php-format
+msgid ""
+"A new Madhouse Messenger version has been detected, head to the %s to "
+"complete the upgrade."
+msgstr ""
+"Una nueva versión de Madhouse Messenger ha sido detectada. Dirígete a %s "
+"para completar la actualización."
+
+#: classes/Madhouse/Messenger/Plugin.php:409
+msgid "upgrade page"
+msgstr "Actualizar página"
+
+#: classes/Madhouse/Messenger/Services/EmailService.php:114
+msgid "No related item"
+msgstr "Anuncio no encontrado"
+
+#: classes/Madhouse/Messenger/Services/EmailService.php:126
+msgid "See thread"
+msgstr "Ver hilo"
+
+#: classes/Madhouse/Messenger/Services/MessengerService.php:459
+#, php-format
+msgid "Phone number: %s"
+msgstr "Número de teléfono: %s"
+
+#: classes/Madhouse/Messenger/Views/Message.php:42
+msgid ""
+"Sorry. This message has been blocked by an administrator (reason: spam)."
+msgstr ""
+"Lo sentimos. El mensaje ha sido bloqueado por el administrador (razón: spam)"
+
+#: classes/Madhouse/Messenger/Views/Message.php:45
+msgid "This message has been deleted."
+msgstr "El mensaje ha sido eliminado."
+
+#: index.php:140
+msgid "Madhouse Messenger"
+msgstr "Madhouse Messenger"
+
+#: index.php:174
+msgid "Inbox"
+msgstr "Bandeja de entrada"
+
+#: index.php:185 index.php:196
+msgid "Thread"
+msgstr "Hilo"
+
+#: index.php:461 index.php:669 index.php:700 index.php:713
+#: views/admin/main.php:41 views/web/widget.php:19
+msgid "Messages"
+msgstr "Mensajes"
+
+#: index.php:468
+msgid "Unknown status"
+msgstr "Estado desconocido"
+
+#: index.php:482
+#, php-format
+msgid "%d attachment"
+msgstr "%d archivo adjunto"
+
+#: index.php:482
+#, php-format
+msgid "%d attachments"
+msgstr "%d archivos adjuntos"
+
+#: index.php:681 views/web/inbox.php:72
+msgid "Messenger"
+msgstr "Messenger"
+
+#: index.php:682
+msgid "Dashboard"
+msgstr "Panel de control"
+
+#: index.php:684 views/admin/listing.php:86
+msgid "Manage messages"
+msgstr "Gestionar mensajes"
+
+#: index.php:685
+msgid "Blocked users"
+msgstr "Usuarios bloqueados"
+
+#: index.php:687
+msgid "Labels"
+msgstr "Etiquetas"
+
+#: index.php:689
+msgid "Settings"
+msgstr "Configuración"
+
+#: index.php:718
+msgid "Contact"
+msgstr "Contacto"
+
+#: views/admin/blocked-users.php:14
+msgid "Manage blocked users"
+msgstr "Gestionar usuarios bloqueados"
+
+#: views/admin/blocked-users.php:21 views/admin/listing.php:131
+#: views/admin/settings.php:37 views/admin/settings.php:559
+#: views/web/thread.php:238
+msgid "Status"
+msgstr "Estado"
+
+#: views/admin/blocked-users.php:22 views/admin/listing.php:115
+msgid "User"
+msgstr "Usuario"
+
+#: views/admin/blocked-users.php:23 views/admin/blocked-users.php:37
+#: views/admin/message-single.php:3 views/admin/message-single.php:99
+msgid "Blocked"
+msgstr "Bloqueado"
+
+#: views/admin/blocked-users.php:24 views/admin/listing.php:136
+msgid "Date"
+msgstr "Fecha"
+
+#: views/admin/blocked-users.php:45
+#, php-format
+msgid "Unblock %s for this user"
+msgstr "Desbloquear %s para este usuario"
+
+#: views/admin/blocked-users.php:66
+msgid "No blocked users, yet."
+msgstr "Ningún usuario bloqueado"
+
+#: views/admin/contact.php:7
+msgid "Starting a conversation with"
+msgstr "Empezar una conversación con"
+
+#: views/admin/contact.php:14
+msgid "Edit"
+msgstr "Editar"
+
+#: views/admin/contact.php:19
+msgid "Public profile"
+msgstr "Perfil público"
+
+#: views/admin/contact.php:27 views/admin/listing.php:134
+#: views/web/contact-form.php:74
+msgid "Message"
+msgstr "Mensaje"
+
+#: views/admin/contact.php:30 views/web/contact-form.php:81
+#: views/web/thread.php:89
+msgid "Write something..."
+msgstr "Escribe algo..."
+
+#: views/admin/contact.php:34 views/web/contact-form.php:107
+#: views/web/thread.php:117
+msgid "Send message"
+msgstr "Enviar mensaje"
+
+#: views/admin/events.php:14 views/admin/settings.php:17
+#: views/admin/settings.php:236
+msgid "Auto-messages"
+msgstr "Auto-mensajes"
+
+#: views/admin/events.php:17
+msgid ""
+"Auto-messages are messages automatically send when you're doing actions on "
+"osclass. Ie: Change the satus of a conversation, mark as spam an item or "
+"delete an item."
+msgstr ""
+"Los auto-mensajes son mensajes automáticos enviados mientras haces cambios "
+"en Ibelinmo. Por ejemplo: cambiar el estado de una conversación, marcar un "
+"anuncio como spam o eliminar un anuncio."
+
+#: views/admin/events.php:42
+#, php-format
+msgid "Event: %s"
+msgstr "Evento: %s"
+
+#: views/admin/events.php:49
+#, php-format
+msgid "Excerpt in %s"
+msgstr "Extracto en %s"
+
+#: views/admin/events.php:56
+msgid ""
+"Excerpt is displayed on inbox when this event is the last message received. "
+"If empty the text is displayed."
+msgstr ""
+"Extracto se muestra en la bandeja de entrada cuando este evento es el último "
+"mensaje recibido. Si está vacío, se muestra el texto."
+
+#: views/admin/events.php:65 views/admin/status.php:103
+#, php-format
+msgid "Text in %s"
+msgstr "Texto en %s"
+
+#: views/admin/events.php:86 views/admin/status.php:123
+msgid "Save titles"
+msgstr "Guardar títulos"
+
+#: views/admin/labels.php:14
+msgid "Create a label"
+msgstr "Crear una etiqueta"
+
+#: views/admin/labels.php:17
+msgid ""
+"Labels are used by users to sort their conversations. As on gmail, you can "
+"create labels like 'favorits' for users. Therefore they will have the "
+"ability to add threads to this label and so organise their inbox."
+msgstr ""
+"Las etiquetas son usadas por los usuarios para clasificar sus "
+"conversaciones. Como en Gmail, puedes crear etiquetas como 'Favoritos' para "
+"los usuarios. Así los usuarios pueden añadir hilos a estas etiquetas para "
+"organizar su bandeja de entrada."
+
+#: views/admin/labels.php:24
+msgid "Label title"
+msgstr "Título de la etiqueta"
+
+#: views/admin/labels.php:36
+msgid "Add label"
+msgstr "Añadir etiqueta"
+
+#: views/admin/labels.php:44
+msgid "Manage labels"
+msgstr "Gestionar etiquetas"
+
+#: views/admin/labels.php:67
+#, php-format
+msgid "Label: %s"
+msgstr "Etiqueta: %s"
+
+#: views/admin/labels.php:69
+msgid "Remove this label"
+msgstr "Eliminar esta etiqueta"
+
+#: views/admin/labels.php:77
+#, php-format
+msgid "Label title in %s"
+msgstr "Título de la etiqueta en: %s"
+
+#: views/admin/labels.php:96
+msgid "Update all labels"
+msgstr "Actualizar todas las etiquetas"
+
+#: views/admin/labels.php:105
+msgid ""
+"Are you sure you want to delete this label for all users? This can't be "
+"undone."
+msgstr ""
+"¿Estás seguro de que quieres borrar esta etiqueta para todos los usuarios? "
+"No podrás rectificar"
+
+#: views/admin/labels.php:110 views/admin/status.php:137
+msgid "Cancel"
+msgstr "Cancelar"
+
+#: views/admin/labels.php:113 views/admin/labels.php:130
+#: views/admin/settings.php:133 views/admin/status.php:140
+#: views/admin/status.php:157 views/web/inbox.php:195 views/web/thread.php:141
+#: views/web/thread.php:201
+msgid "Delete"
+msgstr "Eliminar"
+
+#: views/admin/listing.php:98 views/admin/message-single.php:23
+#: views/web/inbox.php:231
+msgid "Block"
+msgstr "Bloquear"
+
+#: views/admin/listing.php:99 views/admin/message-single.php:19
+#: views/web/inbox.php:237
+msgid "Unblock"
+msgstr "Desbloquear"
+
+#: views/admin/listing.php:102
+msgid "Apply"
+msgstr "Aplicar"
+
+#: views/admin/listing.php:116
+msgid "Item ID"
+msgstr "ID anuncio"
+
+#: views/admin/listing.php:121
+msgid "Find"
+msgstr "Buscar"
+
+#: views/admin/listing.php:133
+msgid "From / To"
+msgstr "De / Para"
+
+#: views/admin/listing.php:135
+msgid "Related item"
+msgstr "Anuncio relacionado"
+
+#: views/admin/listing.php:145
+msgid "No messages, yet."
+msgstr "Sin mensajes."
+
+#: views/admin/main.php:14
+msgid "Upgrade"
+msgstr "Actualizar"
+
+#: views/admin/main.php:17
+msgid "Your messenger plugin needs to be upgraded."
+msgstr "Tu plugin Messenger necesita ser actualizado"
+
+#: views/admin/main.php:19 views/admin/nav.php:13
+msgid "Upgrade now!"
+msgstr "¡Actualizar ahora!"
+
+#: views/admin/main.php:33
+msgid "Thread and messages statistics"
+msgstr "Estadísticas de hilos y mensajes"
+
+#: views/admin/main.php:34
+#, php-format
+msgid "in the last %s %s"
+msgstr "en el último %s %s"
+
+#: views/admin/main.php:42
+msgid "Threads"
+msgstr "Hilos"
+
+#: views/admin/main.php:72 views/web/inbox.php:101
+msgid "Filters"
+msgstr "Filtros"
+
+#: views/admin/main.php:77
+msgid "Daily"
+msgstr "Diario"
+
+#: views/admin/main.php:80
+msgid "Weekly"
+msgstr "Semanal"
+
+#: views/admin/main.php:83
+msgid "Monthly"
+msgstr "Mensual"
+
+#: views/admin/main.php:88
+msgid "Period"
+msgstr "Período"
+
+#: views/admin/main.php:94
+msgid "Filter"
+msgstr "Filtrar"
+
+#: views/admin/main.php:103
+#, php-format
+msgid "Stats by %s"
+msgstr "Estadísticas por %s"
+
+#: views/admin/main.php:110
+msgid "Today"
+msgstr "Hoy"
+
+#: views/admin/main.php:112
+msgid "This week"
+msgstr "Esta semana"
+
+#: views/admin/main.php:114
+msgid "This month"
+msgstr "Este mes"
+
+#: views/admin/main.php:123 views/admin/main.php:154 views/admin/main.php:190
+msgid "threads"
+msgstr "hilos"
+
+#: views/admin/main.php:131 views/admin/main.php:162 views/admin/main.php:198
+msgid "messages"
+msgstr "mensajes"
+
+#: views/admin/main.php:141
+msgid "Yesterday"
+msgstr "Ayer"
+
+#: views/admin/main.php:143
+msgid "Last week"
+msgstr "Semana pasada"
+
+#: views/admin/main.php:145
+msgid "Last month"
+msgstr "Mes pasado"
+
+#: views/admin/main.php:180
+msgid "All time"
+msgstr "Todo"
+
+#: views/admin/main.php:183
+msgid "Since the beginning"
+msgstr "Desde el principio"
+
+#: views/admin/main.php:208
+#, php-format
+msgid "Top users last %s %ss"
+msgstr "Top usuarios últimos %s %ss"
+
+#: views/admin/main.php:213
+msgid "Any user for this period"
+msgstr "Todos los usuarios para este período"
+
+#: views/admin/main.php:233
+#, php-format
+msgid "Top listings last %s %ss"
+msgstr "Top anuncios últimos %s %ss"
+
+#: views/admin/main.php:238
+msgid "Any listing for this period"
+msgstr "Todos los anuncios para este período"
+
+#: views/admin/message-single.php:3
+msgid "Active"
+msgstr "Activar"
+
+#: views/admin/message-single.php:8
+msgid "Show thread"
+msgstr "Mostrar hilo"
+
+#: views/admin/message-single.php:10
+msgid "Show messages of item"
+msgstr "Mostrar mensajes del anuncio"
+
+#: views/admin/message-single.php:13
+msgid "Show more..."
+msgstr "Mostrar más..."
+
+#: views/admin/message-single.php:15
+msgid "Show messages of"
+msgstr "Mostrar mensajes de"
+
+#: views/admin/message-single.php:33
+msgid "From: "
+msgstr "De:"
+
+#: views/admin/message-single.php:49
+msgid "To: "
+msgstr "Para:"
+
+#: views/admin/message-single.php:70
+msgid "Auto-message"
+msgstr "Auto-mensaje"
+
+#: views/admin/message-single.php:77
+msgid "Message attachments: "
+msgstr "Archivos adjuntos:"
+
+#: views/admin/message-single.php:97
+msgid "Spam"
+msgstr "Spam"
+
+#: views/admin/message-single.php:101
+msgid "Disabled"
+msgstr "Desactivar"
+
+#: views/admin/message-single.php:104
+msgid "Deleted"
+msgstr "Eliminar"
+
+#: views/admin/nav.php:25
+msgid "Documentation"
+msgstr "Documentación"
+
+#: views/admin/nav.php:32
+msgid "See more plugins by Madhouse"
+msgstr "Ver más plugins de Madhouse"
+
+#: views/admin/settings.php:7 views/admin/settings.php:53
+msgid "Widget"
+msgstr "Widget"
+
+#: views/admin/settings.php:12 views/admin/settings.php:69
+msgid "General"
+msgstr "General"
+
+#: views/admin/settings.php:22 views/admin/settings.php:286
+msgid "Links"
+msgstr "Enlaces"
+
+#: views/admin/settings.php:27
+msgid "Notifications & E-mails"
+msgstr "Notificaciones & E-mails"
+
+#: views/admin/settings.php:32 views/admin/settings.php:445
+msgid "Attachments"
+msgstr "Archivos adjuntos"
+
+#: views/admin/settings.php:42 views/admin/settings.php:611
+msgid "User block"
+msgstr "Bloquear usuario"
+
+#: views/admin/settings.php:57
+msgid ""
+"Add this helper in the header to display a link to the inbox and the number "
+"of unread messages."
+msgstr ""
+"Añadir este helper en el header para mostrar un enlace a la bandeja de "
+"entrada y el número de mensajes no leídos."
+
+#: views/admin/settings.php:75
+msgid "Only registered users can contact the publisher"
+msgstr "Sólo los usuarios registrados pueden contactar al anunciante"
+
+#: views/admin/settings.php:77
+msgid "All users can contact the publisher"
+msgstr "Todos los usuarios pueden contactar al anunciante"
+
+#: views/admin/settings.php:81
+#, php-format
+msgid ""
+"Messenger is always integrated with Osclass settings where it can. You can "
+"enable or disable the requirement for registered users on contact using the "
+"'Only allow registered users to contact publisher' option in %sOsclass item "
+"settings page%s."
+msgstr ""
+"Messenger siempre está integrado en la configuración de Osclass.  Puedes "
+"activar o desactivar el requerimiento para usuarios registrados usando la "
+"opción \"Sólo permitir a usuarios registrados contactar a los anunciantes\" "
+"en la página%s\n"
+"7 de configuración de anuncios en %sOsclass."
+
+#: views/admin/settings.php:90
+msgid "Menu"
+msgstr "Menu"
+
+#: views/admin/settings.php:96
+msgid "Display a link in 'user_menu'"
+msgstr "Mostrar un enlace en 'user_menu'"
+
+#: views/admin/settings.php:99
+msgid "If checked, a link is added using 'user_menu' hook."
+msgstr "If checked, a link is added using 'user_menu' hook."
+
+#: views/admin/settings.php:106 views/web/contact-form.php:66
+#: views/web/thread.php:58
+msgid "Subject"
+msgstr "Asunto"
+
+#: views/admin/settings.php:112
+msgid "Enable on contact form"
+msgstr "Permitir en el formulario de contacto"
+
+#: views/admin/settings.php:115
+msgid "Require the use of madhouse messenger contact form to display the input"
+msgstr ""
+"Obligar la utilización del formulario de contacto de Madhouse Messenger para "
+"mostrar el input"
+
+#: views/admin/settings.php:123
+msgid "Edition on thread page"
+msgstr "Edición en la página del hilo"
+
+#: views/admin/settings.php:126
+msgid "Allow or not subject edition by users on thread."
+msgstr "Permitir o no la edición del sujeto por los usuarios en el hilo."
+
+#: views/admin/settings.php:138
+msgid "Delete message for viewer and recipient"
+msgstr "Eliminar el mensaje para el viewer y el recipiento"
+
+#: views/admin/settings.php:142
+msgid "Delete message only for viewer"
+msgstr "Eliminar mensaje sólo para le viewer"
+
+#: views/admin/settings.php:145
+msgid ""
+"The first mode allow users to delete their message and they are deleted for "
+"the sender and the recipient."
+msgstr ""
+"El primer podo permite a los usuarios eliminar sus mensajes y son borrados "
+"para el destinatario como para el que lo envía."
+
+#: views/admin/settings.php:148
+msgid ""
+"The second mode allow users to delete all messages but they are only deleted "
+"for the viewer."
+msgstr ""
+"El segundo modo permite a los usuarios eliminar todos los mensajes pero sólo "
+"para el recipiente"
+
+#: views/admin/settings.php:155
+msgid "Permalinks"
+msgstr "Permalinks"
+
+#: views/admin/settings.php:164
+msgid ""
+"The prefix is used to create URLs for the plugin. By default, the prefix is "
+"'messenger', therefore, the inbox URL will be 'http://yourwebsite.com/"
+"messenger/inbox'."
+msgstr ""
+"El prefijo es usado para crear URLs para el plugin. Por defecto, el prefijo "
+"es 'messenger'. De esta forma, la URL de la bandeja de entrada será 'http://"
+"yourwebsite.com/messenger/inbox'"
+
+#: views/admin/settings.php:169
+msgid "Moderator"
+msgstr "Moderador"
+
+#: views/admin/settings.php:175
+#, php-format
+msgid "Current is '%s'"
+msgstr "Actualmente es %s"
+
+#: views/admin/settings.php:179
+msgid "(manage user)"
+msgstr "(gestionar usuario)"
+
+#: views/admin/settings.php:191
+msgid ""
+"Select a user to be able to interact with your users from the users listing "
+"(action contact on a particular user)."
+msgstr ""
+"Seleccionar a un usuario para que sea capaz de interactuar con tus usuarios "
+"del la lista de usuarios (action contact for a particular user)"
+
+#: views/admin/settings.php:196
+msgid "Contact form"
+msgstr "Formulario de contacto"
+
+#: views/admin/settings.php:201
+msgid "Enable message template "
+msgstr "Permitir plantilla de mensaje"
+
+#: views/admin/settings.php:205
+msgid ""
+"This feature display the last message send by a user when he try to contact "
+"someone avoiding copy and past."
+msgstr ""
+"Esta funcionalidad muestra el último mensaje enviado por un usuario cuando "
+"ha intentado contactar a otro evitando copiar-pegar"
+
+#: views/admin/settings.php:210
+msgid "Thread action"
+msgstr "Acciones del hilo."
+
+#: views/admin/settings.php:215
+msgid "Enable 'mark as unread'"
+msgstr "Permite 'marcar como no leído'"
+
+#: views/admin/settings.php:218
+msgid ""
+"Users are able to mark a conversation as unread when somebody send them a "
+"message."
+msgstr ""
+"Los usuarios puede marcar una conversación como no leída cuando alguien les "
+"ha enviado un mensaje."
+
+#: views/admin/settings.php:224
+msgid "Enable 'mark all as read'"
+msgstr "Permitir 'marcar todos como leídos'"
+
+#: views/admin/settings.php:227
+msgid "Users are able to mark a all conversation as read in one click."
+msgstr ""
+"Los usuarios pueden marcar todas las conversaciones como leídas en un click."
+
+#: views/admin/settings.php:239
+msgid "On item delete"
+msgstr "En borrar anuncio"
+
+#: views/admin/settings.php:244
+msgid "Send an auto-message when deleting an item"
+msgstr "Enviar un auto-mensaje cuando se elimina un anuncio"
+
+#: views/admin/settings.php:248
+msgid ""
+"Users that contacted the deleted item will get a message to notify them that "
+"it's not available anymore."
+msgstr ""
+"Los usuarios que han contactado el anuncio eliminado recibirán un mensaje "
+"notificándolos que el anuncio ya no está disponible."
+
+#: views/admin/settings.php:253
+msgid "On item spam"
+msgstr "En anuncio spam"
+
+#: views/admin/settings.php:258
+msgid "Send an auto-message when the admin marks an item as spam"
+msgstr ""
+"Enviar un auto-mensaje cuando el administrador marca un anuncio como spam"
+
+#: views/admin/settings.php:262
+msgid ""
+"Users that contacted an item marked as spam will get a message to notify "
+"them to be careful."
+msgstr ""
+"Los usuarios que han enviado un mensaje a través de un anuncio marcado como "
+"spam recibirán un mensaje notificándolos de tener cuidado."
+
+#: views/admin/settings.php:266
+msgid "Customize auto-messages text"
+msgstr "Personalizar texto de auto-mensajes"
+
+#: views/admin/settings.php:273
+#, php-format
+msgid "Do not send auto-messages to threads inactive for more than %s days"
+msgstr "No enviar auto-mensajes a hilos inactivos durante más de %s days"
+
+#: views/admin/settings.php:276
+msgid ""
+"This feature is useful not to notify users that contacted the item a very "
+"long time ago."
+msgstr ""
+"Esta funcionalidad es útil para no notificar usuarios que hayan contactado a "
+"través de un anuncio hace mucho tiempo."
+
+#: views/admin/settings.php:277
+msgid "Inactive threads means: no recent messages for X days."
+msgstr "Hilos inactivos significa: ningún mensaje reciente durante X días."
+
+#: views/admin/settings.php:278
+msgid "Leave empty to always send a message."
+msgstr "Dejar en blanco para siempre mandar un mensaje."
+
+#: views/admin/settings.php:293
+msgid "Enable autolinker"
+msgstr "Permitir autolinker"
+
+#: views/admin/settings.php:297
+msgid ""
+"Enable autolinker to replace links, emails, hashtag and @name in messages by "
+"clickable links."
+msgstr ""
+"Permitir a autolinker cambiar links, emails, hastag y @nombre en mensajes a "
+"través de enlaces clickables."
+
+#: views/admin/settings.php:303
+msgid "Open links"
+msgstr "Abrir links"
+
+#: views/admin/settings.php:308
+msgid "In a new window"
+msgstr "En una ventana nueva"
+
+#: views/admin/settings.php:312
+msgid "In the same window"
+msgstr "En la misma ventana"
+
+#: views/admin/settings.php:318
+msgid "Prefix"
+msgstr "Prefijo"
+
+#: views/admin/settings.php:323
+msgid "Hide"
+msgstr "Ocultar"
+
+#: views/admin/settings.php:327
+msgid "Show"
+msgstr "Mostrar"
+
+#: views/admin/settings.php:330
+msgid "Show or hide the http:// or https:// prefix"
+msgstr "Mostrar o ocultar el prefijo http:// o https://"
+
+#: views/admin/settings.php:336
+msgid "Link Length"
+msgstr "Longitud del link"
+
+#: views/admin/settings.php:345
+msgid ""
+"Truncate links to a specific length. Leave empty if you doesn't want to "
+"truncate links in messages."
+msgstr ""
+"Truncar enlaces a una longitud específica. Dejar en blaco si no quieres "
+"truncar enlaces en los mensajes"
+
+#: views/admin/settings.php:353
+msgid "Notifications & Reminders (e-mails)"
+msgstr "Notificaciones & Recordatorios (e-mails)"
+
+#: views/admin/settings.php:361
+msgid "Enable e-mails"
+msgstr "Permitir e-mails"
+
+#: views/admin/settings.php:368
+msgid "Notifications"
+msgstr "Notificaciones"
+
+#: views/admin/settings.php:372
+#, php-format
+msgid ""
+"Don't send a notification if the user has more than %s unread message(s)"
+msgstr ""
+
+#: views/admin/settings.php:379
+#, php-format
+msgid ""
+"After that, send a reminder every %s new message(s). It will send a "
+"notification every N unread messages."
+msgstr ""
+
+#: views/admin/settings.php:389
+msgid "Always send a notification when a conversation is started. (New thread)"
+msgstr ""
+
+#: views/admin/settings.php:393 views/admin/upgrade.php:8
+msgid "Important!"
+msgstr "¡Importante!"
+
+#: views/admin/settings.php:393
+msgid ""
+"Note that unregistered users will always receive an email notification for "
+"all messages that they receive."
+msgstr ""
+
+#: views/admin/settings.php:399
+msgid "Daily reminders"
+msgstr "Recordatorios diarios"
+
+#: views/admin/settings.php:406
+msgid "Enable reminders"
+msgstr "Activar recordatorios"
+
+#: views/admin/settings.php:414
+#, php-format
+msgid "Send a reminder every %s day(s) for %s day(s)"
+msgstr "Enviar un recordatorio cada %s día(s) durante %s día(s)"
+
+#: views/admin/settings.php:418
+msgid ""
+"It will send an e-mail every X days for Y days to users with unread messages."
+msgstr ""
+"Se enviará un email cada X días durante Y días a usuarios con mensajes no "
+"leídos"
+
+#: views/admin/settings.php:424
+msgid "Formatting options"
+msgstr "Opciones de formatear"
+
+#: views/admin/settings.php:431
+msgid "characters in e-mail excerpt."
+msgstr "caracteres en el extracto del e-mail"
+
+#: views/admin/settings.php:437
+msgid "Limit the e-mail excerpt to the first line."
+msgstr "Limitar el extracto del email a la primera línea"
+
+#: views/admin/settings.php:448
+msgid "Messenger allow your users to attach files to their messages."
+msgstr "Messenger permite a tus usuarios adjuntar archivos en sus mensajes"
+
+#: views/admin/settings.php:453
+msgid "Attachments are enabled!"
+msgstr "Archivos adjuntos activados"
+
+#: views/admin/settings.php:455
+msgid "Attachments are disabled!"
+msgstr "Archivos adjuntos desactivados"
+
+#: views/admin/settings.php:459
+#, php-format
+msgid ""
+"Messenger is always integrated with Osclass settings where it can. You can "
+"enable or disable attachment using the 'Allow attached files in contact "
+"publisher form' option in %sOsclass item settings page%s."
+msgstr ""
+"Messenger siempre que puede está integrado en la configuración de Osclass. "
+"Puedes activar o desactivar los archivos adjuntos utilizando la opción "
+"'Permite adjuntar archivos en el formulario de contacto del anunciante' en "
+"la página%s de configuración de anuncios de %sOsclass."
+
+#: views/admin/settings.php:466
+msgid "Security warnings!"
+msgstr "Advertencias de seguridad!"
+
+#: views/admin/settings.php:466
+msgid ""
+"The 'fileinfo.so' PHP extension doesn't seem to be enabled. Ask your hosting "
+"provider to enable this extension and/or the 'passthru' function to increase "
+"security a step further."
+msgstr ""
+
+#: views/admin/settings.php:473
+msgid "Maximum size"
+msgstr "Talla máxima"
+
+#: views/admin/settings.php:482
+msgid "Max file size allowed in Kb."
+msgstr "Tamaño máximo de archivo permitido en Kb."
+
+#: views/admin/settings.php:488
+msgid "Thumbnail size"
+msgstr "Tamaño miniatura"
+
+#: views/admin/settings.php:497
+msgid ""
+"For images only. Size must be specified as '{width}x{height}', eg. '150x150'."
+msgstr ""
+"Sólo para imágenes. El tamaño ha de ser especificado en '{anchura}"
+"x{altura}', eg. '150x150'."
+
+#: views/admin/settings.php:503
+#, php-format
+msgid "Maximum number of %s attachment(s) per message."
+msgstr "Número máximo de %s archivos adjuntos por mensaje"
+
+#: views/admin/settings.php:506
+msgid "Maximum number of files that can be attached to a single message."
+msgstr "Número máximo de archivos que pueden adjuntarse en un mensaje"
+
+#: views/admin/settings.php:512
+msgid "Allowed file extensions"
+msgstr "Permitir extensiones de archivos"
+
+#: views/admin/settings.php:521
+msgid ""
+"Comma-separated list of file extensions that are allowed, for example: 'doc, "
+"txt, jpg, jpeg, png, zip'."
+msgstr ""
+"Lista de extensiones de archivos permitidos separados por comas, por "
+"ejemplo: 'doc, txt, jpg, jpeg, png, zip'."
+
+#: views/admin/settings.php:531
+msgid "Enable secure URL"
+msgstr "Permitir URL segura"
+
+#: views/admin/settings.php:535
+msgid ""
+"Enable this option to serve resources through a route, hiding actual path "
+"and name to files, making the upload system secured."
+msgstr ""
+"Permitir esta opción para ofrecer recursos a través de una ruta, escondiendo "
+"el origen y nombre de los archivos, haciendo la subida de archivos segura."
+
+#: views/admin/settings.php:541
+msgid ".htaccess"
+msgstr ".htaccess"
+
+#: views/admin/settings.php:550
+msgid ""
+"The upload directory is protected by a .htaccess file, edit its content only "
+"if you know what you're doing."
+msgstr ""
+"La carpeta donde se suben los archivos está protegida con un archivo ."
+"htaccess. Edítalo sólo si sabes lo que estás haciendo."
+
+#: views/admin/settings.php:567
+msgid "Enable status"
+msgstr "Activar estados"
+
+#: views/admin/settings.php:575
+msgid "Manage and customize thread status"
+msgstr "Gestionar y personalizar"
+
+#: views/admin/settings.php:581
+msgid "Default status"
+msgstr "Estado predeterminado"
+
+#: views/admin/settings.php:599
+msgid "Only item owner can modify the status of a thread"
+msgstr "Sólo el anunciante puede modificar el estado de un hilo."
+
+#: views/admin/settings.php:601
+msgid "If this option is not checked anyone can modify it."
+msgstr "Si esta opción no está activada cualquiera puede modificarla."
+
+#: views/admin/settings.php:619
+msgid "Allow users to block somebody"
+msgstr "Permitir a usuarios bloquear a otros."
+
+#: views/admin/settings.php:622
+msgid "Users can't send messages to users who blocked him."
+msgstr ""
+"Los usuarios no pueden enviar mensajes a usuarios que les hayan bloqueado."
+
+#: views/admin/settings.php:633
+msgid "Notify admin when somebody is blocked"
+msgstr "Notificar al administrador cuando alguien sea bloqueado"
+
+#: views/admin/settings.php:636
+msgid "Send an email to admin when somebody is blocked to manage him."
+msgstr ""
+"Enviar un email al administrador cuando alguien sea bloqueado para "
+"gestionarlo."
+
+#: views/admin/settings.php:643
+msgid "Save changes"
+msgstr "Guardar cambios"
+
+#: views/admin/status.php:13
+msgid "Create a status"
+msgstr "Crear un estado"
+
+#: views/admin/status.php:16
+msgid ""
+"Status can be used by users to mark a conversation. It is displayed for "
+"everybody in the thread. It help users to organize their threads."
+msgstr ""
+"Los estados pueden usarse para marcar una conversación. Son mostrados a "
+"todos en el hilo. Ayuda a los usuarios a organizar sus hilos."
+
+#: views/admin/status.php:23
+msgid "Title"
+msgstr "Título"
+
+#: views/admin/status.php:36
+msgid "Description"
+msgstr "Descripción"
+
+#: views/admin/status.php:48
+msgid "Add status"
+msgstr "Añadir estado"
+
+#: views/admin/status.php:56
+msgid "Manage status"
+msgstr "Gestionar estado"
+
+#: views/admin/status.php:80
+#, php-format
+msgid "Status: %s"
+msgstr "Estado: %s"
+
+#: views/admin/status.php:82
+msgid "Remove this status"
+msgstr "Eliminar este estado"
+
+#: views/admin/status.php:90
+#, php-format
+msgid "Title in %s"
+msgstr "Título en %s"
+
+#: views/admin/status.php:132
+msgid "Are you sure you want to delete this status? This can't be undone."
+msgstr ""
+"¿Estás seguro que quieres eliminar este estado? No podrás volver atrás."
+
+#: views/admin/upgrade.php:10
+msgid ""
+"Please wait, depending on the size of your database, it may take a few "
+"minutes to update your messenger installation to the latest version."
+msgstr ""
+"Por favor, dependiendo del tamaño de tu base de datos, la actualización a la "
+"última versión de tu Messenger puede tardar varios minutos."
+
+#: views/admin/upgrade.php:24
+msgid "Nothing to update, everything's good."
+msgstr "No hay nuevas actualizaciones."
+
+#: views/admin/upgrade.php:30 views/web/thread.php:62
+msgid "Update"
+msgstr "Actualizar"
+
+#: views/admin/upgrade.php:36
+msgid "Progress"
+msgstr "Progreso"
+
+#: views/admin/upgrade.php:56
+msgid "thread(s) were successfully updated."
+msgstr "Los hilo(s) han sido actualizados correctamente."
+
+#: views/admin/upgrade.php:57
+msgid "Total time:"
+msgstr "Tiempo total:"
+
+#: views/admin/upgrade.php:61
+msgid "Back to Messenger dashboard"
+msgstr "Volver al panel de control de Messenger"
+
+#: views/admin/upgrade.php:66
+msgid "An error occured, please try again or contact us on the market."
+msgstr ""
+"Ha ocurrido un error. Por favor, inténtalo de nuevo o contáctanos a través "
+"del market."
+
+#: views/web/contact-form.php:43
+#, php-format
+msgid "You have already contacted %s for this listing: %ssee thread%s"
+msgstr "Ya has contactado %s para este anuncio: %s ver hilo%s"
+
+#: views/web/contact-form.php:50
+msgid "Your name"
+msgstr "Nombre"
+
+#: views/web/contact-form.php:57
+msgid "Your email"
+msgstr "Email"
+
+#: views/web/contact-form.php:80
+msgid "Please write something"
+msgstr "Escribe alguna cosa"
+
+#: views/web/contact-form.php:87
+msgid "Attachment"
+msgstr "Adjuntar"
+
+#: views/web/inbox.php:85
+msgid "Unread"
+msgstr "No leído"
+
+#: views/web/inbox.php:90
+msgid "Mark all as read"
+msgstr "Marcar todos como leídos"
+
+#: views/web/inbox.php:107
+#, php-format
+msgid "Listing: %s"
+msgstr "Anuncio: %s"
+
+#: views/web/inbox.php:154 views/web/thread.php:244
+msgid "Deleted listing"
+msgstr "Eliminar anuncio"
+
+#: views/web/inbox.php:156 views/web/thread.php:246
+msgid "Expired listing"
+msgstr "Anuncio caducado"
+
+#: views/web/inbox.php:158 views/web/thread.php:248
+msgid "Spam or blocked listing"
+msgstr "Anuncio bloqueado o spam"
+
+#: views/web/inbox.php:160 views/web/thread.php:250
+msgid "Deactivated listing"
+msgstr "Anuncio desactivado"
+
+#: views/web/inbox.php:168 views/web/thread.php:267
+msgid "No item linked to this thread"
+msgstr "Ningún anuncio enlazado a este hilo"
+
+#: views/web/inbox.php:176
+msgid "Archive"
+msgstr "Archivo"
+
+#: views/web/inbox.php:182
+msgid "Move to inbox"
+msgstr "Mover a bandeja de entrada"
+
+#: views/web/inbox.php:189
+msgid "Restore"
+msgstr "Restaurar"
+
+#: views/web/inbox.php:204
+msgid "Mark as"
+msgstr "Marcar como"
+
+#: views/web/inbox.php:210
+msgid "Unmark as"
+msgstr "Desmarcar como"
+
+#: views/web/inbox.php:223
+msgid "Mark as unread"
+msgstr "Marcar como no leído"
+
+#: views/web/inbox.php:256
+msgid "on"
+msgstr "encendido"
+
+#: views/web/inbox.php:264
+#, php-format
+msgid "No message unread for listing '%s' in %s, yet."
+msgstr "Ningún mensaje no leído en el anuncio '%s' en %s."
+
+#: views/web/inbox.php:266
+#, php-format
+msgid "No message unread in %s, yet."
+msgstr "Ningún mensaje no leído en %s"
+
+#: views/web/inbox.php:270
+#, php-format
+msgid "No message for listing '%s' in %s, yet."
+msgstr "Ningún mensaje en el anuncio '%s' en %s."
+
+#: views/web/inbox.php:272
+#, php-format
+msgid "No message in %s, yet."
+msgstr "Ningún mensaje en %s."
+
+#: views/web/thread.php:42 views/web/thread.php:309
+msgid "Talking with"
+msgstr "Hablando con"
+
+#: views/web/thread.php:75
+#, php-format
+msgid "You blocked the user %s. He/She can't send you messages."
+msgstr "Has bloqueado al usuario %s. Ya no puede enviarte mensajes."
+
+#: views/web/thread.php:101
+msgid "Remove"
+msgstr "Eliminar"
+
+#: views/web/thread.php:112
+msgid "Add attachment"
+msgstr "Adjuntar archivo"
+
+#: views/web/thread.php:126
+msgid "Change status to"
+msgstr "Cambiar estado a"
+
+#: views/web/thread.php:140
+msgid "Read"
+msgstr "Leer"
+
+#: views/web/thread.php:208
+msgid "Read "
+msgstr "Leer"
+
+#: views/web/thread.php:222
+msgid "Loading previous messages"
+msgstr "Cargando mensajes anteriores"
+
+#: views/web/thread.php:227
+msgid "No more message to load"
+msgstr "No hay más mensajes"
+
+#: views/web/thread.php:286
+msgid "Block user"
+msgstr "Bloquear usuario"
+
+#: views/web/thread.php:292
+msgid "Unblock user"
+msgstr "Desbloquear usuario"
+
+#: views/web/thread.php:300
+msgid "Edit subject"
+msgstr "Editar asunto"
+
+#: views/web/thread.php:329
+msgid "All attachments"
+msgstr "Archivos adjuntos"
+
+#~ msgid "Successfully add one label!"
+#~ msgstr "¡Etiqueta añadida correctamente!"
+
+#~ msgid "in a new window"
+#~ msgstr "en una nueva venta"
+
+#~ msgid "in the same window"
+#~ msgstr "en la misma venta"
+
+#~ msgid "Send an e-mail everytime a user receive a message"
+#~ msgstr "Enviar un e-mail siempre que un usuario reciba un mensaje"
+
+#~ msgid "Stop if the user has more than %s unread message(s)"
+#~ msgstr "Parar si el usuario tiene más de %s mensajes no leídos"
+
+#~ msgid "After that, send a summary every %s new message(s)"
+#~ msgstr "Después, enviar un resumen cada %s nuevos mensajes"
+
+#~ msgid "It will send an e-mail every N unread messages."
+#~ msgstr "Enviará un e-mail cada N mensajes no leídos."

@@ -1,0 +1,1049 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Ultimate Social Login\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-06-30 13:31+0300\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: Translations <fenix.krd@gmail.com>\n"
+"Language: ru_RU\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
+"%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"X-Poedit-Basepath: ../..\n"
+"X-Generator: Poedit 2.2.3\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: admin/help.php:13 admin/settings.php:20 admin/settings.php:91
+msgid "osclass-pro.com"
+msgstr "osclass-pro.ru"
+
+#: admin/help.php:23 admin/settings.php:30
+msgid "Follow us"
+msgstr "Мы в соцсетях"
+
+#: admin/help.php:27 admin/settings.php:34
+msgid "osclassprocom"
+msgstr "osclassproru"
+
+#: admin/help.php:28 admin/settings.php:35
+msgid "osclass_pro_com"
+msgstr "osclass_pro_ru"
+
+#: admin/help.php:36
+msgid "Help desk"
+msgstr "Мануал по настройке и подключению плагина"
+
+#: admin/help.php:41
+msgid "How to integrate social networking buttons"
+msgstr "Как добавить кнопки социальных сетей на сайт"
+
+#: admin/help.php:44
+msgid "Once you configure the plugin, open these 2 files in your template:"
+msgstr "После того, как вы настроили плагин, откройте 2 файла в вашем шаблоне:"
+
+#: admin/help.php:48
+msgid "And add the one line of code:"
+msgstr "Там где вы хотите, чтобы выводились кнопки авторизации добавьте код:"
+
+#: admin/help.php:60
+msgid "Configuring Facebook authorization"
+msgstr "Как подключить авторизацию через Facebook"
+
+#: admin/help.php:62 admin/help.php:109 admin/help.php:169 admin/help.php:207
+#: admin/help.php:253 admin/help.php:293 admin/help.php:344 admin/help.php:368
+#: admin/help.php:399 admin/help.php:420 admin/help.php:448
+msgid "Go to:"
+msgstr "Перейдите по ссылке:"
+
+#: admin/help.php:62 admin/help.php:253 admin/help.php:293
+msgid "and <ins>create a new application</ins> by clicking on"
+msgstr "и <ins>создайте новое приложение</ins>, нажав на кнопку"
+
+#: admin/help.php:62
+msgid "+Add a New App"
+msgstr "+Добавьте новое приложение"
+
+#: admin/help.php:64
+msgid "Provide a <ins>Display Name</ins>, <ins>Contact Email</ins> and click"
+msgstr ""
+"Заполните <ins>Отображаемое название</ins>, <ins>Эл. адрес для связи</ins> и "
+"нажмите"
+
+#: admin/help.php:64
+msgid "Create App ID"
+msgstr "Создайте ID приложения"
+
+#: admin/help.php:66
+msgid ""
+"On the <ins>+ Add Product</ins> page choose <ins>Facebook Login</ins> and "
+"click"
+msgstr ""
+"На странице <ins>+ Добавить продукт</ins> выберите <ins>Вход через Facebook</"
+"ins> и нажмите"
+
+#: admin/help.php:66
+msgid "Set Up"
+msgstr "Настроить"
+
+#: admin/help.php:68
+msgid "On the Next page Select"
+msgstr "На следующей странице выберите"
+
+#: admin/help.php:71
+msgid "Put your website domain in the <ins>Site Url</ins> field and click"
+msgstr "Укажите свой домен в поле <ins>URL сайта</ins> и нажмите"
+
+#: admin/help.php:71 admin/help.php:330 admin/help.php:378 admin/help.php:448
+msgid "Save"
+msgstr "Сохранить"
+
+#: admin/help.php:73 admin/help.php:80 admin/help.php:89
+msgid "Your Site URL:"
+msgstr "Ваш URL сайта:"
+
+#: admin/help.php:78
+msgid ""
+"Go to <ins>Facebook Login =&gt; Settings</ins> and provide your website url "
+"in the <ins>Valid OAuth redirect URIs</ins> and click"
+msgstr ""
+"Перейдите в меню <ins>Вход через Facebook =&gt; Настройки</ins> и введите "
+"ваш домен сайта в поле <ins>Действительные URL-адреса для перенаправления "
+"OAuth</ins>, после чего нажмите на кнопку"
+
+#: admin/help.php:78 admin/help.php:101 admin/help.php:161 admin/help.php:199
+#: admin/help.php:245 admin/help.php:285 admin/help.php:336 admin/help.php:360
+#: admin/help.php:391 admin/help.php:412 admin/help.php:440 admin/help.php:472
+msgid "Save Changes"
+msgstr "Сохранить"
+
+#: admin/help.php:85 admin/help.php:221 admin/help.php:270 admin/help.php:295
+#: admin/help.php:370 admin/help.php:456
+msgid "Notice:"
+msgstr "Примечание:"
+
+#: admin/help.php:85
+msgid "If the Friendly URI is activated, use this  Valid OAuth redirect URIs"
+msgstr ""
+"Если включены Дружественные URL в настройках Osclass, то используйте этот "
+"Valid OAuth URI"
+
+#: admin/help.php:93
+msgid "Go to <ins>App Review</ins> page and change marker as"
+msgstr ""
+"Зайдите на страницу <ins>Проверка приложения</ins> и измените переключатель "
+"на"
+
+#: admin/help.php:93
+msgid "Yes"
+msgstr "Да"
+
+#: admin/help.php:93
+msgid "to make your App is available to the public"
+msgstr ", кликнув по нему мышкой, чтобы активировать ваше приложение"
+
+#: admin/help.php:95
+msgid "Select <ins>Category</ins> in the pop-up window and click"
+msgstr ""
+"Во всплывающем pop-up окне выберите <ins>Категорию</ins> и нажмите на кнопку"
+
+#: admin/help.php:95
+msgid "Confirm"
+msgstr "Подтвердите действие"
+
+#: admin/help.php:97
+msgid ""
+"Go to <ins>Settings =&gt; Basic</ins> and copy your <strong>App ID</strong> "
+"and <strong>App Secret</strong> (click"
+msgstr ""
+"Перейдите на страницу <ins>Настройки  =&gt; Основное</ins> и скопируйте свой "
+"<strong>Идентификатор приложения</strong> и  <strong>Секрет приложения</"
+"strong> (нажмите на"
+
+#: admin/help.php:97
+msgid "Show"
+msgstr "Показать"
+
+#: admin/help.php:97
+msgid "You may be required to re-enter your Facebook password)"
+msgstr "Возможно вам потребуется ввести свой пароль от Facebook еще раз)"
+
+#: admin/help.php:99 admin/help.php:158
+msgid ""
+"Go back to <ins><strong>Ultimate Social Login</strong> Cofiguration</ins> "
+"and paste copied <strong>App ID</strong> and <strong>App Secret</strong> "
+"into the fields like on the screenshot"
+msgstr ""
+"Вернитесь на страницу плагина <ins><strong>Ultimate Social Login</strong></"
+"ins> в раздел <ins>Настройки</ins> и вставьте скопированные "
+"<strong>Идентификатор приложения</strong> и <strong>Секрет приложения</"
+"strong> в соответствующие поля, как показано на скриншоте"
+
+#: admin/help.php:101 admin/help.php:161 admin/help.php:199 admin/help.php:245
+#: admin/help.php:285 admin/help.php:336 admin/help.php:360 admin/help.php:391
+#: admin/help.php:412 admin/help.php:440 admin/help.php:472
+msgid "Click"
+msgstr "Нажмите"
+
+#: admin/help.php:101
+msgid "and enjoyed Facebook Login"
+msgstr ", на этом настройка завершена"
+
+#: admin/help.php:107
+msgid "Configuring Google authorization"
+msgstr "Как подключить авторизацию через Google"
+
+#: admin/help.php:109
+msgid ""
+"and <ins>create a new project</ins> (or select an existing one) by clicking "
+"on"
+msgstr ""
+"и <ins>создайте новый проект</ins>(или выберите существующий), нажав на "
+"кнопку"
+
+#: admin/help.php:109
+msgid "Configure a project"
+msgstr "Configure a project"
+
+#: admin/help.php:112
+msgid ""
+"In the pop-up window, enter any data. And on the tab <ins>\"Configure your "
+"OAuth client\"</ins> make the following settings:"
+msgstr ""
+"в открывшемся поп-ап окне заполните поля по Вашему желанию. А на вкладке "
+"<ins>\"Configure your OAuth client\"</ins> произведите следующие настройки:"
+
+#: admin/help.php:114
+msgid ""
+"From the list <strong>\"Where are you calling from?\"</strong> select "
+"<ins>Web Server</ins>"
+msgstr ""
+"Из списка <strong>\"Where are you calling from?\"</strong> выберите <ins>Web "
+"Server</ins>"
+
+#: admin/help.php:118 admin/help.php:146
+msgid "In the \"Authorized redirect URIs\" field, enter this URI:"
+msgstr "В поле \"Authorized redirect URIs\" введите данный УРЛ:"
+
+#: admin/help.php:122 admin/help.php:150
+msgid ""
+"Complete the action by clicking on the <strong>\"Create\"</strong> button"
+msgstr "После чего нажмите на кнопку <strong>\"Create\"</strong>"
+
+#: admin/help.php:127
+msgid ""
+"Go to the <ins>\"API Console\"</ins> page by clicking on the <strong>\"API "
+"Console\"</strong> link"
+msgstr ""
+"Перейдите на страницу <ins>\"API Console\"</ins>, нажав на ссылку <strong>"
+"\"API Console\"</strong>"
+
+#: admin/help.php:130
+msgid "On the next page, click on the <strong>\"Credentials\"</strong> page"
+msgstr "На следующей странице кликните по <strong>\"Credentials\"</strong>"
+
+#: admin/help.php:133
+msgid ""
+"On the next page, click on the <strong>\"Create credentials\"</strong> "
+"button and select <strong>\"OAuth client ID\"</strong>"
+msgstr ""
+"Теперь нажмите на кнопку <strong>\"Create credentials\"</strong> и выберите "
+"пункт <strong>\"OAuth client ID\"</strong>"
+
+#: admin/help.php:136
+msgid "On the next page, make the following settings:"
+msgstr "Произведите следующие настройки:"
+
+#: admin/help.php:138
+msgid "From the options, select <ins>Web application</ins>"
+msgstr "Из предложенного списка опций выберите: <ins>Web application</ins>"
+
+#: admin/help.php:142
+msgid "In the \"Authorized JavaScript origins\" field, enter this URI:"
+msgstr "В поле \"Authorized JavaScript origins\" введите данный УРЛ:"
+
+#: admin/help.php:155 admin/help.php:354
+msgid "Copy your <ins>Client ID</ins> and <ins>Client Secret</ins>"
+msgstr ""
+"Скопируйте ваши <ins>Идентификатор Клиента</ins> и  <ins>Секрет Клиента</ins>"
+
+#: admin/help.php:161
+msgid "and enjoyed Google+ Login"
+msgstr ", на этом настройка завершена"
+
+#: admin/help.php:167
+msgid "Configuring Twitter authorization"
+msgstr "Как подключить авторизацию через Twitter"
+
+#: admin/help.php:169 admin/help.php:207
+msgid "and <ins>create a new app</ins> by clicking on"
+msgstr "и <ins>создайте новое приложение</ins>, нажав на кнопку"
+
+#: admin/help.php:169
+msgid "Create New App"
+msgstr "Create New App"
+
+#: admin/help.php:172
+msgid ""
+"Fill out any required fields such as the <ins>Name</ins>, <ins>Description</"
+"ins>, <ins>Website</ins> and <ins>Callback URL</ins> and create your App by "
+"clicking on"
+msgstr ""
+"Заполните поля: <ins>Name</ins>, <ins>Description</ins>, <ins>Website</ins>, "
+"<ins>Callback URL</ins> и создайте приложение, нажав на кнопку"
+
+#: admin/help.php:172
+msgid "Create your Twitter application"
+msgstr "Create your Twitter application"
+
+#: admin/help.php:174 admin/help.php:212 admin/help.php:258
+msgid "Your Website URL:"
+msgstr "Website URL:"
+
+#: admin/help.php:178 admin/help.php:450
+msgid "Your Callback URL:"
+msgstr "Callback URL:"
+
+#: admin/help.php:183
+msgid ""
+"After that, go to the tab <ins>Settings</ins> and provide your <ins>Privacy "
+"Policy URL</ins> and <ins>Terms of Service URL</ins> (it must be done so "
+"that the plug-in can get the Twitter user's E-mail). Save settings by click"
+msgstr ""
+"Перейдите на вкладку <ins>Settings</ins> и укажите ссылки на: <ins>Privacy "
+"Policy URL</ins> и <ins>Terms of Service URL</ins> (эти ссылки нужны для "
+"того, чтобы плагин смог получить E-mail адреса пользователей Twitter). "
+"Сохраните настройки, кликнув по кнопке"
+
+#: admin/help.php:183 admin/help.php:186
+msgid "Update Settings"
+msgstr "Update Settings"
+
+#: admin/help.php:186
+msgid ""
+"Now go to the <ins>Permissions</ins> tab and check the box <ins>Request "
+"email addresses from users</ins>. Update permissions by click"
+msgstr ""
+"Теперь кликните по вкладке <ins>Permissions</ins> и поставьте галочку в поле "
+"<ins>Request email addresses from users</ins>. Обновите привилегии, нажав на"
+
+#: admin/help.php:190
+msgid ""
+"And now go to the <ins>Keys and Access Tokens</ins> tab, scroll down the "
+"page and click on"
+msgstr ""
+"После обновлений привилегий зайдите во вкладку <ins>Keys and Access Tokens</"
+"ins>, прокрутите страницу вниз и нажмите"
+
+#: admin/help.php:190
+msgid "Create my access token"
+msgstr ""
+
+#: admin/help.php:193
+msgid ""
+"After that, scroll up the page and copy your <ins>Consumer Key (API Key)</"
+"ins> and <ins>Consumer Secret (API Secret)</ins>"
+msgstr ""
+"Скопируйте <ins>Consumer Key (API Key)</ins> и <ins>Consumer Secret (API "
+"Secret)</ins>"
+
+#: admin/help.php:196
+msgid ""
+"Go back to <ins><strong>Ultimate Social Login</strong> Cofiguration</ins> "
+"and paste copied <strong>API Key</strong> and <strong>API Secret</strong> "
+"into the fields like on the screenshot"
+msgstr ""
+"Вернитесь на страницу плагина <ins><strong>Ultimate Social Login</strong></"
+"ins> в раздел <ins>Настройки</ins> и вставьте скопированные <strong>API Key</"
+"strong> и <strong>API Secret</strong> в соответствующие поля, как показано "
+"на скриншоте"
+
+#: admin/help.php:199
+msgid "and enjoyed Twitter Login"
+msgstr ", на этом настройка завершена"
+
+#: admin/help.php:205
+msgid "Configuring Instagram authorization"
+msgstr "Как подключить авторизацию через Instagram"
+
+#: admin/help.php:207
+msgid "Register a New Client"
+msgstr "Register a New Client"
+
+#: admin/help.php:210
+msgid ""
+"Fill out any required fields such as the <ins>Application Name</ins>, "
+"<ins>Description</ins>, <ins>Company Name</ins>, <ins>Website URL</ins>, "
+"<ins>Valid redirect URIs</ins>, <ins>Privacy Policy URL</ins>, <ins>Contact "
+"email</ins> and create your Client ID by clicking on"
+msgstr ""
+"Заполните поля: <ins>Application Name</ins>, <ins>Description</ins>, "
+"<ins>Company Name</ins>, <ins>Website URL</ins>, <ins>Valid redirect URIs</"
+"ins>, <ins>Privacy Policy URL</ins>, <ins>Contact email</ins> и "
+"зарегистрируйте Client ID, нажав на кнопку"
+
+#: admin/help.php:210
+msgid "Register"
+msgstr "Register"
+
+#: admin/help.php:216 admin/help.php:225
+msgid "Your Valid redirect URI:"
+msgstr "Valid redirect URI:"
+
+#: admin/help.php:221 admin/help.php:270 admin/help.php:456
+msgid "If the Friendly URI is activated, use this Callback URI"
+msgstr ""
+"Если включены Дружественные URL в настройках Osclass, то используйте этот "
+"Callback URI"
+
+#: admin/help.php:230
+msgid "After <ins>Client ID</ins> was created click on the"
+msgstr ""
+"После того, как вы зарегистрировали <ins>Client ID</ins> нажмите на кнопку"
+
+#: admin/help.php:230
+msgid "Manage"
+msgstr "Manage"
+
+#: admin/help.php:233
+msgid ""
+"To activate the <ins>Client ID</ins>, go to the <ins>Permissions</ins> tab "
+"and click"
+msgstr ""
+"Активируйте <ins>Client ID</ins>, перейдя на вкладку <ins>Permissions</ins> "
+"и нажав на"
+
+#: admin/help.php:233
+msgid "Start a submission"
+msgstr "Start a submission"
+
+#: admin/help.php:236
+msgid ""
+"On the next page, fill out all required fields such as the <ins>API use "
+"case</ins>, <ins>Video Screencast URL</ins> and click"
+msgstr ""
+"На открывшейся странице заполните поля: <ins>API use case</ins>, <ins>Video "
+"Screencast URL</ins> и нажмите"
+
+#: admin/help.php:236 admin/help.php:256
+msgid "Submit"
+msgstr "Submit"
+
+#: admin/help.php:236
+msgid ""
+"Once your request is reviewed and approved, authorization via instagram will "
+"work"
+msgstr ""
+"После того, как ваш запрос будет рассмотрен и одобрен, авторизация через "
+"Instagram будет полноценно работать"
+
+#: admin/help.php:239 admin/help.php:279
+msgid "After that, copy your <ins>Client ID</ins> and <ins>Client Secret</ins>"
+msgstr "Скопируйте <ins>Client ID</ins> и <ins>Client Secret</ins>"
+
+#: admin/help.php:242 admin/help.php:282 admin/help.php:357
+msgid ""
+"Go back to <ins><strong>Ultimate Social Login</strong> Cofiguration</ins> "
+"and paste copied <strong>Client ID</strong> and <strong>Client Secret</"
+"strong> into the fields like on the screenshot"
+msgstr ""
+"Вернитесь на страницу плагина <ins><strong>Ultimate Social Login</strong></"
+"ins> в раздел <ins>Настройки</ins> и вставьте скопированные <strong>Client "
+"ID</strong> и <strong>Client Secret</strong> в соответствующие поля, как "
+"показано на скриншоте"
+
+#: admin/help.php:245
+msgid "and enjoyed Instagram Login"
+msgstr ", на этом настройка завершена"
+
+#: admin/help.php:251
+msgid "Configuring Linkedin authorization"
+msgstr "Как подключить авторизацию через LinkedIn"
+
+#: admin/help.php:253
+msgid "Create Application"
+msgstr "Создать приложение"
+
+#: admin/help.php:256
+msgid ""
+"Fill out any required fields such as the <ins>Company Name</ins>, "
+"<ins>Application Name</ins>, <ins>Description</ins>, <ins>Website URL</ins>, "
+"<ins>Business Email</ins>, <ins>Business Phone</ins>, upload your "
+"<ins>Application Logo</ins> and select <ins>Application Use</ins>. And "
+"create your Application by clicking on"
+msgstr ""
+"Заполните поля: <ins>Название компании</ins>, <ins>Название приложения</"
+"ins>, <ins>Описание</ins>, <ins>URL-адрес веб-сайта</ins>, <ins>Рабочий "
+"адрес эл. почты</ins>, <ins>Рабочий телефон</ins>, загрузите <ins>Эмблему "
+"приложения</ins> и выберите <ins>Область применения приложения</ins>.  "
+"Создайте приложение, нажав на кнопку"
+
+#: admin/help.php:263
+msgid ""
+"On the next page, check the box <ins>r_emailaddress</ins> and provide your "
+"<ins>Authorized Redirect URLs</ins> and update settings by clicking on"
+msgstr ""
+"На следующей странице поставьте галочку напротив <ins>r_emailaddress</ins> и "
+"укажите <ins>Разрешённые URL-адреса перенаправления</ins>. Сохраните "
+"настройки, нажав на кнопке"
+
+#: admin/help.php:263
+msgid "Update"
+msgstr "Обновить"
+
+#: admin/help.php:265 admin/help.php:274 admin/help.php:311
+msgid "Your Authorized Redirect URL:"
+msgstr "Разрешённый URL-адрес:"
+
+#: admin/help.php:285
+msgid "and enjoyed LinkedIn Login"
+msgstr ", на этом настройка завершена"
+
+#: admin/help.php:291
+msgid "Configuring Windows Live authorization"
+msgstr "Как подключить авторизацию через Windows Live"
+
+#: admin/help.php:293
+msgid "Add an app"
+msgstr "Добавить приложение"
+
+#: admin/help.php:295
+msgid "SSL is required if you want to use Windows Live"
+msgstr ""
+"Для работы авторизации через Windows Live необходимо получить SSL-сертификат"
+
+#: admin/help.php:300
+msgid ""
+"Fill out any required fields such as the <ins>Application Name</ins>, "
+"<ins>Contact Email</ins>. And register your Application by clicking on"
+msgstr ""
+"Заполните поля: <ins>Application Name</ins>, <ins>Contact Email</ins>. "
+"Создайте приложение, нажав на кнопку"
+
+#: admin/help.php:300
+msgid "Create"
+msgstr "Создать"
+
+#: admin/help.php:303
+msgid "First of all, you need to add the platform by clicking on"
+msgstr "Прежде всего добавьте платформу, нажав на кнопку"
+
+#: admin/help.php:303
+msgid "Add Platform"
+msgstr "Добавление плафтормы"
+
+#: admin/help.php:306
+msgid "In the pop-up window click on the"
+msgstr "В открывшемся поп-ап окне нажмите на"
+
+#: admin/help.php:306
+msgid "Web"
+msgstr "Веб"
+
+#: admin/help.php:309
+msgid "Provide your <ins>Redirect URLs</ins>"
+msgstr "Укажите <ins>URL-адреса перенаправления</ins>"
+
+#: admin/help.php:318
+msgid "Now you need to <ins>Delegate Permissions</ins> by clicking on"
+msgstr "Теперь <ins>Делегируйте разрешения</ins>, нажав на"
+
+#: admin/help.php:318
+msgid "Add"
+msgstr "Добавить"
+
+#: admin/help.php:321
+msgid ""
+"In the pop-up window check boxes: <ins>email</ins>, <ins>openid</ins>, "
+"<ins>profile</ins> and click on the"
+msgstr ""
+"В открывшемся поп-ап окне поставьте галочки напротив: <ins>email</ins>, "
+"<ins>openid</ins>, <ins>profile</ins> и нажмите"
+
+#: admin/help.php:321 admin/help.php:327
+msgid "Ok"
+msgstr "Ок"
+
+#: admin/help.php:324
+msgid ""
+"Scroll up the page and <ins>Generate Application Secret</ins> by clicking on"
+msgstr ""
+"Прокрутите страницу вверх и <ins>Сгенерируйте новый пароль</ins>, нажав на "
+"кнопку"
+
+#: admin/help.php:324
+msgid "Generate New Password"
+msgstr "Создать новый пароль"
+
+#: admin/help.php:327
+msgid "Copy your generated <ins>Password</ins> and click on the"
+msgstr "Скопируйте сгенерированный <ins>Пароль</ins> и нажмите на"
+
+#: admin/help.php:330
+msgid ""
+"Copy your <ins>Application Id</ins> and <ins>Save changes</ins> by clicking "
+"on"
+msgstr ""
+"Скопируйте <ins>Код приложения</ins> и <ins>Сохраните изменения</ins>, нажав "
+"на"
+
+#: admin/help.php:333
+msgid ""
+"Go back to <ins><strong>Ultimate Social Login</strong> Cofiguration</ins> "
+"and paste copied <strong>Application Id</strong> and <strong>Password</"
+"strong> into the fields like on the screenshot"
+msgstr ""
+"Вернитесь на страницу плагина <ins><strong>Ultimate Social Login</strong></"
+"ins> в раздел <ins>Настройки</ins> и вставьте скопированные <strong>Код "
+"приложения</strong> и <strong>Пароль</strong> в соответствующие поля, как "
+"показано на скриншоте"
+
+#: admin/help.php:336
+msgid "and enjoyed Windows Live Login"
+msgstr ", на этом настройка завершена"
+
+#: admin/help.php:342
+msgid "Configuring Yahoo authorization"
+msgstr "Как подключить авторизацию через Yahoo"
+
+#: admin/help.php:344
+msgid "and <ins>create a new Application</ins>"
+msgstr "и <ins>создайте новое приложение</ins>"
+
+#: admin/help.php:346
+msgid ""
+"Fill out any required fields such as the <ins>Application Name</ins>, "
+"<ins>Home Page URL</ins>, <ins>Callback Domain</ins> and check boxes "
+"<ins>API Permissions</ins>: <strong>Contacts</strong> (Read/Write), "
+"<strong>Profiles</strong> (Read/Write Public and Private) and click on the"
+msgstr ""
+"Заполните поля: <ins>Application Name</ins>, <ins>Home Page URL</ins>, "
+"<ins>Callback Domain</ins> и поставьте галочки: <ins>API Permissions</ins>: "
+"<strong>Contacts</strong> (Read/Write), <strong>Profiles</strong> (Read/"
+"Write Public and Private). И создайте приложение, нажав на кнопку"
+
+#: admin/help.php:346
+msgid "Create app"
+msgstr "Create app"
+
+#: admin/help.php:348
+msgid "Your Home Page and Callback Domain URLs:"
+msgstr "Home Page и Callback Domain URL:"
+
+#: admin/help.php:360
+msgid "and enjoyed Yahoo Login"
+msgstr ", на этом настройка завершена"
+
+#: admin/help.php:366
+msgid "Configuring Classmates authorization"
+msgstr "Как подключить авторизацию через Одноклассники"
+
+#: admin/help.php:368
+msgid "and <ins>receive the developer rights</ins> by clicking on"
+msgstr ""
+"и <ins>отправьте запрос на получение прав разработчика</ins>, нажав на кнопку"
+
+#: admin/help.php:368
+msgid "Receive the developer rights"
+msgstr "Получить права разработчика"
+
+#: admin/help.php:370
+msgid "SSL is required if you want to use Classmates"
+msgstr ""
+"Для работы авторизации через Одноклассники необходимо получить SSL-сертификат"
+
+#: admin/help.php:375
+msgid "After you have gained developed rights, go to:"
+msgstr "После получения прав разработчика, перейдите по ссылке:"
+
+#: admin/help.php:375
+msgid "and <ins>Add your Application</ins> by clicking on"
+msgstr "и <ins>Добавьте приложение</ins>, нажав на"
+
+#: admin/help.php:375
+msgid "Add App"
+msgstr "Добавить приложение"
+
+#: admin/help.php:378
+msgid ""
+"Click on the <ins>Enable OAuth</ins> and fill out any required fields such "
+"as the <ins>Title</ins>, <ins>Image 128x128 (provide link to your Image)</"
+"ins>, <ins>List of permitted redirect_uri</ins> and click on the"
+msgstr ""
+"Нажмите <ins>Подключить OAuth</ins> и заполните следующие поля: "
+"<ins>Название</ins>, <ins>Картинка 128x128 </ins>(укажите ссылку на "
+"картинку), <ins>Список разрешённых  redirect_uri</ins> и нажмите"
+
+#: admin/help.php:380
+msgid "Your permitted redirect_uri:"
+msgstr "Разрешенный redirect_uri:"
+
+#: admin/help.php:385
+msgid ""
+"Check your E-mail and copy your <ins>Application ID</ins> and <ins>Secret "
+"Key</ins>"
+msgstr ""
+"Зайдите в свой E-mail и скопируйте, полученные: <ins>Application ID</ins> и "
+"<ins>Secret Key</ins>"
+
+#: admin/help.php:388
+msgid ""
+"Go back to <ins><strong>Ultimate Social Login</strong> Cofiguration</ins> "
+"and paste copied <strong>Application ID</strong> and <strong>Secret Key</"
+"strong> into the fields like on the screenshot"
+msgstr ""
+"Вернитесь на страницу плагина <ins><strong>Ultimate Social Login</strong></"
+"ins> в раздел <ins>Настройки</ins> и вставьте скопированные "
+"<strong>Application ID</strong> и <strong>Secret Key</strong> в "
+"соответствующие поля, как показано на скриншоте"
+
+#: admin/help.php:391
+msgid "and enjoyed Classmates Login"
+msgstr ", на этом настройка завершена"
+
+#: admin/help.php:397
+msgid "Configuring VKontakte authorization"
+msgstr "Как подключить авторизацию через Вконтакте"
+
+#: admin/help.php:399
+msgid ""
+"Select <ins>Website</ins>, fill out any required fields such as the "
+"<ins>Title</ins>, <ins>Site address</ins>, <ins>Base domain</ins> and "
+"<ins>create a new Application</ins> by clicking on"
+msgstr ""
+"Выберите <ins>Веб-сайт</ins> и заполните поля: <ins>Название</ins>, "
+"<ins>Адрес сайта</ins>, <ins>Базовый домен</ins> и  <ins>создайте "
+"приложение</ins>, нажав на кнопку"
+
+#: admin/help.php:399
+msgid "Connect Site"
+msgstr "Подключить сайт"
+
+#: admin/help.php:401
+msgid "Your Site address:"
+msgstr "Адрес сайта:"
+
+#: admin/help.php:406
+msgid ""
+"After creating a \"Project\", navigate to <ins>Settings</ins> using the left-"
+"hand menu. On the opened page copy your: <ins>Application ID</ins> and "
+"<ins>Secure key</ins>"
+msgstr ""
+"Зайдите в <ins>Настройки</ins> и скопируйте: <ins>ID приложения</ins> и "
+"<ins>Защищённый ключ</ins>"
+
+#: admin/help.php:409
+msgid ""
+"Go back to <ins><strong>Ultimate Social Login</strong> Cofiguration</ins> "
+"and paste copied <strong>Application ID</strong> and <strong>Secure key</"
+"strong> into the fields like on the screenshot"
+msgstr ""
+"Вернитесь на страницу плагина <ins><strong>Ultimate Social Login</strong></"
+"ins> в раздел <ins>Настройки</ins> и вставьте скопированные <strong>ID "
+"приложения</strong> и <strong>Защищённый ключ</strong> в соответствующие "
+"поля, как показано на скриншоте"
+
+#: admin/help.php:412
+msgid "and enjoyed Vkontakte Login"
+msgstr ", на этом настройка завершена"
+
+#: admin/help.php:418
+msgid "Configuring Mail.ru authorization"
+msgstr "Как подключить авторизацию через Mail.ru"
+
+#: admin/help.php:420
+msgid ""
+"Provide <ins>App Name</ins>, <ins>Base domain</ins> and <ins>create a new "
+"Application</ins> by clicking on"
+msgstr ""
+"Укажите <ins>Название</ins>, <ins>Адрес главной страницы</ins> и "
+"<ins>создайте приложение</ins>, нажав на кнопку"
+
+#: admin/help.php:420 admin/help.php:427
+msgid "Continue"
+msgstr "Продолжить"
+
+#: admin/help.php:422
+msgid "Your Base domain:"
+msgstr "Адрес главной страницы:"
+
+#: admin/help.php:427
+msgid ""
+"To confirm the rights to your domain, download the file and put it in the "
+"root of your site (as shown in the screenshot). After that click on the"
+msgstr ""
+"Чтобы подтвердить права на ваш домен, скачайте файл receiver.html и "
+"скопируйте его в корень сайта. После чего нажмите на кнопку"
+
+#: admin/help.php:429
+msgid "Link to your file:"
+msgstr "Ссылка на файл:"
+
+#: admin/help.php:434
+msgid "On the next page copy your <ins>ID</ins> and <ins>Secret Key</ins>"
+msgstr "Скопируйте <ins>ID</ins> и <ins>Секретный ключ</ins>"
+
+#: admin/help.php:437
+msgid ""
+"Go back to <ins><strong>Ultimate Social Login</strong> Cofiguration</ins> "
+"and paste copied <strong>ID</strong> and <strong>Secret key</strong> into "
+"the fields like on the screenshot"
+msgstr ""
+"Вернитесь на страницу плагина <ins><strong>Ultimate Social Login</strong></"
+"ins> в раздел <ins>Настройки</ins> и вставьте скопированные <strong>ID</"
+"strong> и <strong>Секретный ключ</strong> в соответствующие поля, как "
+"показано на скриншоте"
+
+#: admin/help.php:440
+msgid "and enjoyed Mailru Login"
+msgstr ", на этом настройка завершена"
+
+#: admin/help.php:446
+msgid "Configuring Yandex authorization"
+msgstr "Как подключить авторизацию через Яндекс"
+
+#: admin/help.php:448
+msgid ""
+"Provide <ins>App Name</ins>, <ins>Callback URL</ins>, check boxes: "
+"<ins>Access to Email</ins>, <ins>Access to Birthday</ins>, <ins>Access to "
+"Login</ins>, <ins>Access to Avatar</ins> and <ins>create a new Application</"
+"ins> by clicking on"
+msgstr ""
+"Укажите <ins>Название</ins>, <ins>Callback URL</ins>, поставьте галочки: "
+"<ins>Доступ к адресу электронной почты</ins>, <ins>Доступ к дате рождения</"
+"ins>, <ins>Доступ к логину, имени и фамилии, полу</ins>, <ins>Доступ к "
+"портрету пользователя</ins> и <ins>создайте приложение</ins>, нажав на кнопку"
+
+#: admin/help.php:460
+msgid "Callback URI:"
+msgstr ""
+
+#: admin/help.php:466
+msgid "On the next page copy your <ins>ID</ins> and <ins>Password</ins>"
+msgstr "Скопируйте <ins>ID</ins> и <ins>Пароль</ins>"
+
+#: admin/help.php:469
+msgid ""
+"Go back to <ins><strong>Ultimate Social Login</strong> Cofiguration</ins> "
+"and paste copied <strong>ID</strong> and <strong>Password</strong> into the "
+"fields like on the screenshot"
+msgstr ""
+"Вернитесь на страницу плагина <ins><strong>Ultimate Social Login</strong></"
+"ins> в раздел <ins>Настройки</ins> и вставьте скопированные <strong>ID</"
+"strong> и <strong>Пароль</strong> в соответствующие поля, как показано на "
+"скриншоте"
+
+#: admin/help.php:472
+msgid "and enjoyed Yandex Login"
+msgstr ", на этом настройка завершена"
+
+#: admin/left_menu.php:4
+msgid "Configuration"
+msgstr "Настройки"
+
+#: admin/left_menu.php:8
+msgid "Help"
+msgstr "Помощь"
+
+#: admin/settings.php:42
+msgid "Manage login social networks"
+msgstr "Настройка авторизации через социальные сети"
+
+#: admin/settings.php:64
+msgid " Public Key"
+msgstr ""
+
+#: admin/settings.php:81 classes/USLAdminSettings.php:61
+msgid "Configuration has been updated"
+msgstr "Настройки успешно изменены"
+
+#: admin/settings.php:84
+msgid "Save changes"
+msgstr "Сохранить"
+
+#: classes/USLUserAuth.php:203 user/twitter-auth.php:38
+msgid "You have been successfully authorized."
+msgstr "Вы успешно авторизованы."
+
+#: classes/USLUserAuth.php:210 user/twitter-auth.php:45
+msgid "Your authorization was declined."
+msgstr "В авторизации отказано. Ваш аккаунт заблокирован."
+
+#: classes/USLUserAuth.php:220
+msgid "Social provider not allowed."
+msgstr "Вход через выбранную соц. сеть невозможен."
+
+# Неизвестная ошибка. (пропущена буква С)
+#: classes/USLUserAuth.php:226
+msgid "Unknown error."
+msgstr "Неизвестная ошибка."
+
+#: classes/USLUserAuth.php:229
+msgid "Authentication configuration error."
+msgstr "Ошибка конфигурации Аутентификация."
+
+#: classes/USLUserAuth.php:232
+msgid "Provider is not correctly configured."
+msgstr "Социальная сеть настроена неправильно."
+
+#: classes/USLUserAuth.php:235
+msgid "Unknown or disabled provider."
+msgstr "Неизвестная или отключенная соц. сеть."
+
+#: classes/USLUserAuth.php:238
+msgid "No credentials provider applications."
+msgstr ""
+"Сайт не зарегистрирован в качестве Web-разработчика в данной соц. сети."
+
+#: classes/USLUserAuth.php:241
+msgid ""
+"Authentication failed. The user canceled the authentication or the provider "
+"declined the connection."
+msgstr ""
+"В авторизации отказано. Пользователь отменил авторизацию или соц. сеть "
+"отклонила соединение."
+
+#: classes/USLUserAuth.php:244
+msgid ""
+"Request User profile failed. Most likely, the user is not connected to the "
+"provider and he must authenticate again."
+msgstr ""
+"Запросить Профиль пользователя не удалось. Скорее всего, пользователь не "
+"зарегистрирован в выбранной соц. сети и он должен аутентифицироваться снова."
+
+#: classes/USLUserAuth.php:247
+msgid "The user is not connected to the provider."
+msgstr "Пользователь не зарегистрирован в выбранной соц. сети."
+
+#: classes/USLUserAuth.php:250
+msgid "The provider does not support this feature."
+msgstr "Соц. сеть не поддерживает данную функцию."
+
+#: classes/USLUserAuth.php:309
+msgid "Your account has been successfully created."
+msgstr "Аккаунт успешно зарегистрирован."
+
+#~ msgid "Provide a <ins>Project name</ins> and click"
+#~ msgstr "Введите <ins>Название проекта</ins> и нажмите на"
+
+#~ msgid ""
+#~ "After creating a \"Project\", navigate to <ins>Dashboard</ins> using the "
+#~ "left-hand menu. On the opened page, click on"
+#~ msgstr ""
+#~ "После того как проект будет создан, в меню слева кликните по ссылке "
+#~ "<ins>Панель управления</ins>. На открывшейся странице нажмите на"
+
+#~ msgid "Enable APIs and services"
+#~ msgstr "Включить API и сервисы"
+
+#~ msgid ""
+#~ "After <ins>Google APIs</ins> was activated, scroll down the page and "
+#~ "click on"
+#~ msgstr "Прокрутите страницу вниз и кликните на"
+
+#~ msgid "On the opened page click on"
+#~ msgstr "Теперь вам необходимо включить данное API, кликнув по кнопке"
+
+#~ msgid "Enable"
+#~ msgstr "Включить"
+
+#~ msgid ""
+#~ "After <ins>Google+ API</ins> was activated, navigate to <ins>Credentials</"
+#~ "ins> using the left-hand menu. On the opened page, click on"
+#~ msgstr ""
+#~ "Когда <ins>Google+ API</ins> будет успешно активировано, перейдите в "
+#~ "следующий раздел меню <ins>Учетные данные</ins>. На открывшейся странице "
+#~ "кликните по вкладке"
+
+#~ msgid "OAuth consent screen"
+#~ msgstr "Окно запроса доступа OAuth"
+
+#~ msgid "Provide your <ins>Product name shown to users</ins> and click on the"
+#~ msgstr ""
+#~ "Введите <ins>Название продукта, которое видят пользователи</ins> и нажмите"
+
+#~ msgid ""
+#~ "After that, go to the tab <ins>Credentials</ins>, click on the "
+#~ "<strong><ins>Create credentials</ins></strong> and select"
+#~ msgstr ""
+#~ "После сохранения данных о проекте, вернитесь на вкладку <ins>Учетные "
+#~ "данные</ins> и нажмите на <strong><ins>Создать учетные данные</ins></"
+#~ "strong>. В списке выберите"
+
+#~ msgid "OAuth client ID"
+#~ msgstr "Идентификатор клиента OAuth"
+
+#~ msgid ""
+#~ "On the next page select the <strong>\"Web application\"</strong> and "
+#~ "provide <ins>Name</ins>, <ins>Authorized JavaScript origins</ins> and "
+#~ "<ins>Authorized redirect URIs</ins>. Then click on the button:"
+#~ msgstr ""
+#~ "Выберите из списка пункт <strong>\"Веб приложение\"</strong> и заполните "
+#~ "следующие поля: <ins>Название</ins>, <ins>Разрешенные источники "
+#~ "JavaScript</ins> и <ins>Разрешенные URI перенаправления</ins>. После чего "
+#~ "нажмите на кнопке:"
+
+#~ msgid "Authorized JavaScript URI:"
+#~ msgstr "Ссылка на Разрешенные источники JavaScript:"
+
+#~ msgid "If the Friendly URI is activated, use this Authorized redirect URI"
+#~ msgstr ""
+#~ "Если включены Дружественные URL в настройках Osclass, то используйте этот "
+#~ "Authorized redirect URI"
+
+#~ msgid "If the Friendly URI is activated, use this Authorized Redirect URI"
+#~ msgstr ""
+#~ "Если включены Дружественные URL в настройках Osclass, то используйте этот "
+#~ "Authorized Redirect URI"
+
+#~ msgid "Login with:"
+#~ msgstr "Войдите с:"
+
+#~ msgid ""
+#~ "Go to <ins>Facebook Login =&gt; Settings</ins>,Use Strict Mode for "
+#~ "Redrirects Uri cahnge to Disable and provide your website url in the "
+#~ "<ins>Valid OAuth redirect URIs</ins> and click"
+#~ msgstr ""
+#~ "Перейдите в меню <ins>Вход через Facebook =&gt; Настройки</ins>,"
+#~ "Использовать строгий режим для URI перенаправления - включите Нет и "
+#~ "введите ваш домен сайта в поле <ins>Действительные URL-адреса для "
+#~ "перенаправления OAuth</ins>, после чего нажмите на кнопку"
+
+#~ msgid ""
+#~ "Check your E-mail and copy your <ins>Application ID</ins>, <ins>Public "
+#~ "Key</ins> and <ins>Secret Key</ins>"
+#~ msgstr ""
+#~ "Зайдите в свой E-mail и скопируйте, полученные: <ins>Application ID</"
+#~ "ins>, <ins>Public Key</ins> и <ins>Secret Key</ins>"
+
+#~ msgid ""
+#~ "Go back to <ins><strong>Ultimate Social Login</strong> Cofiguration</ins> "
+#~ "and paste copied <strong>Application ID</strong>, <strong>Public Key</"
+#~ "strong> and <strong>Secret Key</strong> into the fields like on the "
+#~ "screenshot"
+#~ msgstr ""
+#~ "Вернитесь на страницу плагина <ins><strong>Ultimate Social Login</"
+#~ "strong></ins> в раздел <ins>Настройки</ins> и вставьте скопированные "
+#~ "<strong>Application ID</strong>, <ins>Public Key</ins> и <strong>Secret "
+#~ "Key</strong> в соответствующие поля, как показано на скриншоте"
+
+#~ msgid ""
+#~ "Write to Odnoklassniki API team in api-support@odnoklassniki.ru to get "
+#~ "users e-mail access and enjoyed Classmates Login"
+#~ msgstr ""
+#~ ". Напишите в техподдержку API по E-mail: api-support@odnoklassniki.ru "
+#~ "письмо с просьбой предоставить вашему приложению доступ к E-mail "
+#~ "пользователям. На этом настройка завершена."
+
+#~ msgid "Odnoklassniki"
+#~ msgstr "Одноклассники"
+
+#~ msgid "Vkontakte"
+#~ msgstr "Вконтакте"
+
+#~ msgid "Yandex"
+#~ msgstr "Яндекс"

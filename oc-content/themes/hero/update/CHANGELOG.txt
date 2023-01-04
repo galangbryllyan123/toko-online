@@ -1,0 +1,14 @@
+================ Update version 1.7.0 ====================
+
+======== NEW FEATURES and UPDATE =======
+
+Update	theme version	( index.php, functions.php, admin/settings.php, admin/admin.php, footer.php )
+Update	logo from jpg to png	( admin/logo.php, functions.php )
+Update	List and grid active	( search.php )
+Bugs Fixed	fine uploader bugs css	( css/fineuploader.css )
+Update	Update hide price text	( item-post.php )
+Update	Support social connect plugin	( templates/plugin/fb.php )
+Update	website external link	( user-public_profile.php )
+Update	font awesome new version	( css/css, css/less, css/scss, css/fonts )
+
+=====================================================================

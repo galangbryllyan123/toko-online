@@ -1,0 +1,1163 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Elena Theme\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2015-05-06 11:22+0100\n"
+"PO-Revision-Date: 2015-05-06 11:22+0100\n"
+"Last-Translator: Miso <miso546@azet.sk>\n"
+"Language-Team: MB-Themes.com <michal.brezak@gmail.com>\n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.7\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;__;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: 404.php:12
+msgid "Page not found"
+msgstr ""
+
+#: alert-form.php:6
+msgid "You have sucessfully subscribed to the alert"
+msgstr ""
+
+#: alert-form.php:7
+msgid "Invalid email address"
+msgstr ""
+
+#: alert-form.php:8
+msgid "There was a problem with the alert"
+msgstr ""
+
+#: alert-form.php:51
+msgid "Subscribe now"
+msgstr ""
+
+#: contact.php:20
+msgid "Contact us"
+msgstr ""
+
+#: contact.php:26
+msgid "Subject"
+msgstr ""
+
+#: contact.php:26 contact.php:28 item-contact.php:30
+#: user-public-profile.php:116
+msgid "optional"
+msgstr ""
+
+#: contact.php:27 item-contact.php:31 item-send-friend.php:36 item.php:322
+#: user-public-profile.php:117
+msgid "Message"
+msgstr ""
+
+#: contact.php:28 item-contact.php:27 item-send-friend.php:31 item.php:312
+#: user-public-profile.php:114
+msgid "Your name"
+msgstr ""
+
+#: contact.php:29 item-contact.php:28 item-send-friend.php:32 item.php:317
+#: user-public-profile.php:115
+msgid "Your e-mail address"
+msgstr ""
+
+#: contact.php:31 item-send-friend.php:39 item.php:350
+#: user-public-profile.php:136
+msgid "Send"
+msgstr ""
+
+#: footer.php:15
+msgid "Go to home page"
+msgstr ""
+
+#: footer.php:15
+msgid "Home"
+msgstr ""
+
+#: footer.php:23 header.php:74 header.php:80
+msgid "Publish your ad for free"
+msgstr ""
+
+#: footer.php:32
+msgid "Useful information"
+msgstr ""
+
+#: footer.php:45
+msgid "Favorite categories"
+msgstr ""
+
+#: footer.php:56
+msgid "Latest listings"
+msgstr ""
+
+#: footer.php:68
+msgid "What is MB-Themes.com?"
+msgstr ""
+
+#: footer.php:80
+msgid "Contact"
+msgstr ""
+
+#: functions.php:155 inc.search.php:114 item-edit.php:140 item-edit.php:217
+#: item-post.php:148 item-post.php:224 main.php:29
+msgid "Select a category"
+msgstr ""
+
+#: functions.php:162
+msgid "All categories"
+msgstr ""
+
+#: functions.php:241
+msgid "Select a location"
+msgstr ""
+
+#: functions.php:242
+msgid "All locations"
+msgstr ""
+
+#: functions.php:364
+msgid "Theme settings updated correctly"
+msgstr ""
+
+#: functions.php:371
+msgid "The logo image has been uploaded correctly"
+msgstr ""
+
+#: functions.php:373 functions.php:376
+msgid "An error has occurred, please try again"
+msgstr ""
+
+#: functions.php:383
+msgid "The logo image has been removed"
+msgstr ""
+
+#: functions.php:385
+msgid "Image not found"
+msgstr ""
+
+#: functions.php:393 admin/header.php:5
+msgid "Header logo"
+msgstr ""
+
+#: functions.php:394 admin/settings.php:60
+msgid "Theme settings"
+msgstr ""
+
+#: functions.php:413
+msgid "Select a region..."
+msgstr ""
+
+#: functions.php:414 item-post.php:557 item-post.php:565
+msgid "Select region"
+msgstr ""
+
+#: functions.php:424 admin/settings.php:93
+msgid "Romania"
+msgstr ""
+
+#: functions.php:425
+msgid "ie. PHP Programmer"
+msgstr ""
+
+#: functions.php:426
+msgid "You can change this text via admin panel on theme settings."
+msgstr ""
+
+#: head.php:26
+msgid "No file selected"
+msgstr ""
+
+#: head.php:27
+msgid "Choose File"
+msgstr ""
+
+#: header.php:15
+#, php-format
+msgid "Hi %s"
+msgstr ""
+
+#: header.php:16
+msgid "My account"
+msgstr ""
+
+#: header.php:18 header.php:20
+msgid "Logout"
+msgstr ""
+
+#: header.php:26 item.php:302
+msgid "Login"
+msgstr ""
+
+#: header.php:29
+msgid "Register"
+msgstr ""
+
+#: header.php:39 item-edit.php:281 item-post.php:295 item.php:191
+#: user-login.php:17 user-profile.php:48 user-recover.php:17
+#: user-register.php:29
+msgid "E-mail"
+msgstr ""
+
+#: header.php:41 user-login.php:18 user-register.php:24
+msgid "Password"
+msgstr ""
+
+#: header.php:44 user-login.php:19
+msgid "Remember me"
+msgstr ""
+
+#: header.php:46 user-login.php:20
+msgid "Log in"
+msgstr ""
+
+#: header.php:48 user-login.php:22
+msgid "Forgot password?"
+msgstr ""
+
+#: header.php:59
+msgid "Language"
+msgstr ""
+
+#: header.php:83 inc.search.php:178
+msgid "Search in"
+msgstr ""
+
+#: header.php:83 inc.search.php:178
+msgid "active listings"
+msgstr ""
+
+#: header.php:116 search_gallery.php:19 search_gallery.php:65
+#: user-public-profile.php:66
+msgid "Premium"
+msgstr ""
+
+#: inc.search.php:111 inc.search.php:176
+msgid "Select category"
+msgstr ""
+
+#: inc.search.php:120
+msgid "Select location"
+msgstr ""
+
+#: inc.search.php:130 inc.search.php:139 search.php:39 search.php:187
+msgid "Search"
+msgstr ""
+
+#: inc.search.php:172
+msgid "listings"
+msgstr ""
+
+#: inc.search.php:173
+msgid "Sell in this category"
+msgstr ""
+
+#: item-contact.php:13 item.php:267 user-public-profile.php:102
+msgid "Contact seller"
+msgstr ""
+
+#: item-contact.php:21
+msgid "To (seller)"
+msgstr ""
+
+#: item-contact.php:22 item-send-friend.php:26 item.php:65
+msgid "Listing"
+msgstr ""
+
+#: item-contact.php:30 user-public-profile.php:116
+msgid "Phone number"
+msgstr ""
+
+#: item-contact.php:33 item.php:285
+msgid "Send message"
+msgstr ""
+
+#: item-edit.php:138 item-post.php:146
+msgid "Back"
+msgstr ""
+
+#: item-edit.php:205
+msgid "Edit listing"
+msgstr ""
+
+#: item-edit.php:214 item-post.php:220
+msgid "General Information"
+msgstr ""
+
+#: item-edit.php:216 item-post.php:222
+msgid "Category"
+msgstr ""
+
+#: item-edit.php:218 item-post.php:225
+msgid "or pick"
+msgstr ""
+
+#: item-edit.php:225 item-edit.php:227 item-post.php:233 search.php:157
+#: user-alerts.php:44 user-items.php:51
+msgid "Price"
+msgstr ""
+
+#: item-edit.php:229 item-post.php:237
+msgid "Select option"
+msgstr ""
+
+#: item-edit.php:230 item-post.php:238
+msgid "Free"
+msgstr ""
+
+#: item-edit.php:231 item-post.php:239
+msgid "Check with seller"
+msgstr ""
+
+#: item-edit.php:239 item-post.php:247
+msgid "Photos"
+msgstr ""
+
+#: item-edit.php:239 item-post.php:247
+msgid "Listings with photo are more effecient"
+msgstr ""
+
+#: item-edit.php:253 item-post.php:259
+msgid "Add new photo"
+msgstr ""
+
+#: item-edit.php:259 item-post.php:265 user-public-profile.php:44
+msgid "Location"
+msgstr ""
+
+#: item-edit.php:261 item-post.php:268 search.php:48 user-profile.php:69
+msgid "Country"
+msgstr ""
+
+#: item-edit.php:266 item-post.php:273 item.php:281 search.php:86
+#: user-profile.php:73
+msgid "Region"
+msgstr ""
+
+#: item-edit.php:270 item-post.php:278 item.php:280 search.php:120
+#: user-profile.php:77
+msgid "City"
+msgstr ""
+
+#: item-edit.php:275 item-post.php:291 user-register.php:30
+msgid "Mobil"
+msgstr ""
+
+#: item-edit.php:288 item-post.php:302
+msgid "Show email on listing page"
+msgstr ""
+
+#: item-edit.php:304 user-change_email.php:32 user-change_password.php:36
+#: user-profile.php:93
+msgid "Update"
+msgstr ""
+
+#: item-edit.php:305 user-profile.php:143
+msgid "Cancel"
+msgstr ""
+
+#: item-edit.php:405 item-edit.php:410 item-edit.php:417 item-edit.php:440
+#: item-edit.php:447 item-edit.php:449 item-edit.php:462 item-post.php:429
+#: item-post.php:434 item-post.php:441 item-post.php:464 item-post.php:471
+#: item-post.php:473 item-post.php:486 main.php:104 search.php:90
+#: search.php:366 search.php:371 search.php:378 search.php:399 search.php:406
+#: search.php:408 search.php:421
+msgid "Select a region"
+msgstr ""
+
+#: item-edit.php:413 item-edit.php:430 item-edit.php:431 item-edit.php:443
+#: item-edit.php:454 item-edit.php:456 item-edit.php:465 item-edit.php:486
+#: item-edit.php:491 item-edit.php:495 item-edit.php:507 item-post.php:437
+#: item-post.php:454 item-post.php:455 item-post.php:467 item-post.php:478
+#: item-post.php:480 item-post.php:489 item-post.php:511 item-post.php:516
+#: item-post.php:520 item-post.php:532 search.php:124 search.php:374
+#: search.php:391 search.php:392 search.php:402 search.php:413 search.php:415
+#: search.php:424 search.php:446 search.php:451 search.php:455 search.php:467
+msgid "Select a city"
+msgstr ""
+
+#: item-edit.php:420 item-post.php:444 search.php:97 search.php:381
+msgid "Enter a region"
+msgstr ""
+
+#: item-edit.php:423 item-edit.php:498 item-post.php:447 item-post.php:523
+#: search.php:131 search.php:384 search.php:458
+msgid "Enter a city"
+msgstr ""
+
+#: item-edit.php:497 item-post.php:522 search.php:457
+msgid "No cities found"
+msgstr ""
+
+#: item-post.php:213
+msgid "Add new listing"
+msgstr ""
+
+#: item-post.php:235
+msgid "or"
+msgstr ""
+
+#: item-post.php:285
+msgid "Seller's information"
+msgstr ""
+
+#: item-post.php:287 item.php:186 user-profile.php:35 user-register.php:23
+msgid "Name"
+msgstr ""
+
+#: item-post.php:322 user-items.php:43
+msgid "Publish"
+msgstr ""
+
+#: item-post.php:561 item-post.php:569
+msgid "Select city"
+msgstr ""
+
+#: item-send-friend.php:19 item.php:362
+msgid "Send to a friend"
+msgstr ""
+
+#: item-send-friend.php:34
+msgid "Your friend's name"
+msgstr ""
+
+#: item-send-friend.php:35
+msgid "Your friend's e-mail address"
+msgstr ""
+
+#: item.php:31
+msgid "This listing is expired!"
+msgstr ""
+
+#: item.php:50
+msgid "Mark as"
+msgstr ""
+
+#: item.php:52
+msgid "spam"
+msgstr ""
+
+#: item.php:53
+msgid "misclassified"
+msgstr ""
+
+#: item.php:54
+msgid "duplicated"
+msgstr ""
+
+#: item.php:55
+msgid "expired"
+msgstr ""
+
+#: item.php:56
+msgid "offensive"
+msgstr ""
+
+#: item.php:65
+msgid "Published date"
+msgstr ""
+
+#: item.php:73 item.php:81 item.php:88 item.php:103 search.php:139
+msgid "Photo"
+msgstr ""
+
+#: item.php:73 item.php:81 item.php:88 item.php:103
+msgid "of"
+msgstr ""
+
+#: item.php:110 item.php:422
+msgid "Expand gallery"
+msgstr ""
+
+#: item.php:119
+msgid "Details"
+msgstr ""
+
+#: item.php:141
+msgid "Comments"
+msgstr ""
+
+#: item.php:153
+msgid "by"
+msgstr ""
+
+#: item.php:157
+msgid "Delete your comment"
+msgstr ""
+
+#: item.php:157 user-items.php:56 user-profile.php:140
+msgid "Delete"
+msgstr ""
+
+#: item.php:174
+msgid "Add new comment"
+msgstr ""
+
+#: item.php:175
+msgid ""
+"Post any questions you have or your experience with this item or seller. All "
+"comments are moderated"
+msgstr ""
+
+#: item.php:188
+msgid "Real name or Username"
+msgstr ""
+
+#: item.php:193
+msgid "Will not be published"
+msgstr ""
+
+#: item.php:198
+msgid "Title"
+msgstr ""
+
+#: item.php:200
+msgid "Review, feedback or question"
+msgstr ""
+
+#: item.php:204
+msgid "This field is required"
+msgstr ""
+
+#: item.php:205
+msgid "Send comment"
+msgstr ""
+
+#: item.php:246
+msgid "Show profile of"
+msgstr ""
+
+#: item.php:256 item.php:259
+msgid "Unregistered user"
+msgstr ""
+
+#: item.php:268 user-profile.php:65 user-public-profile.php:42
+msgid "Phone"
+msgstr ""
+
+#: item.php:275
+msgid "No Phone Number"
+msgstr ""
+
+#: item.php:291
+msgid "This listing is expired, you cannot contact seller."
+msgstr ""
+
+#: item.php:295
+msgid "It's your own listing, you can't contact the publisher."
+msgstr ""
+
+#: item.php:299
+msgid ""
+"You must log in or register a new account in order to contact the advertiser"
+msgstr ""
+
+#: item.php:303 user-login.php:22
+msgid "Register for a free account"
+msgstr ""
+
+#: item.php:342 user-public-profile.php:129
+msgid "Enter the words above"
+msgstr ""
+
+#: item.php:344 user-public-profile.php:131
+msgid "Help"
+msgstr ""
+
+#: item.php:365
+msgid "Share on facebook"
+msgstr ""
+
+#: item.php:366
+msgid "Show QR code"
+msgstr ""
+
+#: item.php:427
+msgid "Collapse gallery"
+msgstr ""
+
+#: main.php:111
+msgid "Install ITALLY ROLLOVER MAP plugin to be able to see Itally map"
+msgstr ""
+
+#: main.php:122
+msgid "Latest Listings"
+msgstr ""
+
+#: main.php:124
+msgid "No Latest Listings"
+msgstr ""
+
+#: main.php:134 search_list.php:12 search_list.php:61
+msgid "premium"
+msgstr ""
+
+#: main.php:176
+msgid "See all offers"
+msgstr ""
+
+#: search.php:36
+msgid "Advanced search"
+msgstr ""
+
+#: search.php:59
+msgid "Select a country"
+msgstr ""
+
+#: search.php:147
+msgid "Show only listings with photo"
+msgstr ""
+
+#: search.php:163
+msgid "Price min."
+msgstr ""
+
+#: search.php:171
+msgid "Price max."
+msgstr ""
+
+#: search.php:197
+msgid "Categories"
+msgstr ""
+
+#: search.php:226
+msgid "Show more"
+msgstr ""
+
+#: search.php:256
+msgid "Change view:"
+msgstr ""
+
+#: search.php:260
+msgid "Switch to list view"
+msgstr ""
+
+#: search.php:262
+msgid "Switch to grid view"
+msgstr ""
+
+#: search.php:266
+msgid "All"
+msgstr ""
+
+#: search.php:267
+msgid "Personal"
+msgstr ""
+
+#: search.php:268
+msgid "Company"
+msgstr ""
+
+#: search.php:273
+msgid "Showing"
+msgstr ""
+
+#: search.php:273
+msgid "listings of"
+msgstr ""
+
+#: search.php:276
+msgid "Sort by"
+msgstr ""
+
+#: search.php:300
+#, php-format
+msgid "There are no results matching \"%s\""
+msgstr ""
+
+#: search_gallery.php:5 search_list.php:4
+msgid "Premium listings"
+msgstr ""
+
+#: search_gallery.php:50 search_list.php:50
+msgid "Other listings"
+msgstr ""
+
+#: user-alerts.php:14 user-change_email.php:12 user-change_password.php:12
+#: user-custom.php:12 user-dashboard.php:14 user-items.php:13
+#: user-profile.php:19
+msgid "User account manager"
+msgstr ""
+
+#: user-alerts.php:22
+msgid "Your alerts"
+msgstr ""
+
+#: user-alerts.php:24
+msgid "You do not have any alerts yet"
+msgstr ""
+
+#: user-alerts.php:29
+msgid "Alert"
+msgstr ""
+
+#: user-alerts.php:29
+msgid "This action can't be undone. Are you sure you want to continue?"
+msgstr ""
+
+#: user-alerts.php:29
+msgid "Delete this alert"
+msgstr ""
+
+#: user-alerts.php:43
+msgid "Publication date"
+msgstr ""
+
+#: user-alerts.php:50
+msgid "No listings fits to search/alert criteria"
+msgstr ""
+
+#: user-change_email.php:18
+msgid "Change your e-mail"
+msgstr ""
+
+#: user-change_email.php:24
+msgid "Current e-mail"
+msgstr ""
+
+#: user-change_email.php:28
+msgid "New e-mail"
+msgstr ""
+
+#: user-change_password.php:18
+msgid "Change your password"
+msgstr ""
+
+#: user-change_password.php:24
+msgid "Current password"
+msgstr ""
+
+#: user-change_password.php:28
+msgid "New password"
+msgstr ""
+
+#: user-change_password.php:32
+msgid "Repeat new password"
+msgstr ""
+
+#: user-dashboard.php:21
+msgid "Hello"
+msgstr ""
+
+#: user-dashboard.php:21
+msgid "welcome to your account"
+msgstr ""
+
+#: user-dashboard.php:23
+msgid "Your latest listings"
+msgstr ""
+
+#: user-dashboard.php:25
+msgid "No listings have been added yet"
+msgstr ""
+
+#: user-dashboard.php:35 user-items.php:55
+msgid "Edit"
+msgstr ""
+
+#: user-dashboard.php:37 user-items.php:58
+msgid "Activate"
+msgstr ""
+
+#: user-dashboard.php:46
+msgid "You have"
+msgstr ""
+
+#: user-dashboard.php:46
+msgid "alerts, you can check them in section"
+msgstr ""
+
+#: user-dashboard.php:46
+msgid "Manage your alerts"
+msgstr ""
+
+#: user-dashboard.php:53
+msgid "You profile is not complete!"
+msgstr ""
+
+#: user-dashboard.php:54
+msgid ""
+"We found that your profile is still not complete! Take a minute and enter as "
+"much information as possible, this will help you sell your stuffs faster."
+msgstr ""
+
+#: user-dashboard.php:56
+msgid ""
+"No phone number was entered. You should enter at least 1 phone number to "
+"your mobile or land phone"
+msgstr ""
+
+#: user-dashboard.php:57
+msgid "You did not entered your website"
+msgstr ""
+
+#: user-dashboard.php:58
+msgid "Country was not entered"
+msgstr ""
+
+#: user-dashboard.php:59
+msgid "Region was not entered"
+msgstr ""
+
+#: user-dashboard.php:60
+msgid "City was not entered"
+msgstr ""
+
+#: user-dashboard.php:61
+msgid "Address was not entered"
+msgstr ""
+
+#: user-dashboard.php:65
+msgid "Your profile is complete!"
+msgstr ""
+
+#: user-forgot_password.php:12 user-recover.php:12
+msgid "Recover your password"
+msgstr ""
+
+#: user-forgot_password.php:20
+msgid "New pasword"
+msgstr ""
+
+#: user-forgot_password.php:24
+msgid "Repeat new pasword"
+msgstr ""
+
+#: user-forgot_password.php:27
+msgid "Change password"
+msgstr ""
+
+#: user-items.php:20
+msgid "Your listings"
+msgstr ""
+
+#: user-items.php:22
+msgid "You do not have any listings yet"
+msgstr ""
+
+#: user-items.php:26
+msgid "Listing expired"
+msgstr ""
+
+#: user-items.php:44
+msgid "Expire"
+msgstr ""
+
+#: user-items.php:46
+msgid "never"
+msgstr ""
+
+#: user-items.php:56
+msgid "This action can not be undone. Are you sure you want to continue?"
+msgstr ""
+
+#: user-items.php:67
+msgid "Page: "
+msgstr ""
+
+#: user-login.php:12
+msgid "Access to your account"
+msgstr ""
+
+#: user-profile.php:26
+msgid "Update your profile"
+msgstr ""
+
+#: user-profile.php:39
+msgid "Username"
+msgstr ""
+
+#: user-profile.php:43
+msgid "Modify username"
+msgstr ""
+
+#: user-profile.php:52
+msgid "Modify e-mail"
+msgstr ""
+
+#: user-profile.php:53
+msgid "Modify password"
+msgstr ""
+
+#: user-profile.php:57
+msgid "User type"
+msgstr ""
+
+#: user-profile.php:61 user-public-profile.php:41
+msgid "Mobile phone"
+msgstr ""
+
+#: user-profile.php:81 user-public-profile.php:43
+msgid "Address"
+msgstr ""
+
+#: user-profile.php:85 user-public-profile.php:45
+msgid "Website"
+msgstr ""
+
+#: user-profile.php:89
+msgid "Information"
+msgstr ""
+
+#: user-profile.php:96
+msgid "Delete my account"
+msgstr ""
+
+#: user-profile.php:107
+msgid "More information about you will help you to sell your stuffs"
+msgstr ""
+
+#: user-profile.php:108
+msgid "Write just valid information"
+msgstr ""
+
+#: user-profile.php:109
+msgid ""
+"If you save at least 1 phone number, your possible customers will get to you "
+"much faster"
+msgstr ""
+
+#: user-profile.php:110
+msgid "You can choose if you are Company or Person"
+msgstr ""
+
+#: user-profile.php:111
+msgid ""
+"If you have list of your products on own website, save it to your profile"
+msgstr ""
+
+#: user-profile.php:116
+msgid "Delete account"
+msgstr ""
+
+#: user-profile.php:119
+msgid ""
+"All your listings and alerts will be removed, this action can not be undone."
+msgstr ""
+
+#: user-public-profile.php:32
+#, php-format
+msgid "%s's profile"
+msgstr ""
+
+#: user-public-profile.php:38
+msgid "User details"
+msgstr ""
+
+#: user-public-profile.php:40
+msgid "Full name"
+msgstr ""
+
+#: user-public-profile.php:46
+msgid "Description"
+msgstr ""
+
+#: user-public-profile.php:52
+msgid "User listings"
+msgstr ""
+
+#: user-recover.php:19
+msgid "Send me a new password"
+msgstr ""
+
+#: user-register.php:14
+msgid "Register an account for free"
+msgstr ""
+
+#: user-register.php:25
+msgid "Re-type password"
+msgstr ""
+
+#: user-register.php:27
+msgid "Passwords don't match"
+msgstr ""
+
+#: user-register.php:40
+msgid "Create"
+msgstr ""
+
+#: admin/header.php:8
+msgid "Preview"
+msgstr ""
+
+#: admin/header.php:15
+msgid "Remove logo"
+msgstr ""
+
+#: admin/header.php:23
+msgid "No logo has been uploaded yet"
+msgstr ""
+
+#: admin/header.php:26
+msgid "Upload logo"
+msgstr ""
+
+#: admin/header.php:28
+msgid "The preferred size of the logo is 600x100."
+msgstr ""
+
+#: admin/header.php:30
+msgid ""
+"<strong>Note:</strong> Uploading another logo will overwrite the current "
+"logo."
+msgstr ""
+
+#: admin/header.php:38
+msgid "Logo image (png,gif,jpg)"
+msgstr ""
+
+#: admin/header.php:44
+msgid "Upload"
+msgstr ""
+
+#: admin/header.php:53
+#, php-format
+msgid "The images folder <strong>%s</strong> is not writable on your server"
+msgstr ""
+
+#: admin/header.php:54
+msgid "OSClass can't upload the logo image from the administration panel."
+msgstr ""
+
+#: admin/header.php:55
+msgid "Please make the aforementioned image folder writable."
+msgstr ""
+
+#: admin/header.php:60
+msgid ""
+"To make a directory writable under UNIX execute this command from the shell:"
+msgstr ""
+
+#: admin/settings.php:22 admin/settings.php:45
+msgid "extension not allowed, only allowed extension is .png!"
+msgstr ""
+
+#: admin/settings.php:27
+msgid "Small image #"
+msgstr ""
+
+#: admin/settings.php:27 admin/settings.php:50
+msgid " uploaded successfully."
+msgstr ""
+
+#: admin/settings.php:30
+msgid "There was error when uploading small image #"
+msgstr ""
+
+#: admin/settings.php:50
+msgid "Large image #"
+msgstr ""
+
+#: admin/settings.php:53
+msgid "There was error when uploading large image #"
+msgstr ""
+
+#: admin/settings.php:66
+msgid "Search placeholder"
+msgstr ""
+
+#: admin/settings.php:71
+msgid "Default logo"
+msgstr ""
+
+#: admin/settings.php:73
+msgid "Show default logo in case you didn't upload one previously"
+msgstr ""
+
+#: admin/settings.php:78
+msgid "Footer description"
+msgstr ""
+
+#: admin/settings.php:83
+msgid "Use Drag & Drop photo uploader"
+msgstr ""
+
+#: admin/settings.php:85
+msgid "Use new Drag & Drop image uploader instead old one"
+msgstr ""
+
+#: admin/settings.php:90
+msgid "Map on homepage"
+msgstr ""
+
+#: admin/settings.php:94
+msgid "Angola"
+msgstr ""
+
+#: admin/settings.php:95
+msgid "Belgium"
+msgstr ""
+
+#: admin/settings.php:96
+msgid "Brazil"
+msgstr ""
+
+#: admin/settings.php:97
+msgid "Switzerland"
+msgstr ""
+
+#: admin/settings.php:98
+msgid "Spain"
+msgstr ""
+
+#: admin/settings.php:99
+msgid "France"
+msgstr ""
+
+#: admin/settings.php:100
+msgid "Hungary"
+msgstr ""
+
+#: admin/settings.php:101
+msgid "Indonesia"
+msgstr ""
+
+#: admin/settings.php:102
+msgid "Japan"
+msgstr ""
+
+#: admin/settings.php:103
+msgid "Malaysia"
+msgstr ""
+
+#: admin/settings.php:104
+msgid "Morocco"
+msgstr ""
+
+#: admin/settings.php:105
+msgid "Portugal"
+msgstr ""
+
+#: admin/settings.php:106
+msgid "Ukraine"
+msgstr ""
+
+#: admin/settings.php:107
+msgid "Germany"
+msgstr ""
+
+#: admin/settings.php:108
+msgid "Italy"
+msgstr ""
+
+#: admin/settings.php:109
+msgid "None"
+msgstr ""
+
+#: admin/settings.php:116
+msgid "Save changes"
+msgstr ""
+
+#: admin/settings.php:165
+msgid "Save images"
+msgstr ""
+
+#: admin/settings.php:183
+msgid "Add small image"
+msgstr ""
+
+#: admin/settings.php:191
+msgid "Add large image"
+msgstr ""
